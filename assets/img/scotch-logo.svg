@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 80" width="250" height="60">
+    <defs>
+        <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#00e5ff" />
+            <stop offset="100%" stop-color="#0055ff" />
+        </linearGradient>
+    </defs>
+    <!-- Cyber Shield Icon -->
+    <path d="M 40 10 L 15 20 L 15 45 C 15 65 25 75 40 80 C 55 75 65 65 65 45 L 65 20 Z" fill="none" stroke="url(#glow)" stroke-width="4"/>
+    <path d="M 40 25 L 25 32 L 25 45 C 25 55 35 65 40 70 C 45 65 55 55 55 45 L 55 32 Z" fill="url(#glow)" opacity="0.8"/>
+    
+    <!-- Lock Core -->
+    <circle cx="40" cy="42" r="6" fill="#ffffff" />
+    <path d="M 40 48 L 40 56" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+    
+    <!-- Main Typography -->
+    <text x="85" y="45" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-weight="800" font-size="30" fill="#ffffff" letter-spacing="1.5">SCOTCH</text>
+    <text x="85" y="68" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-weight="600" font-size="18" fill="#00e5ff" letter-spacing="3.5">SECURITY</text>
+</svg>
