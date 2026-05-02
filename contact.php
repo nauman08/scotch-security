@@ -4,18 +4,339 @@ $metaDescription = 'Get in touch with Scotch Security for top-tier cybersecurity
 require_once 'header.php';
 ?>
 
-<link rel='stylesheet' id='elementor-post-25-css' href='assets/css/080891e0f82b4d874c66703e714fc448_post-25.css' type='text/css' media='all' />
-<link rel='stylesheet' id='pxl-datetimepicker-css' href='assets/css/41499861c27cb54a3b599da869eec46d_datetimepicker.css' type='text/css' media='all' />
-<div id="pxl-page-title-default" class="pxl--parallax section-dark" data-stellar-background-ratio="0.5"><div class="container"><div class="row"><div class="col-lg-6"><div class="ptitle-content"><h1 class="pxl-page-title">Contact Us</h1><ul class="pxl-breadcrumb"><li><a class="breadcrumb-entry" href="index.php">Home</a></li><li><span class="breadcrumb-entry">Contact Us</span></li></ul></div></div><div class="col-lg-6 ptitle-right"><h3 class="pxl-ptitle-text"> &quot;Prevention is cheaper than a breach&quot;</h3></div></div></div></div><div id="pxl-main"><div class="elementor-container"><div class="row pxl-content-wrap no-sidebar"><div id="pxl-content-area" class="pxl-content-area pxl-content-page col-12"><main id="pxl-content-main"><article id="pxl-post-25" class="post-25 page type-page status-publish hentry"><div class="pxl-entry-content clearfix"><div data-elementor-type="wp-page" data-elementor-id="25" class="elementor elementor-25"><div class="elementor-element elementor-element-36d23f8 e-flex e-con-boxed pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-parent " data-id="36d23f8" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"><div class="e-con-inner"><div class="elementor-element elementor-element-1f0b6ef e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="1f0b6ef" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-f9ea3af elementor-widget elementor-widget-pxl_text_editor" data-id="f9ea3af" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_text_editor.default"><div class="elementor-widget-container"><div id="pxl_text_editor-f9ea3af-6503" class="pxl-image-wg" duration="1"><div class="pxl-text-editor"><div class="pxl-item--inner " data-wow-delay="ms"><p>Send Your Message</p></div></div></div></div></div><div class="elementor-element elementor-element-96dc353 elementor-widget elementor-widget-pxl_text_editor" data-id="96dc353" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_text_editor.default"><div class="elementor-widget-container"><div id="pxl_text_editor-96dc353-1277" class="pxl-image-wg" duration="1"><div class="pxl-text-editor"><div class="pxl-item--inner " data-wow-delay="ms"><p class="mb-0">Whether you have a question, a suggestion, or just want to say hello, this is the place to do it. Please fill out the form below with your details and message, and we&#8217;ll get back to you as soon as possible.</p></div></div></div></div></div></div><div class="elementor-element elementor-element-5b93832 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="5b93832" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-67bac82 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="67bac82" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"><div class="elementor-element elementor-element-630fb67 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="630fb67" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-684764d elementor-widget elementor-widget-pxl_image" data-id="684764d" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_image.default"><div class="elementor-widget-container"><div id="pxl_image-684764d-8074" class="pxl-image-single  style-default " data-wow-delay="ms" ><div class="pxl-item--inner " data-wow-delay="120ms"><div class="pxl-item--bg bg-image " data-wow-delay="ms" style="background-image: url(assets/img/7c4a30d298a5be39764dd738694967d3_img-contact1.jpg);"></div></div></div></div></div></div><div class="elementor-element elementor-element-46fbe7d e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="46fbe7d" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-401651d e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="401651d" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-2cff927 elementor-widget elementor-widget-pxl_list" data-id="2cff927" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_list.default"><div class="elementor-widget-container"><div class="pxl-list pxl-list1 style-default"><div class="pxl--item " data-wow-delay="ms"> <a class="pxl-item-link" ><div class="pxl-item--icon"> <i aria-hidden="true" class="fas fa-map-marker-alt"></i></div><div class="pxl-item--text el-empty"> <span>Office Location</span></div> </a></div></div></div></div><div class="elementor-element elementor-element-41d22d8 elementor-widget elementor-widget-pxl_text_editor" data-id="41d22d8" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_text_editor.default"><div class="elementor-widget-container"><div id="pxl_text_editor-41d22d8-4517" class="pxl-image-wg" duration="1"><div class="pxl-text-editor"><div class="pxl-item--inner " data-wow-delay="ms"><p> 123 Cyber Street, Los Angeles, CA</p></div></div></div></div></div><div class="elementor-element elementor-element-b4f93ff elementor-widget elementor-widget-pxl_list" data-id="b4f93ff" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_list.default"><div class="elementor-widget-container"><div class="pxl-list pxl-list1 style-default"><div class="pxl--item " data-wow-delay="ms"> <a class="pxl-item-link" ><div class="pxl-item--icon"> <i aria-hidden="true" class="fas fa-phone-alt"></i></div><div class="pxl-item--text el-empty"> <span>Call Us Directly</span></div> </a></div></div></div></div><div class="elementor-element elementor-element-1875fc5 elementor-widget elementor-widget-pxl_text_editor" data-id="1875fc5" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_text_editor.default"><div class="elementor-widget-container"><div id="pxl_text_editor-1875fc5-8803" class="pxl-image-wg" duration="1"><div class="pxl-text-editor"><div class="pxl-item--inner " data-wow-delay="ms"><p>+1 123 456 78</p></div></div></div></div></div><div class="elementor-element elementor-element-dc6784f elementor-widget elementor-widget-pxl_list" data-id="dc6784f" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_list.default"><div class="elementor-widget-container"><div class="pxl-list pxl-list1 style-default"><div class="pxl--item " data-wow-delay="ms"> <a class="pxl-item-link" ><div class="pxl-item--icon"> <i aria-hidden="true" class="fas fa-envelope"></i></div><div class="pxl-item--text el-empty"> <span>Send a Message</span></div> </a></div></div></div></div><div class="elementor-element elementor-element-68266e8 elementor-widget elementor-widget-pxl_text_editor" data-id="68266e8" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_text_editor.default"><div class="elementor-widget-container"><div id="pxl_text_editor-68266e8-4124" class="pxl-image-wg" duration="1"><div class="pxl-text-editor"><div class="pxl-item--inner " data-wow-delay="ms"><p>salman.anjum@scotchsecurity.com</p></div></div></div></div></div></div></div></div><div class="elementor-element elementor-element-fb5fb9b e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="fb5fb9b" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-5468e34 elementor-widget elementor-widget-pxl_contact_form" data-id="5468e34" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_contact_form.default"><div class="elementor-widget-container"><div class="pxl-contact-form pxl-contact-form1 notice-style1 box-style-none btn-w-auto " data-wow-delay="ms"><div class="wpcf7 no-js" id="wpcf7-f727-p25-o1" lang="en-US" dir="ltr" data-wpcf7-id="727"><div class="screen-reader-response">
-<?php if(isset($_GET['status'])): ?>
-    <?php if($_GET['status'] == 'success'): ?>
-        <div class="alert alert-success" style="padding: 15px; margin-bottom: 20px; border: 1px solid transparent; border-radius: 4px; color: #3c763d; background-color: #dff0d8; border-color: #d6e9c6;">Thank you for your message. It has been sent.</div>
-    <?php elseif($_GET['status'] == 'error'): ?>
-        <div class="alert alert-danger" style="padding: 15px; margin-bottom: 20px; border: 1px solid transparent; border-radius: 4px; color: #a94442; background-color: #f2dede; border-color: #ebccd1;">One or more fields have an error. Please check and try again.</div>
-    <?php elseif($_GET['status'] == 'server_error'): ?>
-        <div class="alert alert-danger" style="padding: 15px; margin-bottom: 20px; border: 1px solid transparent; border-radius: 4px; color: #a94442; background-color: #f2dede; border-color: #ebccd1;">Server error while sending email. Please try again later.</div>
-    <?php endif; ?>
-<?php endif; ?>
-</div><form action="process_contact.php" method="post" class="custom-contact-form" aria-label="Contact form"><fieldset class="hidden-fields-container"><input type="hidden" name="_wpcf7" value="727" /><input type="hidden" name="_wpcf7_version" value="6.1.5" /><input type="hidden" name="_wpcf7_locale" value="en_US" /><input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f727-p25-o1" /><input type="hidden" name="_wpcf7_container_post" value="25" /><input type="hidden" name="_wpcf7_posted_data_hash" value="" /></fieldset><div class="contact2"><div class="pxl-contact-inner"><div class="pxl-item-name"><div class="input-filled name"><p><span class="wpcf7-form-control-wrap" data-name="text-707"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your Name" value="" type="text" name="text-707" /></span></p></div></div><div class="pxl-item-email"><div class="input-filled email"><p><span class="wpcf7-form-control-wrap" data-name="email-761"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Your Email" value="" type="email" name="email-761" /></span></p></div></div><div class="pxl-item-phone"><div class="input-filled phone"><p><span class="wpcf7-form-control-wrap" data-name="tel-733"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="Your Phone" value="" type="tel" name="tel-733" /></span></p></div></div><div class="pxl-item-message"><div class="input-filled message"><p><span class="wpcf7-form-control-wrap" data-name="textarea-648"><textarea cols="40" rows="10" maxlength="2000" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your Message" name="textarea-648"></textarea></span></p></div></div><div class="ct-button"><p><button class="btn btn-primary" type="submit" data-animation="pxl-xspin">Send Message</button></p></div></div></div></form></div></div></div></div></div></div></div></div></div></div></article></main></div></div></div></div><!-- #main -->
+<link rel='stylesheet' id='elementor-post-25-css' href='assets/css/080891e0f82b4d874c66703e714fc448_post-25.css'
+    type='text/css' media='all' />
+<link rel='stylesheet' id='pxl-datetimepicker-css' href='assets/css/41499861c27cb54a3b599da869eec46d_datetimepicker.css'
+    type='text/css' media='all' />
+<div id="pxl-page-title-default" class="pxl--parallax section-dark" data-stellar-background-ratio="0.5">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="ptitle-content">
+                    <h1 class="pxl-page-title">Contact Us</h1>
+                    <ul class="pxl-breadcrumb">
+                        <li><a class="breadcrumb-entry" href="index.php">Home</a></li>
+                        <li><span class="breadcrumb-entry">Contact Us</span></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-6 ptitle-right">
+                <h3 class="pxl-ptitle-text"> &quot;Trusted Consultancy. Simplified Compliance&quot;</h3>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="pxl-main">
+    <div class="elementor-container">
+        <div class="row pxl-content-wrap no-sidebar">
+            <div id="pxl-content-area" class="pxl-content-area pxl-content-page col-12">
+                <main id="pxl-content-main">
+                    <article id="pxl-post-25" class="post-25 page type-page status-publish hentry">
+                        <div class="pxl-entry-content clearfix">
+                            <div data-elementor-type="wp-page" data-elementor-id="25" class="elementor elementor-25">
+                                <div class="elementor-element elementor-element-36d23f8 e-flex e-con-boxed pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-parent "
+                                    data-id="36d23f8" data-element_type="container" data-e-type="container"
+                                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                    <div class="e-con-inner">
+                                        <div class="elementor-element elementor-element-1f0b6ef e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                            data-id="1f0b6ef" data-element_type="container" data-e-type="container">
+                                            <div class="elementor-element elementor-element-f9ea3af elementor-widget elementor-widget-pxl_text_editor"
+                                                data-id="f9ea3af" data-element_type="widget" data-e-type="widget"
+                                                data-widget_type="pxl_text_editor.default">
+                                                <div class="elementor-widget-container">
+                                                    <div id="pxl_text_editor-f9ea3af-6503" class="pxl-image-wg"
+                                                        duration="1">
+                                                        <div class="pxl-text-editor">
+                                                            <div class="pxl-item--inner " data-wow-delay="ms">
+                                                                <p>Send Your Message</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="elementor-element elementor-element-96dc353 elementor-widget elementor-widget-pxl_text_editor"
+                                                data-id="96dc353" data-element_type="widget" data-e-type="widget"
+                                                data-widget_type="pxl_text_editor.default">
+                                                <div class="elementor-widget-container">
+                                                    <div id="pxl_text_editor-96dc353-1277" class="pxl-image-wg"
+                                                        duration="1">
+                                                        <div class="pxl-text-editor">
+                                                            <div class="pxl-item--inner " data-wow-delay="ms">
+                                                                <p class="mb-0">Whether you have a question, a
+                                                                    suggestion, or just want to say hello, this is the
+                                                                    place to do it. Please fill out the form below with
+                                                                    your details and message, and we&#8217;ll get back
+                                                                    to you as soon as possible.</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-5b93832 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                            data-id="5b93832" data-element_type="container" data-e-type="container">
+                                            <div class="elementor-element elementor-element-67bac82 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                                data-id="67bac82" data-element_type="container" data-e-type="container"
+                                                data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                                <div class="elementor-element elementor-element-630fb67 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                                    data-id="630fb67" data-element_type="container"
+                                                    data-e-type="container">
+                                                    <div class="elementor-element elementor-element-684764d elementor-widget elementor-widget-pxl_image"
+                                                        data-id="684764d" data-element_type="widget"
+                                                        data-e-type="widget" data-widget_type="pxl_image.default">
+                                                        <div class="elementor-widget-container">
+                                                            <div id="pxl_image-684764d-8074"
+                                                                class="pxl-image-single  style-default "
+                                                                data-wow-delay="ms">
+                                                                <div class="pxl-item--inner " data-wow-delay="120ms">
+                                                                    <div class="pxl-item--bg bg-image "
+                                                                        data-wow-delay="ms"
+                                                                        style="background-image: url(assets/img/7c4a30d298a5be39764dd738694967d3_img-contact1.jpg);">
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-46fbe7d e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                                    data-id="46fbe7d" data-element_type="container"
+                                                    data-e-type="container">
+                                                    <div class="elementor-element elementor-element-401651d e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                                        data-id="401651d" data-element_type="container"
+                                                        data-e-type="container">
+                                                        <div class="elementor-element elementor-element-2cff927 elementor-widget elementor-widget-pxl_list"
+                                                            data-id="2cff927" data-element_type="widget"
+                                                            data-e-type="widget" data-widget_type="pxl_list.default">
+                                                            <div class="elementor-widget-container">
+                                                                <div class="pxl-list pxl-list1 style-default">
+                                                                    <div class="pxl--item " data-wow-delay="ms"> <a
+                                                                            class="pxl-item-link">
+                                                                            <div class="pxl-item--icon"> <i
+                                                                                    aria-hidden="true"
+                                                                                    class="fas fa-map-marker-alt"></i>
+                                                                            </div>
+                                                                            <div class="pxl-item--text el-empty">
+                                                                                <span>Office Location</span>
+                                                                            </div>
+                                                                        </a></div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="elementor-element elementor-element-41d22d8 elementor-widget elementor-widget-pxl_text_editor"
+                                                            data-id="41d22d8" data-element_type="widget"
+                                                            data-e-type="widget"
+                                                            data-widget_type="pxl_text_editor.default">
+                                                            <div class="elementor-widget-container">
+                                                                <div id="pxl_text_editor-41d22d8-4517"
+                                                                    class="pxl-image-wg" duration="1">
+                                                                    <div class="pxl-text-editor">
+                                                                        <div class="pxl-item--inner "
+                                                                            data-wow-delay="ms">
+                                                                            <p> 123 Cyber Street, Los Angeles, CA</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="elementor-element elementor-element-b4f93ff elementor-widget elementor-widget-pxl_list"
+                                                            data-id="b4f93ff" data-element_type="widget"
+                                                            data-e-type="widget" data-widget_type="pxl_list.default">
+                                                            <div class="elementor-widget-container">
+                                                                <div class="pxl-list pxl-list1 style-default">
+                                                                    <div class="pxl--item " data-wow-delay="ms"> <a
+                                                                            class="pxl-item-link">
+                                                                            <div class="pxl-item--icon"> <i
+                                                                                    aria-hidden="true"
+                                                                                    class="fas fa-phone-alt"></i></div>
+                                                                            <div class="pxl-item--text el-empty">
+                                                                                <span>Call Us Directly</span>
+                                                                            </div>
+                                                                        </a></div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="elementor-element elementor-element-1875fc5 elementor-widget elementor-widget-pxl_text_editor"
+                                                            data-id="1875fc5" data-element_type="widget"
+                                                            data-e-type="widget"
+                                                            data-widget_type="pxl_text_editor.default">
+                                                            <div class="elementor-widget-container">
+                                                                <div id="pxl_text_editor-1875fc5-8803"
+                                                                    class="pxl-image-wg" duration="1">
+                                                                    <div class="pxl-text-editor">
+                                                                        <div class="pxl-item--inner "
+                                                                            data-wow-delay="ms">
+                                                                            <p>+1 123 456 78</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="elementor-element elementor-element-dc6784f elementor-widget elementor-widget-pxl_list"
+                                                            data-id="dc6784f" data-element_type="widget"
+                                                            data-e-type="widget" data-widget_type="pxl_list.default">
+                                                            <div class="elementor-widget-container">
+                                                                <div class="pxl-list pxl-list1 style-default">
+                                                                    <div class="pxl--item " data-wow-delay="ms"> <a
+                                                                            class="pxl-item-link">
+                                                                            <div class="pxl-item--icon"> <i
+                                                                                    aria-hidden="true"
+                                                                                    class="fas fa-envelope"></i></div>
+                                                                            <div class="pxl-item--text el-empty">
+                                                                                <span>Send a Message</span>
+                                                                            </div>
+                                                                        </a></div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="elementor-element elementor-element-68266e8 elementor-widget elementor-widget-pxl_text_editor"
+                                                            data-id="68266e8" data-element_type="widget"
+                                                            data-e-type="widget"
+                                                            data-widget_type="pxl_text_editor.default">
+                                                            <div class="elementor-widget-container">
+                                                                <div id="pxl_text_editor-68266e8-4124"
+                                                                    class="pxl-image-wg" duration="1">
+                                                                    <div class="pxl-text-editor">
+                                                                        <div class="pxl-item--inner "
+                                                                            data-wow-delay="ms">
+                                                                            <p>salman.anjum@scotchsecurity.com</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="elementor-element elementor-element-fb5fb9b e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                                data-id="fb5fb9b" data-element_type="container" data-e-type="container">
+                                                <div class="elementor-element elementor-element-5468e34 elementor-widget elementor-widget-pxl_contact_form"
+                                                    data-id="5468e34" data-element_type="widget" data-e-type="widget"
+                                                    data-widget_type="pxl_contact_form.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div class="pxl-contact-form pxl-contact-form1 notice-style1 box-style-none btn-w-auto "
+                                                            data-wow-delay="ms">
+                                                            <div class="wpcf7 no-js" id="wpcf7-f727-p25-o1" lang="en-US"
+                                                                dir="ltr" data-wpcf7-id="727">
+                                                                <div class="screen-reader-response">
+                                                                    <?php if (isset($_GET['status'])): ?>
+                                                                        <?php if ($_GET['status'] == 'success'): ?>
+                                                                            <div class="alert alert-success"
+                                                                                style="padding: 15px; margin-bottom: 20px; border: 1px solid transparent; border-radius: 4px; color: #3c763d; background-color: #dff0d8; border-color: #d6e9c6;">
+                                                                                Thank you for your message. It has been sent.
+                                                                            </div>
+                                                                        <?php elseif ($_GET['status'] == 'error'): ?>
+                                                                            <div class="alert alert-danger"
+                                                                                style="padding: 15px; margin-bottom: 20px; border: 1px solid transparent; border-radius: 4px; color: #a94442; background-color: #f2dede; border-color: #ebccd1;">
+                                                                                One or more fields have an error. Please check
+                                                                                and try again.</div>
+                                                                        <?php elseif ($_GET['status'] == 'server_error'): ?>
+                                                                            <div class="alert alert-danger"
+                                                                                style="padding: 15px; margin-bottom: 20px; border: 1px solid transparent; border-radius: 4px; color: #a94442; background-color: #f2dede; border-color: #ebccd1;">
+                                                                                Server error while sending email. Please try
+                                                                                again later.</div>
+                                                                        <?php endif; ?>
+                                                                    <?php endif; ?>
+                                                                </div>
+                                                                <form action="process_contact.php" method="post"
+                                                                    class="custom-contact-form"
+                                                                    aria-label="Contact form">
+                                                                    <fieldset class="hidden-fields-container"><input
+                                                                            type="hidden" name="_wpcf7"
+                                                                            value="727" /><input type="hidden"
+                                                                            name="_wpcf7_version" value="6.1.5" /><input
+                                                                            type="hidden" name="_wpcf7_locale"
+                                                                            value="en_US" /><input type="hidden"
+                                                                            name="_wpcf7_unit_tag"
+                                                                            value="wpcf7-f727-p25-o1" /><input
+                                                                            type="hidden" name="_wpcf7_container_post"
+                                                                            value="25" /><input type="hidden"
+                                                                            name="_wpcf7_posted_data_hash" value="" />
+                                                                    </fieldset>
+                                                                    <div class="contact2">
+                                                                        <div class="pxl-contact-inner">
+                                                                            <div class="pxl-item-name">
+                                                                                <div class="input-filled name">
+                                                                                    <p><span class="wpcf7-form-control-wrap"
+                                                                                            data-name="text-707"><input
+                                                                                                size="40"
+                                                                                                maxlength="400"
+                                                                                                class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
+                                                                                                aria-required="true"
+                                                                                                aria-invalid="false"
+                                                                                                placeholder="Your Name"
+                                                                                                value="" type="text"
+                                                                                                name="text-707" /></span>
+                                                                                    </p>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="pxl-item-email">
+                                                                                <div class="input-filled email">
+                                                                                    <p><span class="wpcf7-form-control-wrap"
+                                                                                            data-name="email-761"><input
+                                                                                                size="40"
+                                                                                                maxlength="400"
+                                                                                                class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email"
+                                                                                                aria-required="true"
+                                                                                                aria-invalid="false"
+                                                                                                placeholder="Your Email"
+                                                                                                value="" type="email"
+                                                                                                name="email-761" /></span>
+                                                                                    </p>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="pxl-item-phone">
+                                                                                <div class="input-filled phone">
+                                                                                    <p><span class="wpcf7-form-control-wrap"
+                                                                                            data-name="tel-733"><input
+                                                                                                size="40"
+                                                                                                maxlength="400"
+                                                                                                class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel"
+                                                                                                aria-required="true"
+                                                                                                aria-invalid="false"
+                                                                                                placeholder="Your Phone"
+                                                                                                value="" type="tel"
+                                                                                                name="tel-733" /></span>
+                                                                                    </p>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="pxl-item-message">
+                                                                                <div class="input-filled message">
+                                                                                    <p><span class="wpcf7-form-control-wrap"
+                                                                                            data-name="textarea-648"><textarea
+                                                                                                cols="40" rows="10"
+                                                                                                maxlength="2000"
+                                                                                                class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required"
+                                                                                                aria-required="true"
+                                                                                                aria-invalid="false"
+                                                                                                placeholder="Your Message"
+                                                                                                name="textarea-648"></textarea></span>
+                                                                                    </p>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="ct-button">
+                                                                                <p><button class="btn btn-primary"
+                                                                                        type="submit"
+                                                                                        data-animation="pxl-xspin">Send
+                                                                                        Message</button></p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </form>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+                </main>
+            </div>
+        </div>
+    </div>
+</div><!-- #main -->
 
 <?php require_once 'footer.php'; ?>

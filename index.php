@@ -4,6 +4,2676 @@ $metaDescription = 'Scotch Security is a leading provider of comprehensive cyber
 require_once 'header.php';
 ?>
 
-<div id="pxl-main"><div class="elementor-container"><div class="row pxl-content-wrap no-sidebar"><div id="pxl-content-area" class="pxl-content-area pxl-content-page col-12"><main id="pxl-content-main"><article id="pxl-post-11" class="post-11 page type-page status-publish hentry"><div class="pxl-entry-content clearfix"><div data-elementor-type="wp-page" data-elementor-id="11" class="elementor elementor-11"><div class="elementor-element elementor-element-4496f90 e-con-full section-dark e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-parent " data-id="4496f90" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-1fe64b8 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="1fe64b8" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-762ca9b elementor-widget elementor-widget-pxl_slider" data-id="762ca9b" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_slider.default"><div class="elementor-widget-container"><div class="pxl-swiper-sliders pxl-element-slider pxl-slide pxl-swiper-nogap pxl-swiper-show-arrow" data-cursor-drap="DRAG" data-slider-mode="fade"><div class="pxl-carousel-inner"><div class="pxl-swiper-container" dir="ltr" data-settings="{&quot;slide_direction&quot;:&quot;horizontal&quot;,&quot;slide_percolumn&quot;:&quot;1&quot;,&quot;slide_mode&quot;:&quot;slide&quot;,&quot;slides_to_show&quot;:&quot;1&quot;,&quot;slides_to_show_xxl&quot;:&quot;1&quot;,&quot;slides_to_show_lg&quot;:&quot;1&quot;,&quot;slides_to_show_md&quot;:&quot;1&quot;,&quot;slides_to_show_sm&quot;:&quot;1&quot;,&quot;slides_to_show_xs&quot;:&quot;1&quot;,&quot;slides_to_scroll&quot;:&quot;1&quot;,&quot;arrow&quot;:&quot;true&quot;,&quot;pagination&quot;:&quot;false&quot;,&quot;pagination_type&quot;:&quot;bullets&quot;,&quot;autoplay&quot;:&quot;&quot;,&quot;pause_on_hover&quot;:&quot;&quot;,&quot;pause_on_interaction&quot;:&quot;true&quot;,&quot;delay&quot;:5000,&quot;loop&quot;:&quot;true&quot;,&quot;speed&quot;:500}"><div class="pxl-swiper-wrapper"><div class="pxl-swiper-slide"><div class="pxl-slider--inner elementor-repeater-item-04d49f4"><div class="pxl-slider--overlay"><div class="pxl-slider--image bg-image" style="background-image: url(assets/img/a5830b3b30e0e719bc87edde9019e566_service-ptitle1.jpg);"></div></div><div class="pxl-slider--content"><div data-elementor-type="wp-post" data-elementor-id="1373" class="elementor elementor-1373"><div class="elementor-element elementor-element-25e6262 e-flex e-con-boxed pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-parent " data-id="25e6262" data-element_type="container" data-e-type="container"><div class="e-con-inner"><div class="elementor-element elementor-element-c8cade3 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="c8cade3" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-5c9ccb8 elementor-widget elementor-widget-pxl_heading" data-id="5c9ccb8" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_heading.default"><div class="elementor-widget-container"><div id="pxl-pxl_heading-5c9ccb8-2954" class="pxl-heading px-sub-title-default-style"><div class="pxl-heading--inner"><div class="pxl-item--subtitle px-sub-title-default " data-wow-delay="ms"> <span class="pxl-item--subtext"> Scotch Security </span></div><h2 class="pxl-item--title " data-wow-delay="ms"> Your Partner in Information Security</h2></div></div></div></div><div class="elementor-element elementor-element-420d6c1 elementor-widget elementor-widget-pxl_text_editor" data-id="420d6c1" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_text_editor.default"><div class="elementor-widget-container"><div id="pxl_text_editor-420d6c1-8796" class="pxl-image-wg" duration="1"><div class="pxl-text-editor"><div class="pxl-item--inner " data-wow-delay="ms"><p>Solutions for Protection, Compliance, and Peace of Mind</p></div></div></div></div></div><div class="elementor-element elementor-element-52d5861 elementor-align-center elementor-widget elementor-widget-pxl_button" data-id="52d5861" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_button.default"><div class="elementor-widget-container"><div id="pxl-pxl_button-52d5861-1646" class="pxl-button pxl-atc-link " data-wow-delay="ms"> <a href="contact.php" class="btn pxl-icon-active btn-default  pxl-icon--left" data-wow-delay="ms" data-onepage-offset=""> <span class="pxl--btn-text" data-text="Request a Security Audit"> Request a Security Audit </span> <span class="pxl--text-wrap"> <span class="pxl--btn-text1">Request a Security Audit</span> <span class="pxl--btn-text2">Request a Security Audit</span> </span> </a></div></div></div></div><div class="elementor-element elementor-element-15436a6 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="15436a6" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-50b7156 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="50b7156" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-070894b e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="070894b" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-ef15444 elementor-widget elementor-widget-pxl_image" data-id="ef15444" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_image.default"><div class="elementor-widget-container"><div id="pxl_image-ef15444-5297" class="pxl-image-single  style-default " data-wow-delay="ms" ><div class="pxl-item--inner " data-wow-delay="120ms"><div class="pxl-item--image " data-wow-delay="ms" data-parallax-value=""> <img loading="lazy" decoding="async" class="" src="assets/img/930594a68d533407927646976b934388_padlock-100x100.png" width="100" height="100" alt="padlock" title="padlock" /></div></div></div></div></div></div><div class="elementor-element elementor-element-6a6af99 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="6a6af99" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-5eb3442 elementor-widget elementor-widget-pxl_text_editor" data-id="5eb3442" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_text_editor.default"><div class="elementor-widget-container"><div id="pxl_text_editor-5eb3442-1111" class="pxl-image-wg" duration="1"><div class="pxl-text-editor"><div class="pxl-item--inner " data-wow-delay="ms"> Network Security</div></div></div></div></div><div class="elementor-element elementor-element-a78a0ee elementor-widget elementor-widget-pxl_text_editor" data-id="a78a0ee" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_text_editor.default"><div class="elementor-widget-container"><div id="pxl_text_editor-a78a0ee-3543" class="pxl-image-wg" duration="1"><div class="pxl-text-editor"><div class="pxl-item--inner " data-wow-delay="ms"><p>Protect critical infrastructure with firewalls, intrusion detection systems, and real-time threat monitoring.</p></div></div></div></div></div></div></div><div class="elementor-element elementor-element-651310b e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="651310b" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-64eaa3b e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="64eaa3b" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-6028729 elementor-widget elementor-widget-pxl_image" data-id="6028729" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_image.default"><div class="elementor-widget-container"><div id="pxl_image-6028729-2185" class="pxl-image-single  style-default " data-wow-delay="ms" ><div class="pxl-item--inner " data-wow-delay="120ms"><div class="pxl-item--image " data-wow-delay="ms" data-parallax-value=""> <img loading="lazy" decoding="async" class="" src="assets/img/a596e33bd8ab55c6b60735e471ebff19_cloud-100x100.png" width="100" height="100" alt="cloud" title="cloud" /></div></div></div></div></div></div><div class="elementor-element elementor-element-dd1cdda e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="dd1cdda" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-b7a3c85 elementor-widget elementor-widget-pxl_text_editor" data-id="b7a3c85" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_text_editor.default"><div class="elementor-widget-container"><div id="pxl_text_editor-b7a3c85-3592" class="pxl-image-wg" duration="1"><div class="pxl-text-editor"><div class="pxl-item--inner " data-wow-delay="ms"> Cloud Security</div></div></div></div></div><div class="elementor-element elementor-element-05bcda3 elementor-widget elementor-widget-pxl_text_editor" data-id="05bcda3" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_text_editor.default"><div class="elementor-widget-container"><div id="pxl_text_editor-05bcda3-4015" class="pxl-image-wg" duration="1"><div class="pxl-text-editor"><div class="pxl-item--inner " data-wow-delay="ms"><p>Ensure safe cloud environments with encryption, access control, and advanced identity management.</p></div></div></div></div></div></div></div><div class="elementor-element elementor-element-b34f4f3 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="b34f4f3" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-4c84b80 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="4c84b80" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-f865390 elementor-widget elementor-widget-pxl_image" data-id="f865390" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_image.default"><div class="elementor-widget-container"><div id="pxl_image-f865390-5916" class="pxl-image-single  style-default " data-wow-delay="ms" ><div class="pxl-item--inner " data-wow-delay="120ms"><div class="pxl-item--image " data-wow-delay="ms" data-parallax-value=""> <img loading="lazy" decoding="async" class="" src="assets/img/317e075f330bad463c6e6bac3173ce91_quality-100x100.png" width="100" height="100" alt="quality" title="quality" /></div></div></div></div></div></div><div class="elementor-element elementor-element-b1f0b38 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="b1f0b38" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-2d0deeb elementor-widget elementor-widget-pxl_text_editor" data-id="2d0deeb" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_text_editor.default"><div class="elementor-widget-container"><div id="pxl_text_editor-2d0deeb-5498" class="pxl-image-wg" duration="1"><div class="pxl-text-editor"><div class="pxl-item--inner " data-wow-delay="ms"> Regulatory Compliance</div></div></div></div></div><div class="elementor-element elementor-element-32d3b96 elementor-widget elementor-widget-pxl_text_editor" data-id="32d3b96" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_text_editor.default"><div class="elementor-widget-container"><div id="pxl_text_editor-32d3b96-8471" class="pxl-image-wg" duration="1"><div class="pxl-text-editor"><div class="pxl-item--inner " data-wow-delay="ms"> Stay ahead of industry regulations like GDPR, HIPAA, and ISO by implementing strong security frameworks.</div></div></div></div></div></div></div></div></div></div></div></div></div></div><div class="pxl-swiper-slide"><div class="pxl-slider--inner elementor-repeater-item-10fd142"><div class="pxl-slider--overlay"><div class="pxl-slider--image bg-image" style="background-image: url(assets/img/d3c54ce9a4501dae59480fe29cc80135_slide-bg1.jpg);"></div></div><div class="pxl-slider--content"><div data-elementor-type="wp-post" data-elementor-id="1343" class="elementor elementor-1343"><div class="elementor-element elementor-element-25e6262 e-flex e-con-boxed pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-parent " data-id="25e6262" data-element_type="container" data-e-type="container"><div class="e-con-inner"><div class="elementor-element elementor-element-c8cade3 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="c8cade3" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-5c9ccb8 elementor-widget elementor-widget-pxl_heading" data-id="5c9ccb8" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_heading.default"><div class="elementor-widget-container"><div id="pxl-pxl_heading-5c9ccb8-3593" class="pxl-heading px-sub-title-default-style"><div class="pxl-heading--inner"><div class="pxl-item--subtitle px-sub-title-default " data-wow-delay="ms"> <span class="pxl-item--subtext"> Threat Prevention </span></div><h2 class="pxl-item--title " data-wow-delay="ms"> Governance, Risk Management, and Compliance Frameworks</h2></div></div></div></div><div class="elementor-element elementor-element-420d6c1 elementor-widget elementor-widget-pxl_text_editor" data-id="420d6c1" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_text_editor.default"><div class="elementor-widget-container"><div id="pxl_text_editor-420d6c1-9453" class="pxl-image-wg" duration="1"><div class="pxl-text-editor"><div class="pxl-item--inner " data-wow-delay="ms"><p>Proactive Defense for a Safer Digital Future</p></div></div></div></div></div><div class="elementor-element elementor-element-52d5861 elementor-align-center elementor-widget elementor-widget-pxl_button" data-id="52d5861" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_button.default"><div class="elementor-widget-container"><div id="pxl-pxl_button-52d5861-5088" class="pxl-button pxl-atc-link " data-wow-delay="ms"> <a href="contact.php" class="btn pxl-icon-active btn-default  pxl-icon--left" data-wow-delay="ms" data-onepage-offset=""> <span class="pxl--btn-text" data-text="Get Protected Today"> Get Protected Today </span> <span class="pxl--text-wrap"> <span class="pxl--btn-text1">Get Protected Today</span> <span class="pxl--btn-text2">Get Protected Today</span> </span> </a></div></div></div></div><div class="elementor-element elementor-element-15436a6 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="15436a6" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-50b7156 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="50b7156" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-070894b e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="070894b" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-ef15444 elementor-widget elementor-widget-pxl_image" data-id="ef15444" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_image.default"><div class="elementor-widget-container"><div id="pxl_image-ef15444-6204" class="pxl-image-single  style-default " data-wow-delay="ms" ><div class="pxl-item--inner " data-wow-delay="120ms"><div class="pxl-item--image " data-wow-delay="ms" data-parallax-value=""> <img loading="lazy" decoding="async" class="" src="assets/img/930594a68d533407927646976b934388_padlock-100x100.png" width="100" height="100" alt="padlock" title="padlock" /></div></div></div></div></div></div><div class="elementor-element elementor-element-6a6af99 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="6a6af99" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-5eb3442 elementor-widget elementor-widget-pxl_text_editor" data-id="5eb3442" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_text_editor.default"><div class="elementor-widget-container"><div id="pxl_text_editor-5eb3442-8818" class="pxl-image-wg" duration="1"><div class="pxl-text-editor"><div class="pxl-item--inner " data-wow-delay="ms"> Penetration Testing</div></div></div></div></div><div class="elementor-element elementor-element-a78a0ee elementor-widget elementor-widget-pxl_text_editor" data-id="a78a0ee" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_text_editor.default"><div class="elementor-widget-container"><div id="pxl_text_editor-a78a0ee-5593" class="pxl-image-wg" duration="1"><div class="pxl-text-editor"><div class="pxl-item--inner " data-wow-delay="ms"> Simulate real-world attacks to identify vulnerabilities and reinforce your defense strategy.</div></div></div></div></div></div></div><div class="elementor-element elementor-element-651310b e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="651310b" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-64eaa3b e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="64eaa3b" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-6028729 elementor-widget elementor-widget-pxl_image" data-id="6028729" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_image.default"><div class="elementor-widget-container"><div id="pxl_image-6028729-9727" class="pxl-image-single  style-default " data-wow-delay="ms" ><div class="pxl-item--inner " data-wow-delay="120ms"><div class="pxl-item--image " data-wow-delay="ms" data-parallax-value=""> <img loading="lazy" decoding="async" class="" src="assets/img/a596e33bd8ab55c6b60735e471ebff19_cloud-100x100.png" width="100" height="100" alt="cloud" title="cloud" /></div></div></div></div></div></div><div class="elementor-element elementor-element-dd1cdda e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="dd1cdda" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-b7a3c85 elementor-widget elementor-widget-pxl_text_editor" data-id="b7a3c85" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_text_editor.default"><div class="elementor-widget-container"><div id="pxl_text_editor-b7a3c85-7062" class="pxl-image-wg" duration="1"><div class="pxl-text-editor"><div class="pxl-item--inner " data-wow-delay="ms"> Data Security</div></div></div></div></div><div class="elementor-element elementor-element-05bcda3 elementor-widget elementor-widget-pxl_text_editor" data-id="05bcda3" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_text_editor.default"><div class="elementor-widget-container"><div id="pxl_text_editor-05bcda3-8895" class="pxl-image-wg" duration="1"><div class="pxl-text-editor"><div class="pxl-item--inner " data-wow-delay="ms"> Protect sensitive business and customer data with advanced encryption and breach-prevention measures.</div></div></div></div></div></div></div><div class="elementor-element elementor-element-b34f4f3 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="b34f4f3" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-4c84b80 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="4c84b80" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-f865390 elementor-widget elementor-widget-pxl_image" data-id="f865390" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_image.default"><div class="elementor-widget-container"><div id="pxl_image-f865390-8869" class="pxl-image-single  style-default " data-wow-delay="ms" ><div class="pxl-item--inner " data-wow-delay="120ms"><div class="pxl-item--image " data-wow-delay="ms" data-parallax-value=""> <img loading="lazy" decoding="async" class="" src="assets/img/317e075f330bad463c6e6bac3173ce91_quality-100x100.png" width="100" height="100" alt="quality" title="quality" /></div></div></div></div></div></div><div class="elementor-element elementor-element-b1f0b38 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="b1f0b38" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-2d0deeb elementor-widget elementor-widget-pxl_text_editor" data-id="2d0deeb" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_text_editor.default"><div class="elementor-widget-container"><div id="pxl_text_editor-2d0deeb-7921" class="pxl-image-wg" duration="1"><div class="pxl-text-editor"><div class="pxl-item--inner " data-wow-delay="ms"><p>Incident Response</p></div></div></div></div></div><div class="elementor-element elementor-element-32d3b96 elementor-widget elementor-widget-pxl_text_editor" data-id="32d3b96" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_text_editor.default"><div class="elementor-widget-container"><div id="pxl_text_editor-32d3b96-5149" class="pxl-image-wg" duration="1"><div class="pxl-text-editor"><div class="pxl-item--inner " data-wow-delay="ms"> Quickly detect, respond to, and recover from cyber incidents with a dedicated security response team.</div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><div class="pxl-swiper-arrow-wrap"><div class="pxl-swiper-arrow pxl-swiper-arrow-prev"><i class="caseicon-angle-arrow-left rtl-icon"></i></div><div class="pxl-swiper-arrow pxl-swiper-arrow-next"><i class="caseicon-angle-arrow-right rtl-icon"></i></div></div></div></div></div></div></div></div><div class="elementor-element elementor-element-6dd3397 e-con-full section-dark e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-parent " data-id="6dd3397" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"><div class="elementor-element elementor-element-73535cd elementor-absolute elementor-hidden-mobile elementor-widget elementor-widget-pxl_image" data-id="73535cd" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="pxl_image.default"><div class="elementor-widget-container"><div id="pxl_image-73535cd-3391" class="pxl-image-single  style-default wow zoomOut" data-wow-delay="300ms" ><div class="pxl-item--inner " data-wow-delay="120ms"><div class="pxl-item--image " data-wow-delay="ms" data-parallax-value=""> <img src="assets/img/scotch-logo.svg" alt="Scotch Security" style="max-height: 60px; width: auto;" /></div></div></div></div></div><div class="elementor-element elementor-element-d4ac086 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="d4ac086" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-1239ef0 e-flex e-con-boxed pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="1239ef0" data-element_type="container" data-e-type="container"><div class="e-con-inner"><div class="elementor-element elementor-element-255b011 elementor-widget elementor-widget-pxl_text_editor" data-id="255b011" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_text_editor.default"><div class="elementor-widget-container"><div id="pxl_text_editor-255b011-7980" class="pxl-image-wg" duration="1"><div class="pxl-text-editor"><div class="pxl-item--inner wow fadeInRight" data-wow-delay="300ms"> Need Expert Security & Compliance Consulting?</div></div></div></div></div><div class="elementor-element elementor-element-99f9bd4 elementor-widget elementor-widget-pxl_button" data-id="99f9bd4" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_button.default"><div class="elementor-widget-container"><div id="pxl-pxl_button-99f9bd4-4175" class="pxl-button pxl-atc-link wow fadeInLeft" data-wow-delay="300ms"> <a href="contact.php" class="btn pxl-icon-active btn-default wow fadeInLeft pxl-icon--left" data-wow-delay="300ms" data-onepage-offset=""> <span class="pxl--btn-text" data-text="Contact Us"> Contact Us </span> <span class="pxl--text-wrap"> <span class="pxl--btn-text1">Contact Us</span> <span class="pxl--btn-text2">Contact Us</span> </span> </a></div></div></div></div></div></div></div><div class="elementor-element elementor-element-ff5e39e e-flex e-con-boxed pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-parent " data-id="ff5e39e" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"><div class="e-con-inner"><div class="elementor-element elementor-element-79cae8d e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="79cae8d" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-8f3cbfa elementor-widget elementor-widget-pxl_heading" data-id="8f3cbfa" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_heading.default"><div class="elementor-widget-container"><div id="pxl-pxl_heading-8f3cbfa-6893" class="pxl-heading px-sub-title-default-style"><div class="pxl-heading--inner"><div class="pxl-item--subtitle px-sub-title-default wow fadeInUp" data-wow-delay="300ms"> <span class="pxl-item--subtext"> Cybersecurity Experts </span></div><h2 class="pxl-item--title wow fadeInUp" data-wow-delay="500ms"> Comprehensive Cybersecurity Solutions for Modern Threats</h2></div></div></div></div></div><div class="elementor-element elementor-element-8c2e62c e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="8c2e62c" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-12bbd5e e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="12bbd5e" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-0176904 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="0176904" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-fb6e5e2 elementor-widget elementor-widget-pxl_image" data-id="fb6e5e2" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_image.default"><div class="elementor-widget-container"><div id="pxl_image-fb6e5e2-8201" class="pxl-image-single  style-default wow zoomInSmall" data-wow-delay="300ms" ><div class="pxl-item--inner " data-wow-delay="120ms"><div class="pxl-item--bg bg-image wow scaleIn" data-wow-delay="300ms" style="background-image: url(assets/img/720e65c7c2034a552b459988a430918a_blog-img9.jpg);"></div></div></div></div></div><div class="elementor-element elementor-element-197e1d4 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none elementor-invisible e-con e-child " data-id="197e1d4" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;position&quot;:&quot;absolute&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:300}"><div class="elementor-element elementor-element-2f51691 elementor-widget elementor-widget-pxl_text_editor" data-id="2f51691" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_text_editor.default"><div class="elementor-widget-container"><div id="pxl_text_editor-2f51691-2281" class="pxl-image-wg" duration="1"><div class="pxl-text-editor"><div class="pxl-item--inner " data-wow-delay="ms"> 99.9%</div></div></div></div></div><div class="elementor-element elementor-element-5292554 elementor-widget elementor-widget-pxl_text_editor" data-id="5292554" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_text_editor.default"><div class="elementor-widget-container"><div id="pxl_text_editor-5292554-7075" class="pxl-image-wg" duration="1"><div class="pxl-text-editor"><div class="pxl-item--inner " data-wow-delay="ms"><p>Threat detection and prevention rate</p></div></div></div></div></div></div></div><div class="elementor-element elementor-element-b92964e elementor-absolute elementor-hidden-mobile elementor-invisible elementor-widget elementor-widget-pxl_image" data-id="b92964e" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;_animation&quot;:&quot;fadeInRight&quot;,&quot;_animation_delay&quot;:500}" data-widget_type="pxl_image.default"><div class="elementor-widget-container"><div id="pxl_image-b92964e-7202" class="pxl-image-single  style-default " data-wow-delay="ms" ><div class="pxl-item--inner " data-wow-delay="120ms"><div class="pxl-item--image " data-wow-delay="ms" data-parallax-value=""> <img loading="lazy" decoding="async" class="" src="assets/img/a73088fa7affda770d4fa7f8f3b8ed8c_img-contact1-308x308.jpg" width="308" height="308" alt="img-contact1" title="img-contact1" /></div></div></div></div></div><div class="elementor-element elementor-element-0d6a46a elementor-widget elementor-widget-spacer" data-id="0d6a46a" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default"><div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div></div></div><div class="elementor-element elementor-element-e2c31e1 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="e2c31e1" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-48e3f36 elementor-widget elementor-widget-pxl_text_editor" data-id="48e3f36" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_text_editor.default"><div class="elementor-widget-container"><div id="pxl_text_editor-48e3f36-5167" class="pxl-image-wg" duration="1"><div class="pxl-text-editor"><div class="pxl-item--inner wow fadeInUp" data-wow-delay="300ms"><p>For over 15 years, we’ve been safeguarding organizations from evolving cyber threats. Our team of experts provides end-to-end security solutions — from proactive threat detection and vulnerability assessments to rapid incident response — ensuring your data, systems, and reputation remain fully protected in an ever-changing digital landscape.</p></div></div></div></div></div><div class="elementor-element elementor-element-2aceb58 elementor-widget elementor-widget-pxl_list" data-id="2aceb58" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_list.default"><div class="elementor-widget-container"><div class="pxl-list pxl-list1 style2"><div class="pxl--item wow fadeInUp" data-wow-delay="400ms"> <a class="pxl-item-link" ><div class="pxl-item--icon"> <i aria-hidden="true" class="far fa-check"></i></div><div class="pxl-item--text el-empty"> <span>Experienced Information Security specialists</span></div> </a></div><div class="pxl--item wow fadeInUp" data-wow-delay="400ms"> <a class="pxl-item-link" ><div class="pxl-item--icon"> <i aria-hidden="true" class="far fa-check"></i></div><div class="pxl-item--text el-empty"> <span>Practical and scalable compliance solutions</span></div> </a></div><div class="pxl--item wow fadeInUp" data-wow-delay="400ms"> <a class="pxl-item-link" ><div class="pxl-item--icon"> <i aria-hidden="true" class="far fa-check"></i></div><div class="pxl-item--text el-empty"> <span>Clear and professional technical documentation</span></div> </a></div><div class="pxl--item wow fadeInUp" data-wow-delay="400ms"> <a class="pxl-item-link" ><div class="pxl-item--icon"> <i aria-hidden="true" class="far fa-check"></i></div><div class="pxl-item--text el-empty"> <span>End-to-end support from assessment to certification</span></div> </a></div></div></div></div><div class="elementor-element elementor-element-53e91f3 elementor-widget elementor-widget-pxl_button" data-id="53e91f3" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_button.default"><div class="elementor-widget-container"><div id="pxl-pxl_button-53e91f3-3423" class="pxl-button pxl-atc-link wow fadeInUp" data-wow-delay="500ms"> <a href="contact.php" class="btn pxl-icon-active btn-default wow fadeInUp pxl-icon--left" data-wow-delay="500ms" data-onepage-offset=""> <span class="pxl--btn-text" data-text="Request a Security Audit"> Request a Security Audit </span> <span class="pxl--text-wrap"> <span class="pxl--btn-text1">Request a Security Audit</span> <span class="pxl--btn-text2">Request a Security Audit</span> </span> </a></div></div></div></div></div></div></div><div class="elementor-element elementor-element-3a00563 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-parent " data-id="3a00563" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}"><div class="elementor-element elementor-element-63ced33 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="63ced33" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-e08c8ce elementor-widget elementor-widget-pxl_text_carousel" data-id="e08c8ce" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_text_carousel.default"><div class="elementor-widget-container"><div class="pxl-text-carousel pxl-text-carousel1 pxl-text-slide1 style1"><div class="pxl-text-slide text-slide-to-left" style="animation-duration:20000ms"><div class="pxl--item " data-wow-delay="ms"><div class="pxl-item--text"><span>Network Security</span></div></div><div class="pxl--item " data-wow-delay="ms"><div class="pxl-item--text"><span>Endpoint Protection</span></div></div><div class="pxl--item " data-wow-delay="ms"><div class="pxl-item--text"><span>Threat Intelligence</span></div></div><div class="pxl--item " data-wow-delay="ms"><div class="pxl-item--text"><span>Penetration Testing</span></div></div><div class="pxl--item " data-wow-delay="ms"><div class="pxl-item--text"><span>Security Audits</span></div></div><div class="pxl--item " data-wow-delay="ms"><div class="pxl-item--text"><span>Incident Response</span></div></div><div class="pxl--item " data-wow-delay="ms"><div class="pxl-item--text"><span>Network Security</span></div></div><div class="pxl--item " data-wow-delay="ms"><div class="pxl-item--text"><span>Endpoint Protection</span></div></div><div class="pxl--item " data-wow-delay="ms"><div class="pxl-item--text"><span>Threat Intelligence</span></div></div><div class="pxl--item " data-wow-delay="ms"><div class="pxl-item--text"><span>Penetration Testing</span></div></div><div class="pxl--item " data-wow-delay="ms"><div class="pxl-item--text"><span>Security Audits</span></div></div><div class="pxl--item " data-wow-delay="ms"><div class="pxl-item--text"><span>Incident Response</span></div></div></div><div class="pxl-text-fixed"><div class="pxl--item " data-wow-delay="ms"><div class="pxl-item--text"><span>Network Security</span></div></div><div class="pxl--item " data-wow-delay="ms"><div class="pxl-item--text"><span>Endpoint Protection</span></div></div><div class="pxl--item " data-wow-delay="ms"><div class="pxl-item--text"><span>Threat Intelligence</span></div></div><div class="pxl--item " data-wow-delay="ms"><div class="pxl-item--text"><span>Penetration Testing</span></div></div><div class="pxl--item " data-wow-delay="ms"><div class="pxl-item--text"><span>Security Audits</span></div></div><div class="pxl--item " data-wow-delay="ms"><div class="pxl-item--text"><span>Incident Response</span></div></div><div class="pxl--item " data-wow-delay="ms"><div class="pxl-item--text"><span>Network Security</span></div></div><div class="pxl--item " data-wow-delay="ms"><div class="pxl-item--text"><span>Endpoint Protection</span></div></div><div class="pxl--item " data-wow-delay="ms"><div class="pxl-item--text"><span>Threat Intelligence</span></div></div><div class="pxl--item " data-wow-delay="ms"><div class="pxl-item--text"><span>Penetration Testing</span></div></div><div class="pxl--item " data-wow-delay="ms"><div class="pxl-item--text"><span>Security Audits</span></div></div><div class="pxl--item " data-wow-delay="ms"><div class="pxl-item--text"><span>Incident Response</span></div></div></div></div></div></div></div></div><div class="elementor-element elementor-element-2a7be19 section-dark e-flex e-con-boxed pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-parent " data-id="2a7be19" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"><div class="e-con-inner"><div class="elementor-element elementor-element-a662ff9 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="a662ff9" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-5c21fcf elementor-widget elementor-widget-pxl_heading" data-id="5c21fcf" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_heading.default"><div class="elementor-widget-container"><div id="pxl-pxl_heading-5c21fcf-2180" class="pxl-heading px-sub-title-default-style"><div class="pxl-heading--inner"><div class="pxl-item--subtitle px-sub-title-default wow fadeInUp" data-wow-delay="300ms"> <span class="pxl-item--subtext"> What We Provide </span></div><h3 class="pxl-item--title wow fadeInUp" data-wow-delay="500ms"> Robust Cybersecurity Services for Today’s Threats</h3></div></div></div></div><div class="elementor-element elementor-element-8731db2 elementor-widget elementor-widget-pxl_text_editor" data-id="8731db2" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_text_editor.default"><div class="elementor-widget-container"><div id="pxl_text_editor-8731db2-8507" class="pxl-image-wg" duration="1"><div class="pxl-text-editor"><div class="pxl-item--inner wow fadeInUp" data-wow-delay="700ms"> Protect your business from ever-evolving cyber risks with our end-to-end security solutions. We offer advanced threat detection, real-time monitoring, and proactive defense strategies tailored to your infrastructure. Whether you&#8217;re safeguarding sensitive data or ensuring compliance, our robust cybersecurity services help you stay secure, resilient, and ahead of the threat curve.</div></div></div></div></div></div><div class="elementor-element elementor-element-11ef16e e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="11ef16e" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-3843660 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="3843660" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-a090906 elementor-widget elementor-widget-pxl_icon_box" data-id="a090906" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_icon_box.default"><div class="elementor-widget-container"><div class="pxl-icon-box pxl-icon-box1"><div class="pxl-item-inner wow fadeInRight" data-wow-delay="300ms"><div class="pxl-icon-overlay"><div class="pxl-item--icon wow fadeInRight" data-wow-delay="300ms"> <img fetchpriority="high" decoding="async" width="512" height="512" src="assets/img/ce452b60c358720da8b69c4f497455cb_cyber-security.png" class="attachment-full" alt="" srcset="assets/img/ce452b60c358720da8b69c4f497455cb_cyber-security.png 512w, assets/img/adc1c1b95ae1a03cb5eb921935de16e4_cyber-security-300x300.png 300w, assets/img/2937c56bf8af75aade96722db9499343_cyber-security-150x150.png 150w" sizes="(max-width: 512px) 100vw, 512px" loading="eager" /></div></div><div class="pxl-meta-content wow scaleIn" data-wow-delay="300ms"><div class="pxl-item--icon wow fadeInRight" data-wow-delay="300ms"> <img loading="lazy" decoding="async" class="" src="assets/img/85e6fdbd78e17846d3ea655c3df8aa71_cyber-security-90x90.png" width="90" height="90" alt="cyber-security" title="cyber-security" /></div><h4 class="pxl-item-title"> Network Security</h4><div class="pxl-item-desc"> Deploying firewalls and intrusion detection systems to safeguard networks.</div><div class="pxl-btn-section"> <a class="btn pxl-icon-active btn-default" href="contact.php"> <span class="pxl--btn-text" data-text="Learn More"> Learn More </span> <span class="pxl--text-wrap"> <span class="pxl--btn-text1">Learn More</span> <span class="pxl--btn-text2">Learn More</span> </span> </a></div></div></div></div></div></div></div><div class="elementor-element elementor-element-9e13bb2 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="9e13bb2" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-cfcd532 elementor-widget elementor-widget-pxl_icon_box" data-id="cfcd532" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_icon_box.default"><div class="elementor-widget-container"><div class="pxl-icon-box pxl-icon-box1"><div class="pxl-item-inner wow fadeInRight" data-wow-delay="300ms"><div class="pxl-icon-overlay"><div class="pxl-item--icon wow fadeInRight" data-wow-delay="300ms"> <img decoding="async" width="512" height="512" src="assets/img/fca033cfeb2b6b60ce501f4cffaa165d_encryption.png" class="attachment-full" alt="" srcset="assets/img/fca033cfeb2b6b60ce501f4cffaa165d_encryption.png 512w, assets/img/50722e6c3cfbfe763b0360fd4e99b714_encryption-300x300.png 300w, assets/img/a0ffab73bba5458b7d07242da42e464a_encryption-150x150.png 150w" sizes="(max-width: 512px) 100vw, 512px" loading="eager" /></div></div><div class="pxl-meta-content wow scaleIn" data-wow-delay="300ms"><div class="pxl-item--icon wow fadeInRight" data-wow-delay="300ms"> <img loading="lazy" decoding="async" class="" src="assets/img/23730671bb92e9c2d674b636ec0067ce_encryption-90x90.png" width="90" height="90" alt="encryption" title="encryption" /></div><h4 class="pxl-item-title"> Data Encryption</h4><div class="pxl-item-desc"> Encrypting sensitive data at rest and in transit using advanced encryption.</div><div class="pxl-btn-section"> <a class="btn pxl-icon-active btn-default" href="contact.php"> <span class="pxl--btn-text" data-text="Learn More"> Learn More </span> <span class="pxl--text-wrap"> <span class="pxl--btn-text1">Learn More</span> <span class="pxl--btn-text2">Learn More</span> </span> </a></div></div></div></div></div></div></div><div class="elementor-element elementor-element-f71f09a e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="f71f09a" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-9f41f7d elementor-widget elementor-widget-pxl_icon_box" data-id="9f41f7d" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_icon_box.default"><div class="elementor-widget-container"><div class="pxl-icon-box pxl-icon-box1"><div class="pxl-item-inner wow fadeInRight" data-wow-delay="300ms"><div class="pxl-icon-overlay"><div class="pxl-item--icon wow fadeInRight" data-wow-delay="300ms"> <img decoding="async" width="512" height="512" src="assets/img/aab9395a540093fcd3f7d92e098f96de_fingerprint.png" class="attachment-full" alt="" srcset="assets/img/aab9395a540093fcd3f7d92e098f96de_fingerprint.png 512w, assets/img/a10e6dcdebf7e5340fcde2f7c4a49932_fingerprint-300x300.png 300w, assets/img/9c5683416ccfd019889bcb8b370cf20e_fingerprint-150x150.png 150w" sizes="(max-width: 512px) 100vw, 512px" loading="eager" /></div></div><div class="pxl-meta-content wow scaleIn" data-wow-delay="300ms"><div class="pxl-item--icon wow fadeInRight" data-wow-delay="300ms"> <img loading="lazy" decoding="async" class="" src="assets/img/f75d2e9feb8f68bd3ad668ccd9220559_fingerprint-90x90.png" width="90" height="90" alt="fingerprint" title="fingerprint" /></div><h4 class="pxl-item-title"> Identity &amp; Access</h4><div class="pxl-item-desc"> Managing user identities and access with MFA and detailed role-based control.</div><div class="pxl-btn-section"> <a class="btn pxl-icon-active btn-default" href="contact.php"> <span class="pxl--btn-text" data-text="Learn More"> Learn More </span> <span class="pxl--text-wrap"> <span class="pxl--btn-text1">Learn More</span> <span class="pxl--btn-text2">Learn More</span> </span> </a></div></div></div></div></div></div></div></div><div class="elementor-element elementor-element-962084b e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="962084b" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-e4cc3fa e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="e4cc3fa" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-3593d8f elementor-widget elementor-widget-pxl_icon_box" data-id="3593d8f" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_icon_box.default"><div class="elementor-widget-container"><div class="pxl-icon-box pxl-icon-box1"><div class="pxl-item-inner wow fadeInRight" data-wow-delay="300ms"><div class="pxl-icon-overlay"><div class="pxl-item--icon wow fadeInRight" data-wow-delay="300ms"> <img decoding="async" width="512" height="512" src="assets/img/8b266d7a48f09e3032db1c6d835827d9_monitoring.png" class="attachment-full" alt="" srcset="assets/img/8b266d7a48f09e3032db1c6d835827d9_monitoring.png 512w, assets/img/9b83ea5b9ba71f3cadb3defedb1efc06_monitoring-300x300.png 300w, assets/img/b4984b2a9160b66a6130acb86ef88a3c_monitoring-150x150.png 150w" sizes="(max-width: 512px) 100vw, 512px" loading="eager" /></div></div><div class="pxl-meta-content wow scaleIn" data-wow-delay="300ms"><div class="pxl-item--icon wow fadeInRight" data-wow-delay="300ms"> <img loading="lazy" decoding="async" class="" src="assets/img/051a09ab3d4cc1ce671cda01120eeefb_monitoring-90x90.png" width="90" height="90" alt="monitoring" title="monitoring" /></div><h4 class="pxl-item-title"> Security Monitoring</h4><div class="pxl-item-desc"> 24/7 monitoring with advanced SIEM systems for real-time detection.</div><div class="pxl-btn-section"> <a class="btn pxl-icon-active btn-default" href="contact.php"> <span class="pxl--btn-text" data-text="Learn More"> Learn More </span> <span class="pxl--text-wrap"> <span class="pxl--btn-text1">Learn More</span> <span class="pxl--btn-text2">Learn More</span> </span> </a></div></div></div></div></div></div></div><div class="elementor-element elementor-element-ee65e19 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="ee65e19" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-3ab5adc elementor-widget elementor-widget-pxl_icon_box" data-id="3ab5adc" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_icon_box.default"><div class="elementor-widget-container"><div class="pxl-icon-box pxl-icon-box1"><div class="pxl-item-inner wow fadeInRight" data-wow-delay="300ms"><div class="pxl-icon-overlay"><div class="pxl-item--icon wow fadeInRight" data-wow-delay="300ms"> <img decoding="async" width="512" height="512" src="assets/img/aadbcae5eb655411b9b8b34e559e23ea_cloud-storage.png" class="attachment-full" alt="" srcset="assets/img/aadbcae5eb655411b9b8b34e559e23ea_cloud-storage.png 512w, assets/img/b116d4ccaf4a22a6ee2b9c597e02ccf8_cloud-storage-300x300.png 300w, assets/img/6d73e252f61ce0631066f1aaef48ead0_cloud-storage-150x150.png 150w" sizes="(max-width: 512px) 100vw, 512px" loading="eager" /></div></div><div class="pxl-meta-content wow scaleIn" data-wow-delay="300ms"><div class="pxl-item--icon wow fadeInRight" data-wow-delay="300ms"> <img loading="lazy" decoding="async" class="" src="assets/img/46dee00158c9cdfcea706e5f0eb2f00e_cloud-storage-90x90.png" width="90" height="90" alt="cloud-storage" title="cloud-storage" /></div><h4 class="pxl-item-title"> Backup &amp; Recovery</h4><div class="pxl-item-desc"> Protecting critical data with secure backups and rapid recovery plans.</div><div class="pxl-btn-section"> <a class="btn pxl-icon-active btn-default" href="contact.php"> <span class="pxl--btn-text" data-text="Learn More"> Learn More </span> <span class="pxl--text-wrap"> <span class="pxl--btn-text1">Learn More</span> <span class="pxl--btn-text2">Learn More</span> </span> </a></div></div></div></div></div></div></div><div class="elementor-element elementor-element-f574cc5 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="f574cc5" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-c6b1d62 elementor-widget elementor-widget-pxl_icon_box" data-id="c6b1d62" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_icon_box.default"><div class="elementor-widget-container"><div class="pxl-icon-box pxl-icon-box1"><div class="pxl-item-inner wow fadeInRight" data-wow-delay="300ms"><div class="pxl-icon-overlay"><div class="pxl-item--icon wow fadeInRight" data-wow-delay="300ms"> <img decoding="async" width="512" height="512" src="assets/img/fa72cb17e1064d7cdd13f2105f7d21ab_settings.png" class="attachment-full" alt="" srcset="assets/img/fa72cb17e1064d7cdd13f2105f7d21ab_settings.png 512w, assets/img/7a95801df87337a59689ce0bf68a7a98_settings-300x300.png 300w, assets/img/216e14e9d9102d96bcf2121b033dfd8b_settings-150x150.png 150w" sizes="(max-width: 512px) 100vw, 512px" loading="eager" /></div></div><div class="pxl-meta-content wow scaleIn" data-wow-delay="300ms"><div class="pxl-item--icon wow fadeInRight" data-wow-delay="300ms"> <img loading="lazy" decoding="async" class="" src="assets/img/6c697476960c0b8b632dfc30a3d05763_settings-90x90.png" width="90" height="90" alt="settings" title="settings" /></div><h4 class="pxl-item-title"> Security Configuration</h4><div class="pxl-item-desc"> Hardening systems and applying secure configurations across all infrastructure.</div><div class="pxl-btn-section"> <a class="btn pxl-icon-active btn-default" href="contact.php"> <span class="pxl--btn-text" data-text="Learn More"> Learn More </span> <span class="pxl--text-wrap"> <span class="pxl--btn-text1">Learn More</span> <span class="pxl--btn-text2">Learn More</span> </span> </a></div></div></div></div></div></div></div></div></div></div><div class="elementor-element elementor-element-294385c section-dark e-flex e-con-boxed pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-parent " data-id="294385c" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"><div class="e-con-inner"><div class="elementor-element elementor-element-07bb679 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="07bb679" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-077e5cf elementor-widget elementor-widget-pxl_heading" data-id="077e5cf" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_heading.default"><div class="elementor-widget-container"><div id="pxl-pxl_heading-077e5cf-8733" class="pxl-heading px-sub-title-default-style"><div class="pxl-heading--inner"><div class="pxl-item--subtitle px-sub-title-default wow fadeInUp" data-wow-delay="300ms"> <span class="pxl-item--subtext"> Why Choose Us </span></div><h3 class="pxl-item--title wow fadeInUp" data-wow-delay="500ms"> Why Organizations Work With Us</h3></div></div></div></div><div class="elementor-element elementor-element-3512857 elementor-widget elementor-widget-pxl_text_editor" data-id="3512857" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_text_editor.default"><div class="elementor-widget-container"><div id="pxl_text_editor-3512857-3753" class="pxl-image-wg" duration="1"><div class="pxl-text-editor"><div class="pxl-item--inner wow fadeInUp" data-wow-delay="700ms"> We help organizations implement structured security programs that align with global standards while supporting business operations.</div></div></div></div></div></div><div class="elementor-element elementor-element-a7b6b69 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="a7b6b69" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-347c724 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="347c724" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-b8ed88f elementor-widget elementor-widget-pxl_banner_box" data-id="b8ed88f" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_banner_box.default"><div class="elementor-widget-container"><div id="pxl_banner_box-b8ed88f-3101" class="pxl-banner-box pxl-banner-box1 wow fadeInRight" data-wow-delay="300ms"><div class="pxl-banner-inner style-default"> <a class="pxl-inner-link" href="contact.php"></a><div class="row"><div class="col-sm-6"><div class="pxl-item-content"><h3 class="pxl-item-title"> Security Program Development</h3><div class="pxl-item-desc"> Simplifying complex compliance requirements with structured governance.</div></div></div><div class="col-sm-6"><div class="pxl-inner-section"><div class="pxl-item--img"> <img loading="lazy" decoding="async" class="" src="assets/img/e5e2c1fd87a939d3684ed5190af8e787_s2.jpg" width="1000" height="1000" alt="s2" title="s2" /></div><div class="pxl-item-number"> 01</div></div></div></div></div></div></div></div></div><div class="elementor-element elementor-element-e2036f3 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="e2036f3" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-a610694 elementor-widget elementor-widget-pxl_banner_box" data-id="a610694" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_banner_box.default"><div class="elementor-widget-container"><div id="pxl_banner_box-a610694-6164" class="pxl-banner-box pxl-banner-box1 wow fadeInRight" data-wow-delay="500ms"><div class="pxl-banner-inner style-default"> <a class="pxl-inner-link" href="contact.php"></a><div class="row"><div class="col-sm-6"><div class="pxl-item-content"><h3 class="pxl-item-title"> Compliance Readiness</h3><div class="pxl-item-desc"> Prepare for HIPAA, ISO 27001, SOC 2, and HITRUST with confidence.</div></div></div><div class="col-sm-6"><div class="pxl-inner-section"><div class="pxl-item--img"> <img loading="lazy" decoding="async" class="" src="assets/img/a763e3d9315d4ef05347d7d2c379a0cb_s3.jpg" width="1000" height="1000" alt="s3" title="s3" /></div><div class="pxl-item-number"> 02</div></div></div></div></div></div></div></div></div></div></div></div><div class="elementor-element elementor-element-bf06e3e e-flex e-con-boxed pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-parent " data-id="bf06e3e" data-element_type="container" data-e-type="container"><div class="e-con-inner"><div class="elementor-element elementor-element-b9b83d6 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="b9b83d6" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-e19213a elementor-widget elementor-widget-pxl_counter" data-id="e19213a" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_counter.default"><div class="elementor-widget-container"><div class="pxl-counter pxl-counter2 default wow fadeInRight" data-wow-delay="300ms"><div class="pxl--item-inner"><div class="pxl--counter-meta"><div class="pxl-section-icon"><div class="pxl-item--icon"> <i aria-hidden="true" class="fas fa-briefcase"></i></div></div><div class="pxl--counter-number"> <span class="pxl--counter-value effect-default" data-duration="2000" data-startnumber="9000" data-endnumber="10000" data-to-value="10000" data-delimiter="">10000</span> <span class="pxl--counter-suffix">+</span></div><div class="pxl--item-title"> Hours of Works</div></div></div></div></div></div></div><div class="elementor-element elementor-element-776aa58 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="776aa58" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-41b9ec3 elementor-widget elementor-widget-pxl_counter" data-id="41b9ec3" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_counter.default"><div class="elementor-widget-container"><div class="pxl-counter pxl-counter2 default wow fadeInRight" data-wow-delay="400ms"><div class="pxl--item-inner"><div class="pxl--counter-meta"><div class="pxl-section-icon"><div class="pxl-item--icon"> <i aria-hidden="true" class="fas fa-thumbs-up"></i></div></div><div class="pxl--counter-number"> <span class="pxl--counter-value effect-default" data-duration="2000" data-startnumber="0" data-endnumber="25" data-to-value="25" data-delimiter="">25</span> <span class="pxl--counter-suffix">+</span></div><div class="pxl--item-title"> Happy Customers</div></div></div></div></div></div></div><div class="elementor-element elementor-element-61649a6 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="61649a6" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-7a2dcf2 elementor-widget elementor-widget-pxl_counter" data-id="7a2dcf2" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_counter.default"><div class="elementor-widget-container"><div class="pxl-counter pxl-counter2 default wow fadeInRight" data-wow-delay="500ms"><div class="pxl--item-inner"><div class="pxl--counter-meta"><div class="pxl-section-icon"><div class="pxl-item--icon"> <i aria-hidden="true" class="fas fa-users"></i></div></div><div class="pxl--counter-number"> <span class="pxl--counter-value effect-default" data-duration="2000" data-startnumber="1300" data-endnumber="1500" data-to-value="1500" data-delimiter="">1300</span> <span class="pxl--counter-suffix">+</span></div><div class="pxl--item-title" style="display:none;"> Experienced Workers</div><script>document.currentScript.parentElement.parentElement.parentElement.parentElement.parentElement.parentElement.parentElement.style.display="none";</script></div></div></div></div></div></div><div class="elementor-element elementor-element-48f4584 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="48f4584" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-9d77db7 elementor-widget elementor-widget-pxl_counter" data-id="9d77db7" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_counter.default"><div class="elementor-widget-container"><div class="pxl-counter pxl-counter2 default wow fadeInRight" data-wow-delay="600ms"><div class="pxl--item-inner"><div class="pxl--counter-meta"><div class="pxl-section-icon"><div class="pxl-item--icon"> <i aria-hidden="true" class="fas fa-badge"></i></div></div><div class="pxl--counter-number"> <span class="pxl--counter-value effect-default" data-duration="2000" data-startnumber="0" data-endnumber="25" data-to-value="25" data-delimiter="">25</span> <span class="pxl--counter-suffix">+</span></div><div class="pxl--item-title"> Years of Experience</div></div></div></div></div></div></div></div></div><div class="elementor-element elementor-element-dc5e580 e-flex e-con-boxed pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-parent " data-id="dc5e580" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"><div class="e-con-inner"><div class="elementor-element elementor-element-e668676 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="e668676" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-5e9e3f0 elementor-widget elementor-widget-pxl_heading" data-id="5e9e3f0" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_heading.default"><div class="elementor-widget-container"><div id="pxl-pxl_heading-5e9e3f0-3716" class="pxl-heading px-sub-title-default-style"><div class="pxl-heading--inner"><div class="pxl-item--subtitle px-sub-title-default wow fadeInUp" data-wow-delay="300ms"> <span class="pxl-item--subtext"> Cyber Security Experts </span></div><h2 class="pxl-item--title wow fadeInUp" data-wow-delay="400ms"> Defending Businesses With Expertise And Innovation</h2></div></div></div></div><div class="elementor-element elementor-element-7fcbdca elementor-widget elementor-widget-pxl_text_editor" data-id="7fcbdca" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_text_editor.default"><div class="elementor-widget-container"><div id="pxl_text_editor-7fcbdca-1826" class="pxl-image-wg" duration="1"><div class="pxl-text-editor"><div class="pxl-item--inner wow fadeInUp" data-wow-delay="500ms"> We provide comprehensive cybersecurity solutions tailored for organizations of all sizes. From proactive threat monitoring to advanced incident response, our dedicated team keeps your digital assets safe and resilient.</div></div></div></div></div><div class="elementor-element elementor-element-d149353 elementor-widget elementor-widget-pxl_button" data-id="d149353" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_button.default"><div class="elementor-widget-container"><div id="pxl-pxl_button-d149353-1827" class="pxl-button pxl-atc-link wow fadeInUp" data-wow-delay="600ms"> <a href="contact.php" class="btn pxl-icon-active btn-default wow fadeInUp pxl-icon--left" data-wow-delay="600ms" data-onepage-offset=""> <span class="pxl--btn-text" data-text="Request Consultation"> Request Consultation </span> <span class="pxl--text-wrap"> <span class="pxl--btn-text1">Request Consultation</span> <span class="pxl--btn-text2">Request Consultation</span> </span> </a></div></div></div><div class="elementor-element elementor-element-eb1f6cb e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="eb1f6cb" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-1c217ab elementor-widget elementor-widget-pxl_text_editor" data-id="1c217ab" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_text_editor.default"><div class="elementor-widget-container"><div id="pxl_text_editor-1c217ab-7946" class="pxl-image-wg" duration="1"><div class="pxl-text-editor"><div class="pxl-item--inner " data-wow-delay="ms"><div class="me-3">Google Rating</div></div></div></div></div></div><div class="elementor-element elementor-element-1c17455 elementor-widget elementor-widget-pxl_text_editor" data-id="1c17455" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_text_editor.default"><div class="elementor-widget-container"><div id="pxl_text_editor-1c17455-8626" class="pxl-image-wg" duration="1"><div class="pxl-text-editor"><div class="pxl-item--inner " data-wow-delay="ms"><div class="me-3"><div class="me-3">5.0</div></div></div></div></div></div></div><div class="elementor-element elementor-element-df3c6c1 elementor-widget elementor-widget-pxl_icon" data-id="df3c6c1" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_icon.default"><div class="elementor-widget-container"><div class="pxl-icon-list pxl-icon1 style-default " data-wow-delay="ms"> <a class="elementor-repeater-item-e1ef7bc " > <i aria-hidden="true" class="fas fa-star"></i> </a> <a class="elementor-repeater-item-1fbf14e " > <i aria-hidden="true" class="fas fa-star"></i> </a> <a class="elementor-repeater-item-98ed77d " > <i aria-hidden="true" class="fas fa-star"></i> </a> <a class="elementor-repeater-item-1685a7b " > <i aria-hidden="true" class="fas fa-star"></i> </a> <a class="elementor-repeater-item-67aa573 " > <i aria-hidden="true" class="fas fa-star"></i> </a></div></div></div><div class="elementor-element elementor-element-4c34b9c elementor-widget elementor-widget-pxl_text_editor" data-id="4c34b9c" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_text_editor.default"><div class="elementor-widget-container"><div id="pxl_text_editor-4c34b9c-5360" class="pxl-image-wg" duration="1"><div class="pxl-text-editor"><div class="pxl-item--inner " data-wow-delay="ms"><div class="me-3"><div class="me-3"><div class="me-3">Based on 23k Reviews</div></div></div></div></div></div></div></div></div></div><div class="elementor-element elementor-element-9884016 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="9884016" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-b385525 elementor-widget elementor-widget-pxl_image" data-id="b385525" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_image.default"><div class="elementor-widget-container"><div id="pxl_image-b385525-6077" class="pxl-image-single  style-default wow fadeInUp" data-wow-delay="300ms" ><div class="pxl-item--inner " data-wow-delay="120ms"><div class="pxl-item--image " data-wow-delay="ms" data-parallax-value=""> <img decoding="async" width="1600" height="1740" src="assets/img/d9042bc36b88c834eae276c9243ce681_c1.png" class="attachment-full" alt="" loading="eager" /></div></div></div></div></div></div></div></div><div class="elementor-element elementor-element-419ece7 section-dark e-flex e-con-boxed pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-parent " data-id="419ece7" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"><div class="e-con-inner"><div class="elementor-element elementor-element-92386b9 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="92386b9" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-169c47b elementor-widget elementor-widget-pxl_heading" data-id="169c47b" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_heading.default"><div class="elementor-widget-container"><div id="pxl-pxl_heading-169c47b-7686" class="pxl-heading px-sub-title-default-style"><div class="pxl-heading--inner"><div class="pxl-item--subtitle px-sub-title-default wow fadeInUp" data-wow-delay="300ms"> <span class="pxl-item--subtext"> What We Provide </span></div><h3 class="pxl-item--title wow fadeInUp" data-wow-delay="500ms"> Robust Cybersecurity Services for Today’s Threats</h3></div></div></div></div><div class="elementor-element elementor-element-90c5534 elementor-widget elementor-widget-pxl_text_editor" data-id="90c5534" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_text_editor.default"><div class="elementor-widget-container"><div id="pxl_text_editor-90c5534-9948" class="pxl-image-wg" duration="1"><div class="pxl-text-editor"><div class="pxl-item--inner wow fadeInUp" data-wow-delay="600ms"><p>Protect your business from ever-evolving cyber risks with our end-to-end security solutions. We offer advanced threat detection, real-time monitoring, and proactive defense strategies tailored to your infrastructure. Whether you&#8217;re safeguarding sensitive data or ensuring compliance, our robust cybersecurity services help you stay secure, resilient, and ahead of the threat curve.</p></div></div></div></div></div></div><div class="elementor-element elementor-element-13c5df9 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="13c5df9" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-9e2c36d pxl-post-layout-portfolio-1 elementor-widget elementor-widget-pxl_post_grid" data-id="9e2c36d" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_post_grid.default"><div class="elementor-widget-container"><div id="pxl_post_grid-9e2c36d-4220" class="pxl-grid pxl-portfolio-grid pxl-portfolio-grid-layout1" data-start-page="1" data-max-pages="2" data-total="6" data-perpage="3" data-next-link="index.php" data-layout="masonry"><div class="pxl-grid-inner pxl-grid-masonry row" data-gutter="15"><div class="grid-sizer col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12"></div><div class="pxl-grid-item col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 "><div class="pxl-post--inner wow fadeInUp" data-wow-duration="1.2s"> <span class="pxl-post--overlay"></span><div class="pxl-post--featured hover-imge-effect3"> <img loading="lazy" decoding="async" class="" src="assets/img/560da1e1df8993ced36324fd7b2bb635_projects-img6-1000x1000.jpg" width="1000" height="1000" alt="projects-img6" title="projects-img6" /></div><h6 class="pxl-post--title"> Customer Data Protection</h6><div class="pxl-post--holder"><div class="pxl-item--content"> Protect customer trust with robust database encryption, access control, and privacy law compliance.</div><div class="pxl-post--btn"> <a class="pxl-item-btn" href="contact.php"> <span class="pxl-btn-title">View Details</span> </a></div></div></div></div><div class="pxl-grid-item col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 "><div class="pxl-post--inner wow fadeInUp" data-wow-duration="1.2s"> <span class="pxl-post--overlay"></span><div class="pxl-post--featured hover-imge-effect3"> <img loading="lazy" decoding="async" class="" src="assets/img/7afeb2691212de359e4b5587c326a0db_projects-img5-1000x1000.jpg" width="1000" height="1000" alt="projects-img5" title="projects-img5" /></div><h6 class="pxl-post--title"> Remote Workforce Protection</h6><div class="pxl-post--holder"><div class="pxl-item--content"> Ensure safe remote access with encrypted VPN, multi-factor authentication, and secure endpoint controls.</div><div class="pxl-post--btn"> <a class="pxl-item-btn" href="contact.php"> <span class="pxl-btn-title">View Details</span> </a></div></div></div></div><div class="pxl-grid-item col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 "><div class="pxl-post--inner wow fadeInUp" data-wow-duration="1.2s"> <span class="pxl-post--overlay"></span><div class="pxl-post--featured hover-imge-effect3"> <img loading="lazy" decoding="async" class="" src="assets/img/e41630f39912e16f1f6d76608b03326a_projects-img4-1000x1000.jpg" width="1000" height="1000" alt="projects-img4" title="projects-img4" /></div><h6 class="pxl-post--title"> Real-Time Threat Detection</h6><div class="pxl-post--holder"><div class="pxl-item--content"> Detect and neutralize threats before they breach with our AI-powered real-time monitoring systems.</div><div class="pxl-post--btn"> <a class="pxl-item-btn" href="contact.php"> <span class="pxl-btn-title">View Details</span> </a></div></div></div></div></div></div></div></div></div></div></div><div class="elementor-element elementor-element-90b2cbd e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-parent " data-id="90b2cbd" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-b481731 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="b481731" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-1f8bec8 elementor-widget elementor-widget-pxl_heading" data-id="1f8bec8" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_heading.default"><div class="elementor-widget-container"><div id="pxl-pxl_heading-1f8bec8-5539" class="pxl-heading px-sub-title-default-style"><div class="pxl-heading--inner"><div class="pxl-item--subtitle px-sub-title-default wow fadeInUp" data-wow-delay="300ms"> <span class="pxl-item--subtext"> Customer Success </span></div><h2 class="pxl-item--title wow fadeInUp" data-wow-delay="400ms"> Feedback from our clients</h2></div></div></div></div><div class="elementor-element elementor-element-c6db872 elementor-widget elementor-widget-pxl_text_editor" data-id="c6db872" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_text_editor.default"><div class="elementor-widget-container"><div id="pxl_text_editor-c6db872-9909" class="pxl-image-wg" duration="1"><div class="pxl-text-editor"><div class="pxl-item--inner wow fadeInUp" data-wow-delay="500ms"><p>See how our cybersecurity solutions have helped businesses stay secure, compliant, and resilient against evolving digital threats.</p></div></div></div></div></div></div><div class="elementor-element elementor-element-14e828c e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="14e828c" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-10b5b43 elementor-widget elementor-widget-pxl_testimonial_carousel" data-id="10b5b43" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_testimonial_carousel.default"><div class="elementor-widget-container"><div class="pxl-swiper-sliders pxl-testimonial-carousel pxl-testimonial-carousel1" ><div class="pxl-carousel-inner" data-center="false"><div class="pxl-swiper-container" dir="ltr" data-settings="{&quot;slide_direction&quot;:&quot;horizontal&quot;,&quot;slide_percolumn&quot;:&quot;1&quot;,&quot;slide_mode&quot;:&quot;slide&quot;,&quot;slides_to_show&quot;:&quot;5&quot;,&quot;slides_to_show_xxl&quot;:&quot;5&quot;,&quot;slides_to_show_lg&quot;:&quot;4&quot;,&quot;slides_to_show_md&quot;:&quot;2&quot;,&quot;slides_to_show_sm&quot;:&quot;1&quot;,&quot;slides_to_show_xs&quot;:&quot;1&quot;,&quot;slides_to_scroll&quot;:&quot;1&quot;,&quot;arrow&quot;:&quot;false&quot;,&quot;pagination&quot;:&quot;true&quot;,&quot;pagination_type&quot;:&quot;bullets&quot;,&quot;pagination_number&quot;:&quot;true&quot;,&quot;autoplay&quot;:&quot;&quot;,&quot;pause_on_hover&quot;:&quot;&quot;,&quot;pause_on_interaction&quot;:&quot;true&quot;,&quot;delay&quot;:5000,&quot;loop&quot;:&quot;true&quot;,&quot;speed&quot;:500,&quot;center&quot;:&quot;false&quot;}"><div class="pxl-swiper-wrapper"><div class="pxl-swiper-slide"><div class="pxl-item--inner wow fadeInUp" data-wow-delay="300ms"><div class="pxl-item-author"><div class="pxl-item--image"> <img loading="lazy" decoding="async" class="" src="assets/img/13020e0d55ca945b25afdc3753768172_team-img1-40x40.jpg" width="40" height="40" alt="team-img1" title="team-img1" /></div><div class="pxl-holder-content"><div class="pxl-item--title"> Sarah Johnson</div><div class="pxl-item--position">15 January 2025</div></div></div><div class="pxl-item-image2"> <img loading="lazy" decoding="async" class="" src="assets/img/0fcdacf11756e724940a16e7e9dbf217_google-icon-30x30.png" width="30" height="30" alt="google-icon" title="google-icon" /></div><div class="pxl-inner-star"><div class="pxl-item--star pxl-item--5-star"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i></div></div><div class="pxl-item--desc"> "CyberShield helped us identify critical vulnerabilities before attackers could exploit them. Their team is proactive and truly knows their craft."</div></div></div><div class="pxl-swiper-slide"><div class="pxl-item--inner wow fadeInUp" data-wow-delay="300ms"><div class="pxl-item-author"><div class="pxl-item--image"> <img loading="lazy" decoding="async" class="" src="assets/img/397448043824b15fdf0f690bc24f2484_testimor2-40x40.jpg" width="40" height="40" alt="testimor2" title="testimor2" /></div><div class="pxl-holder-content"><div class="pxl-item--title"> Mark Davis</div><div class="pxl-item--position">28 December 2024</div></div></div><div class="pxl-item-image2"> <img loading="lazy" decoding="async" class="" src="assets/img/0fcdacf11756e724940a16e7e9dbf217_google-icon-30x30.png" width="30" height="30" alt="google-icon" title="google-icon" /></div><div class="pxl-inner-star"><div class="pxl-item--star pxl-item--5-star"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i></div></div><div class="pxl-item--desc"> "Thanks to their 24/7 monitoring, we sleep better knowing our systems are safe. They’ve prevented several potential breaches already."</div></div></div><div class="pxl-swiper-slide"><div class="pxl-item--inner wow fadeInUp" data-wow-delay="300ms"><div class="pxl-item-author"><div class="pxl-item--image"> <img loading="lazy" decoding="async" class="" src="assets/img/92872f88d49ba7915d6c370058bd159f_testimor3-40x40.jpg" width="40" height="40" alt="testimor3" title="testimor3" /></div><div class="pxl-holder-content"><div class="pxl-item--title"> Emily Carter</div><div class="pxl-item--position">10 December 2024</div></div></div><div class="pxl-item-image2"> <img loading="lazy" decoding="async" class="" src="assets/img/0fcdacf11756e724940a16e7e9dbf217_google-icon-30x30.png" width="30" height="30" alt="google-icon" title="google-icon" /></div><div class="pxl-inner-star"><div class="pxl-item--star pxl-item--5-star"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i></div></div><div class="pxl-item--desc"> "Their penetration testing gave us a clear picture of our risks. The remediation plan was actionable and effective. Highly recommended."</div></div></div><div class="pxl-swiper-slide"><div class="pxl-item--inner wow fadeInUp" data-wow-delay="300ms"><div class="pxl-item-author"><div class="pxl-item--image"> <img loading="lazy" decoding="async" class="" src="assets/img/8f4bb7e9a3ffb5af1b8cec9f36dba2aa_testimor4-40x40.jpg" width="40" height="40" alt="testimor4" title="testimor4" /></div><div class="pxl-holder-content"><div class="pxl-item--title"> James Wilson</div><div class="pxl-item--position">4 December 2024</div></div></div><div class="pxl-item-image2"> <img loading="lazy" decoding="async" class="" src="assets/img/0fcdacf11756e724940a16e7e9dbf217_google-icon-30x30.png" width="30" height="30" alt="google-icon" title="google-icon" /></div><div class="pxl-inner-star"><div class="pxl-item--star pxl-item--5-star"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i></div></div><div class="pxl-item--desc"> "We achieved ISO 27001 compliance with their guidance. The team is knowledgeable, patient, and delivers excellent results every time."</div></div></div><div class="pxl-swiper-slide"><div class="pxl-item--inner wow fadeInUp" data-wow-delay="300ms"><div class="pxl-item-author"><div class="pxl-item--image"> <img loading="lazy" decoding="async" class="" src="assets/img/18854af9fc62bb563fab978769f30a5d_testimor5-40x40.jpg" width="40" height="40" alt="testimor5" title="testimor5" /></div><div class="pxl-holder-content"><div class="pxl-item--title"> Olivia Martinez</div><div class="pxl-item--position">22 November 2024</div></div></div><div class="pxl-item-image2"> <img loading="lazy" decoding="async" class="" src="assets/img/0fcdacf11756e724940a16e7e9dbf217_google-icon-30x30.png" width="30" height="30" alt="google-icon" title="google-icon" /></div><div class="pxl-inner-star"><div class="pxl-item--star pxl-item--5-star"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i></div></div><div class="pxl-item--desc"> "Our law firm’s sensitive data is now fully protected. CyberShield gave us the confidence to work securely in a digital-first world."</div></div></div><div class="pxl-swiper-slide"><div class="pxl-item--inner wow fadeInUp" data-wow-delay="300ms"><div class="pxl-item-author"><div class="pxl-item--image"> <img loading="lazy" decoding="async" class="" src="assets/img/5fc5af532331637c79ee790de85fc9f4_testimor6-40x40.jpg" width="40" height="40" alt="testimor6" title="testimor6" /></div><div class="pxl-holder-content"><div class="pxl-item--title"> Michael Brown</div><div class="pxl-item--position">16 November 2024</div></div></div><div class="pxl-item-image2"> <img loading="lazy" decoding="async" class="" src="assets/img/0fcdacf11756e724940a16e7e9dbf217_google-icon-30x30.png" width="30" height="30" alt="google-icon" title="google-icon" /></div><div class="pxl-inner-star"><div class="pxl-item--star pxl-item--5-star"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i></div></div><div class="pxl-item--desc"> "Their incident response team saved us when we faced a ransomware attack. We were back online quickly with minimal disruption."</div></div></div><div class="pxl-swiper-slide"><div class="pxl-item--inner wow fadeInUp" data-wow-delay="300ms"><div class="pxl-item-author"><div class="pxl-item--image"> <img loading="lazy" decoding="async" class="" src="assets/img/e6ffd7737bc6b8eab79762369e3d547c_testimor7-40x40.jpg" width="40" height="40" alt="testimor7" title="testimor7" /></div><div class="pxl-holder-content"><div class="pxl-item--title"> Isabella Green</div><div class="pxl-item--position">2 November 2024</div></div></div><div class="pxl-item-image2"> <img loading="lazy" decoding="async" class="" src="assets/img/0fcdacf11756e724940a16e7e9dbf217_google-icon-30x30.png" width="30" height="30" alt="google-icon" title="google-icon" /></div><div class="pxl-inner-star"><div class="pxl-item--star pxl-item--5-star"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i></div></div><div class="pxl-item--desc"> "They transformed our cloud security. No more misconfigurations or hidden risks — we feel secure managing sensitive workloads."</div></div></div><div class="pxl-swiper-slide"><div class="pxl-item--inner wow fadeInUp" data-wow-delay="300ms"><div class="pxl-item-author"><div class="pxl-item--image"> <img loading="lazy" decoding="async" class="" src="assets/img/ea0eb8dd3905ee5c0b71ddbbd5d0f7b6_testimor8-40x40.jpg" width="40" height="40" alt="testimor8" title="testimor8" /></div><div class="pxl-holder-content"><div class="pxl-item--title"> William Harris</div><div class="pxl-item--position">25 October 2024</div></div></div><div class="pxl-item-image2"> <img loading="lazy" decoding="async" class="" src="assets/img/0fcdacf11756e724940a16e7e9dbf217_google-icon-30x30.png" width="30" height="30" alt="google-icon" title="google-icon" /></div><div class="pxl-inner-star"><div class="pxl-item--star pxl-item--5-star"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i></div></div><div class="pxl-item--desc"> "Their security awareness training dramatically reduced phishing incidents in our company. It’s worth every penny."</div></div></div><div class="pxl-swiper-slide"><div class="pxl-item--inner wow fadeInUp" data-wow-delay="300ms"><div class="pxl-item-author"><div class="pxl-item--image"> <img loading="lazy" decoding="async" class="" src="assets/img/6bed5d68844de3a7a7375bc24662b3f1_testimor9-40x40.jpg" width="40" height="40" alt="testimor9" title="testimor9" /></div><div class="pxl-holder-content"><div class="pxl-item--title"> Sophia Lee</div><div class="pxl-item--position">11 October 2024</div></div></div><div class="pxl-item-image2"> <img loading="lazy" decoding="async" class="" src="assets/img/0fcdacf11756e724940a16e7e9dbf217_google-icon-30x30.png" width="30" height="30" alt="google-icon" title="google-icon" /></div><div class="pxl-inner-star"><div class="pxl-item--star pxl-item--5-star"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i></div></div><div class="pxl-item--desc"> "From consultation to implementation, everything was seamless. They truly care about securing their clients’ businesses."</div></div></div><div class="pxl-swiper-slide"><div class="pxl-item--inner wow fadeInUp" data-wow-delay="300ms"><div class="pxl-item-author"><div class="pxl-item--image"> <img loading="lazy" decoding="async" class="" src="assets/img/0feb825b42311368e01fab19771721d7_testimor10-40x40.jpg" width="40" height="40" alt="testimor10" title="testimor10" /></div><div class="pxl-holder-content"><div class="pxl-item--title"> Daniel Scott</div><div class="pxl-item--position">1 October 2024</div></div></div><div class="pxl-item-image2"> <img loading="lazy" decoding="async" class="" src="assets/img/0fcdacf11756e724940a16e7e9dbf217_google-icon-30x30.png" width="30" height="30" alt="google-icon" title="google-icon" /></div><div class="pxl-inner-star"><div class="pxl-item--star pxl-item--5-star"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i></div></div><div class="pxl-item--desc"> "A top-notch cybersecurity team! They guided us through building a strong defense strategy tailored to our unique needs."</div></div></div></div></div></div><div class="pxl-swiper-dots style-1"></div></div></div></div></div></div><div class="elementor-element elementor-element-d323ab0 e-con-full section-dark e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-parent " data-id="d323ab0" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-d8dbbf9 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="d8dbbf9" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-f8b4bd9 elementor-widget elementor-widget-pxl_video_player" data-id="f8b4bd9" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_video_player.default"><div class="elementor-widget-container"><div class="pxl-video-player pxl-video-player1 pxl-video-style1"><div class="pxl-video--inner"><div class="pxl-video--holder"><div class="pxl-video--imagebg bg-image" style="background-image: url(assets/img/962b59615ea9941096981b488adc16c4_video-bg1.jpg);"></div></div><div class="btn-video-wrap p-center"> <a class="btn-video style1 " data-wow-delay="ms" href="https://www.youtube.com/watch?v=SF4aHwxHtZ0"> <i class="caseicon-play1"></i> </a></div></div></div></div></div></div></div><div class="elementor-element elementor-element-f533c26 e-flex e-con-boxed pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-parent " data-id="f533c26" data-element_type="container" data-e-type="container"><div class="e-con-inner"><div class="elementor-element elementor-element-a42999c e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="a42999c" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-f727383 elementor-widget elementor-widget-pxl_heading" data-id="f727383" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_heading.default"><div class="elementor-widget-container"><div id="pxl-pxl_heading-f727383-1430" class="pxl-heading px-sub-title-default-style"><div class="pxl-heading--inner"><div class="pxl-item--subtitle px-sub-title-default wow fadeInUp" data-wow-delay="300ms"> <span class="pxl-item--subtext"> latest Blogs </span></div><h2 class="pxl-item--title wow fadeInUp" data-wow-delay="400ms"> Latest news and insights from our experts</h2></div></div></div></div><div class="elementor-element elementor-element-80cc644 elementor-widget elementor-widget-pxl_text_editor" data-id="80cc644" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_text_editor.default"><div class="elementor-widget-container"><div id="pxl_text_editor-80cc644-4410" class="pxl-image-wg" duration="1"><div class="pxl-text-editor"><div class="pxl-item--inner wow fadeInUp" data-wow-delay="500ms"><p>Strengthen your network with advanced cyber security services designed to prevent attacks and safeguard your digital assets.</p></div></div></div></div></div></div><div class="elementor-element elementor-element-6b49bdd e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="6b49bdd" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-d7ce5f9 pxl-post-layout-post-1 elementor-widget elementor-widget-pxl_post_grid" data-id="d7ce5f9" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_post_grid.default"><div class="elementor-widget-container"><div id="pxl_post_grid-d7ce5f9-2313" class="pxl-grid pxl-blog-grid pxl-blog-grid1" data-start-page="1" data-max-pages="3" data-total="7" data-perpage="3" data-next-link="index.php" data-layout="masonry"><div class="pxl-grid-inner pxl-grid-masonry row" data-gutter="15"><div class="grid-sizer col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12"></div><div class="pxl-grid-item col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 zero-day"><div class="pxl-post--inner " data-wow-duration="1.2s"> <a class="pxl-inner-link" href="contact.php"></a><div class="pxl-post--featured hover-imge-effect3"> <img loading="lazy" decoding="async" class="" src="assets/img/2647afa881005c0879fd77b5c6335306_blog-details6-1000x1000.jpg" width="1000" height="1000" alt="blog-details6" title="blog-details6" /></div><div class="pxl-item-content"><div class="pxl-item--tags pxl-post-list"> <a href="contact.php"> Phishing </a></div><h4 class="pxl-post--title">Business Scotch Security 2025: The Zero-Day Challenge</h4><div class="pxl-post-meta pxl-flex"><div class="pxl-post--author pxl-flex"><div class="pxl-author--img"> <img loading="lazy" decoding="async" src="assets/img/cb4348ddd30726352a62462e28a31972_author1-150x150.jpg" width="60" height="60" srcset="assets/img/cb4348ddd30726352a62462e28a31972_author1-150x150.jpg 2x" alt="Michael Carter" class="avatar avatar-60 wp-user-avatar wp-user-avatar-60 alignnone photo" /></div><div class="pxl-author-meta"> Michael Carter</div></div><div class="pxl-item--date pxl-flex"> <i class="fal fa-calendar-alt"></i> 8 Oct 2025</div></div></div></div></div><div class="pxl-grid-item col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 phishing"><div class="pxl-post--inner " data-wow-duration="1.2s"> <a class="pxl-inner-link" href="contact.php"></a><div class="pxl-post--featured hover-imge-effect3"> <img loading="lazy" decoding="async" class="" src="assets/img/c24637696eb3b060b7435b142d4e618d_blog-details7-1000x1000.jpg" width="1000" height="1000" alt="blog-details7" title="blog-details7" /></div><div class="pxl-item-content"><div class="pxl-item--tags pxl-post-list"> <a href="contact.php"> Threat Detection </a></div><h4 class="pxl-post--title">Latest Zero-Day Vulnerabilities Every Business Should Know</h4><div class="pxl-post-meta pxl-flex"><div class="pxl-post--author pxl-flex"><div class="pxl-author--img"> <img loading="lazy" decoding="async" src="assets/img/cb4348ddd30726352a62462e28a31972_author1-150x150.jpg" width="60" height="60" srcset="assets/img/cb4348ddd30726352a62462e28a31972_author1-150x150.jpg 2x" alt="Michael Carter" class="avatar avatar-60 wp-user-avatar wp-user-avatar-60 alignnone photo" /></div><div class="pxl-author-meta"> Michael Carter</div></div><div class="pxl-item--date pxl-flex"> <i class="fal fa-calendar-alt"></i> 8 Oct 2025</div></div></div></div></div><div class="pxl-grid-item col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 cybersecurity"><div class="pxl-post--inner " data-wow-duration="1.2s"> <a class="pxl-inner-link" href="contact.php"></a><div class="pxl-post--featured hover-imge-effect3"> <img loading="lazy" decoding="async" class="" src="assets/img/11f58ca208bd18141a6d042d06021f4c_blog-details5-1000x1000.jpg" width="1000" height="1000" alt="blog-details5" title="blog-details5" /></div><div class="pxl-item-content"><div class="pxl-item--tags pxl-post-list"> <a href="contact.php"> Zero-Day </a></div><h4 class="pxl-post--title">Phishing Scams on the Rise: How to Protect Your Team</h4><div class="pxl-post-meta pxl-flex"><div class="pxl-post--author pxl-flex"><div class="pxl-author--img"> <img loading="lazy" decoding="async" src="assets/img/cb4348ddd30726352a62462e28a31972_author1-150x150.jpg" width="60" height="60" srcset="assets/img/cb4348ddd30726352a62462e28a31972_author1-150x150.jpg 2x" alt="Michael Carter" class="avatar avatar-60 wp-user-avatar wp-user-avatar-60 alignnone photo" /></div><div class="pxl-author-meta"> Michael Carter</div></div><div class="pxl-item--date pxl-flex"> <i class="fal fa-calendar-alt"></i> 8 Oct 2025</div></div></div></div></div></div></div></div></div></div></div></div><div class="elementor-element elementor-element-deae1ec e-con-full section-dark e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-parent " data-id="deae1ec" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}"><div class="elementor-element elementor-element-390eaea elementor-absolute elementor-hidden-mobile elementor-widget elementor-widget-pxl_image" data-id="390eaea" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="pxl_image.default"><div class="elementor-widget-container"><div id="pxl_image-390eaea-2285" class="pxl-image-single  style-default wow zoomOut" data-wow-delay="300ms" ><div class="pxl-item--inner " data-wow-delay="120ms"><div class="pxl-item--image " data-wow-delay="ms" data-parallax-value=""> <img src="assets/img/scotch-logo.svg" alt="Scotch Security" style="max-height: 60px; width: auto;" /></div></div></div></div></div><div class="elementor-element elementor-element-77145cd e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="77145cd" data-element_type="container" data-e-type="container"><div class="elementor-element elementor-element-c9d38bf e-flex e-con-boxed pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child " data-id="c9d38bf" data-element_type="container" data-e-type="container"><div class="e-con-inner"><div class="elementor-element elementor-element-d0fc798 elementor-widget elementor-widget-pxl_text_editor" data-id="d0fc798" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_text_editor.default"><div class="elementor-widget-container"><div id="pxl_text_editor-d0fc798-3105" class="pxl-image-wg" duration="1"><div class="pxl-text-editor"><div class="pxl-item--inner wow fadeInRight" data-wow-delay="300ms"> Need Expert Security & Compliance Consulting?</div></div></div></div></div><div class="elementor-element elementor-element-0f34c0b elementor-widget elementor-widget-pxl_button" data-id="0f34c0b" data-element_type="widget" data-e-type="widget" data-widget_type="pxl_button.default"><div class="elementor-widget-container"><div id="pxl-pxl_button-0f34c0b-7998" class="pxl-button pxl-atc-link wow fadeInLeft" data-wow-delay="300ms"> <a href="contact.php" class="btn pxl-icon-active btn-default wow fadeInLeft pxl-icon--left" data-wow-delay="300ms" data-onepage-offset=""> <span class="pxl--btn-text" data-text="Contact Us"> Contact Us </span> <span class="pxl--text-wrap"> <span class="pxl--btn-text1">Contact Us</span> <span class="pxl--btn-text2">Contact Us</span> </span> </a></div></div></div></div></div></div></div></div></div></article></main></div></div></div></div><!-- #main -->
+<div id="pxl-main">
+    <div class="elementor-container">
+        <div class="row pxl-content-wrap no-sidebar">
+            <div id="pxl-content-area" class="pxl-content-area pxl-content-page col-12">
+                <main id="pxl-content-main">
+                    <article id="pxl-post-11" class="post-11 page type-page status-publish hentry">
+                        <div class="pxl-entry-content clearfix">
+                            <div data-elementor-type="wp-page" data-elementor-id="11" class="elementor elementor-11">
+                                <div class="elementor-element elementor-element-4496f90 e-con-full section-dark e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-parent "
+                                    data-id="4496f90" data-element_type="container" data-e-type="container">
+                                    <div class="elementor-element elementor-element-1fe64b8 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                        data-id="1fe64b8" data-element_type="container" data-e-type="container">
+                                        <div class="elementor-element elementor-element-762ca9b elementor-widget elementor-widget-pxl_slider"
+                                            data-id="762ca9b" data-element_type="widget" data-e-type="widget"
+                                            data-widget_type="pxl_slider.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="pxl-swiper-sliders pxl-element-slider pxl-slide pxl-swiper-nogap pxl-swiper-show-arrow"
+                                                    data-cursor-drap="DRAG" data-slider-mode="fade">
+                                                    <div class="pxl-carousel-inner">
+                                                        <div class="pxl-swiper-container" dir="ltr"
+                                                            data-settings="{&quot;slide_direction&quot;:&quot;horizontal&quot;,&quot;slide_percolumn&quot;:&quot;1&quot;,&quot;slide_mode&quot;:&quot;slide&quot;,&quot;slides_to_show&quot;:&quot;1&quot;,&quot;slides_to_show_xxl&quot;:&quot;1&quot;,&quot;slides_to_show_lg&quot;:&quot;1&quot;,&quot;slides_to_show_md&quot;:&quot;1&quot;,&quot;slides_to_show_sm&quot;:&quot;1&quot;,&quot;slides_to_show_xs&quot;:&quot;1&quot;,&quot;slides_to_scroll&quot;:&quot;1&quot;,&quot;arrow&quot;:&quot;true&quot;,&quot;pagination&quot;:&quot;false&quot;,&quot;pagination_type&quot;:&quot;bullets&quot;,&quot;autoplay&quot;:&quot;&quot;,&quot;pause_on_hover&quot;:&quot;&quot;,&quot;pause_on_interaction&quot;:&quot;true&quot;,&quot;delay&quot;:5000,&quot;loop&quot;:&quot;true&quot;,&quot;speed&quot;:500}">
+                                                            <div class="pxl-swiper-wrapper">
+                                                                <div class="pxl-swiper-slide">
+                                                                    <div
+                                                                        class="pxl-slider--inner elementor-repeater-item-04d49f4">
+                                                                        <div class="pxl-slider--overlay">
+                                                                            <div class="pxl-slider--image bg-image"
+                                                                                style="background-image: url(assets/img/a5830b3b30e0e719bc87edde9019e566_service-ptitle1.jpg);">
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="pxl-slider--content">
+                                                                            <div data-elementor-type="wp-post"
+                                                                                data-elementor-id="1373"
+                                                                                class="elementor elementor-1373">
+                                                                                <div class="elementor-element elementor-element-25e6262 e-flex e-con-boxed pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-parent "
+                                                                                    data-id="25e6262"
+                                                                                    data-element_type="container"
+                                                                                    data-e-type="container">
+                                                                                    <div class="e-con-inner">
+                                                                                        <div class="elementor-element elementor-element-c8cade3 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                                                                            data-id="c8cade3"
+                                                                                            data-element_type="container"
+                                                                                            data-e-type="container">
+                                                                                            <div class="elementor-element elementor-element-5c9ccb8 elementor-widget elementor-widget-pxl_heading"
+                                                                                                data-id="5c9ccb8"
+                                                                                                data-element_type="widget"
+                                                                                                data-e-type="widget"
+                                                                                                data-widget_type="pxl_heading.default">
+                                                                                                <div
+                                                                                                    class="elementor-widget-container">
+                                                                                                    <div id="pxl-pxl_heading-5c9ccb8-2954"
+                                                                                                        class="pxl-heading px-sub-title-default-style">
+                                                                                                        <div
+                                                                                                            class="pxl-heading--inner">
+                                                                                                            <div class="pxl-item--subtitle px-sub-title-default "
+                                                                                                                data-wow-delay="ms">
+                                                                                                                <span
+                                                                                                                    class="pxl-item--subtext">
+                                                                                                                    HITRUST
+                                                                                                                    •
+                                                                                                                    ISO
+                                                                                                                    27001
+                                                                                                                    •
+                                                                                                                    SOC
+                                                                                                                    2
+                                                                                                                    Experts
+                                                                                                                </span>
+                                                                                                            </div>
+                                                                                                            <h2 class="pxl-item--title "
+                                                                                                                data-wow-delay="ms">
+                                                                                                                Simplifying
+                                                                                                                Compliance.
+                                                                                                                Strengthening
+                                                                                                                Trust.
+                                                                                                            </h2>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                            <div class="elementor-element elementor-element-420d6c1 elementor-widget elementor-widget-pxl_text_editor"
+                                                                                                data-id="420d6c1"
+                                                                                                data-element_type="widget"
+                                                                                                data-e-type="widget"
+                                                                                                data-widget_type="pxl_text_editor.default">
+                                                                                                <div
+                                                                                                    class="elementor-widget-container">
+                                                                                                    <div id="pxl_text_editor-420d6c1-8796"
+                                                                                                        class="pxl-image-wg"
+                                                                                                        duration="1">
+                                                                                                        <div
+                                                                                                            class="pxl-text-editor">
+                                                                                                            <div class="pxl-item--inner "
+                                                                                                                data-wow-delay="ms">
+                                                                                                                <p>Accelerate
+                                                                                                                    your
+                                                                                                                    journey
+                                                                                                                    to
+                                                                                                                    HITRUST
+                                                                                                                    certification,
+                                                                                                                    ISO
+                                                                                                                    27001
+                                                                                                                    compliance,
+                                                                                                                    and
+                                                                                                                    SOC
+                                                                                                                    2
+                                                                                                                    readiness
+                                                                                                                    with
+                                                                                                                    expert-led
+                                                                                                                    implementation,
+                                                                                                                    audit
+                                                                                                                    preparation,
+                                                                                                                    and
+                                                                                                                    proven
+                                                                                                                    security
+                                                                                                                    frameworks
+                                                                                                                    tailored
+                                                                                                                    to
+                                                                                                                    your
+                                                                                                                    business.
+                                                                                                                </p>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                            <div class="elementor-element elementor-element-52d5861 elementor-align-center elementor-widget elementor-widget-pxl_button"
+                                                                                                data-id="52d5861"
+                                                                                                data-element_type="widget"
+                                                                                                data-e-type="widget"
+                                                                                                data-widget_type="pxl_button.default">
+                                                                                                <div
+                                                                                                    class="elementor-widget-container">
+                                                                                                    <div id="pxl-pxl_button-52d5861-1646"
+                                                                                                        class="pxl-button pxl-atc-link "
+                                                                                                        data-wow-delay="ms">
+                                                                                                        <a href="contact.php"
+                                                                                                            class="btn pxl-icon-active btn-default  pxl-icon--left"
+                                                                                                            data-wow-delay="ms"
+                                                                                                            data-onepage-offset="">
+                                                                                                            <span
+                                                                                                                class="pxl--btn-text"
+                                                                                                                data-text="Book a Free Compliance Consultation">
+                                                                                                                Book a
+                                                                                                                Free
+                                                                                                                Compliance
+                                                                                                                Consultation
+                                                                                                            </span>
+                                                                                                            <span
+                                                                                                                class="pxl--text-wrap">
+                                                                                                                <span
+                                                                                                                    class="pxl--btn-text1">Book
+                                                                                                                    a
+                                                                                                                    Free
+                                                                                                                    Compliance
+                                                                                                                    Consultation</span>
+                                                                                                                <span
+                                                                                                                    class="pxl--btn-text2">Book
+                                                                                                                    a
+                                                                                                                    Free
+                                                                                                                    Compliance
+                                                                                                                    Consultation</span>
+                                                                                                            </span> </a>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                        <div class="elementor-element elementor-element-15436a6 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                                                                            data-id="15436a6"
+                                                                                            data-element_type="container"
+                                                                                            data-e-type="container">
+                                                                                            <div class="elementor-element elementor-element-50b7156 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                                                                                data-id="50b7156"
+                                                                                                data-element_type="container"
+                                                                                                data-e-type="container">
+                                                                                                <div class="elementor-element elementor-element-070894b e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                                                                                    data-id="070894b"
+                                                                                                    data-element_type="container"
+                                                                                                    data-e-type="container">
+                                                                                                    <div class="elementor-element elementor-element-ef15444 elementor-widget elementor-widget-pxl_image"
+                                                                                                        data-id="ef15444"
+                                                                                                        data-element_type="widget"
+                                                                                                        data-e-type="widget"
+                                                                                                        data-widget_type="pxl_image.default">
+                                                                                                        <div
+                                                                                                            class="elementor-widget-container">
+                                                                                                            <div id="pxl_image-ef15444-5297"
+                                                                                                                class="pxl-image-single  style-default "
+                                                                                                                data-wow-delay="ms">
+                                                                                                                <div class="pxl-item--inner "
+                                                                                                                    data-wow-delay="120ms">
+                                                                                                                    <div class="pxl-item--image "
+                                                                                                                        data-wow-delay="ms"
+                                                                                                                        data-parallax-value="">
+                                                                                                                        <img loading="lazy"
+                                                                                                                            decoding="async"
+                                                                                                                            class=""
+                                                                                                                            src="assets/img/930594a68d533407927646976b934388_padlock-100x100.png"
+                                                                                                                            width="100"
+                                                                                                                            height="100"
+                                                                                                                            alt="padlock"
+                                                                                                                            title="padlock" />
+                                                                                                                    </div>
+                                                                                                                </div>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                                <div class="elementor-element elementor-element-6a6af99 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                                                                                    data-id="6a6af99"
+                                                                                                    data-element_type="container"
+                                                                                                    data-e-type="container">
+                                                                                                    <div class="elementor-element elementor-element-5eb3442 elementor-widget elementor-widget-pxl_text_editor"
+                                                                                                        data-id="5eb3442"
+                                                                                                        data-element_type="widget"
+                                                                                                        data-e-type="widget"
+                                                                                                        data-widget_type="pxl_text_editor.default">
+                                                                                                        <div
+                                                                                                            class="elementor-widget-container">
+                                                                                                            <div id="pxl_text_editor-5eb3442-1111"
+                                                                                                                class="pxl-image-wg"
+                                                                                                                duration="1">
+                                                                                                                <div
+                                                                                                                    class="pxl-text-editor">
+                                                                                                                    <div class="pxl-item--inner "
+                                                                                                                        data-wow-delay="ms">
+                                                                                                                        HITRUST
+                                                                                                                        Certification
+                                                                                                                        Support
+                                                                                                                    </div>
+                                                                                                                </div>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                    <div class="elementor-element elementor-element-a78a0ee elementor-widget elementor-widget-pxl_text_editor"
+                                                                                                        data-id="a78a0ee"
+                                                                                                        data-element_type="widget"
+                                                                                                        data-e-type="widget"
+                                                                                                        data-widget_type="pxl_text_editor.default">
+                                                                                                        <div
+                                                                                                            class="elementor-widget-container">
+                                                                                                            <div id="pxl_text_editor-a78a0ee-3543"
+                                                                                                                class="pxl-image-wg"
+                                                                                                                duration="1">
+                                                                                                                <div
+                                                                                                                    class="pxl-text-editor">
+                                                                                                                    <div class="pxl-item--inner "
+                                                                                                                        data-wow-delay="ms">
+                                                                                                                        <p>End-to-end
+                                                                                                                            HITRUST
+                                                                                                                            CSF
+                                                                                                                            certification
+                                                                                                                            support
+                                                                                                                            including
+                                                                                                                            gap
+                                                                                                                            assessments,
+                                                                                                                            control
+                                                                                                                            implementation,
+                                                                                                                            documentation,
+                                                                                                                            and
+                                                                                                                            audit
+                                                                                                                            readiness.
+                                                                                                                        </p>
+                                                                                                                    </div>
+                                                                                                                </div>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+
+                                                                                            <!-- Service 2 -->
+                                                                                            <div class="elementor-element elementor-element-651310b e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                                                                                data-id="651310b"
+                                                                                                data-element_type="container"
+                                                                                                data-e-type="container">
+                                                                                                <div class="elementor-element elementor-element-64eaa3b e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                                                                                    data-id="64eaa3b"
+                                                                                                    data-element_type="container"
+                                                                                                    data-e-type="container">
+                                                                                                    <div class="elementor-element elementor-element-6028729 elementor-widget elementor-widget-pxl_image"
+                                                                                                        data-id="6028729"
+                                                                                                        data-element_type="widget"
+                                                                                                        data-e-type="widget"
+                                                                                                        data-widget_type="pxl_image.default">
+                                                                                                        <div
+                                                                                                            class="elementor-widget-container">
+                                                                                                            <div id="pxl_image-6028729-2185"
+                                                                                                                class="pxl-image-single  style-default "
+                                                                                                                data-wow-delay="ms">
+                                                                                                                <div class="pxl-item--inner "
+                                                                                                                    data-wow-delay="120ms">
+                                                                                                                    <div class="pxl-item--image "
+                                                                                                                        data-wow-delay="ms"
+                                                                                                                        data-parallax-value="">
+                                                                                                                        <img loading="lazy"
+                                                                                                                            decoding="async"
+                                                                                                                            class=""
+                                                                                                                            src="assets/img/a596e33bd8ab55c6b60735e471ebff19_cloud-100x100.png"
+                                                                                                                            width="100"
+                                                                                                                            height="100"
+                                                                                                                            alt="cloud"
+                                                                                                                            title="cloud" />
+                                                                                                                    </div>
+                                                                                                                </div>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                                <div class="elementor-element elementor-element-dd1cdda e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                                                                                    data-id="dd1cdda"
+                                                                                                    data-element_type="container"
+                                                                                                    data-e-type="container">
+                                                                                                    <div
+                                                                                                        class="elementor-element elementor-element-b7a3c85 elementor-widget elementor-widget-pxl_text_editor">
+                                                                                                        <div
+                                                                                                            class="elementor-widget-container">
+                                                                                                            <div
+                                                                                                                class="pxl-text-editor">
+                                                                                                                <div
+                                                                                                                    class="pxl-item--inner">
+                                                                                                                    ISO
+                                                                                                                    27001
+                                                                                                                    Implementation
+                                                                                                                </div>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                    <div
+                                                                                                        class="elementor-element elementor-element-05bcda3 elementor-widget elementor-widget-pxl_text_editor">
+                                                                                                        <div
+                                                                                                            class="elementor-widget-container">
+                                                                                                            <div
+                                                                                                                class="pxl-text-editor">
+                                                                                                                <div
+                                                                                                                    class="pxl-item--inner">
+                                                                                                                    <p>Design
+                                                                                                                        and
+                                                                                                                        implement
+                                                                                                                        an
+                                                                                                                        ISO
+                                                                                                                        27001-compliant
+                                                                                                                        ISMS
+                                                                                                                        with
+                                                                                                                        risk
+                                                                                                                        management,
+                                                                                                                        policies,
+                                                                                                                        and
+                                                                                                                        certification
+                                                                                                                        support.
+                                                                                                                    </p>
+                                                                                                                </div>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+
+                                                                                            <!-- Service 3 -->
+                                                                                            <div
+                                                                                                class="elementor-element elementor-element-b34f4f3 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child ">
+
+
+                                                                                                <div class="elementor-element elementor-element-4c84b80 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                                                                                    data-id="4c84b80"
+                                                                                                    data-element_type="container"
+                                                                                                    data-e-type="container">
+                                                                                                    <div class="elementor-element elementor-element-f865390 elementor-widget elementor-widget-pxl_image"
+                                                                                                        data-id="f865390"
+                                                                                                        data-element_type="widget"
+                                                                                                        data-e-type="widget"
+                                                                                                        data-widget_type="pxl_image.default">
+                                                                                                        <div
+                                                                                                            class="elementor-widget-container">
+                                                                                                            <div id="pxl_image-f865390-5916"
+                                                                                                                class="pxl-image-single  style-default "
+                                                                                                                data-wow-delay="ms">
+                                                                                                                <div class="pxl-item--inner "
+                                                                                                                    data-wow-delay="120ms">
+                                                                                                                    <div class="pxl-item--image "
+                                                                                                                        data-wow-delay="ms"
+                                                                                                                        data-parallax-value="">
+                                                                                                                        <img loading="lazy"
+                                                                                                                            decoding="async"
+                                                                                                                            class=""
+                                                                                                                            src="assets/img/317e075f330bad463c6e6bac3173ce91_quality-100x100.png"
+                                                                                                                            width="100"
+                                                                                                                            height="100"
+                                                                                                                            alt="quality"
+                                                                                                                            title="quality">
+                                                                                                                    </div>
+                                                                                                                </div>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                                <div
+                                                                                                    class="elementor-element elementor-element-b1f0b38 e-con-full e-flex">
+                                                                                                    <div
+                                                                                                        class="elementor-element elementor-element-2d0deeb elementor-widget elementor-widget-pxl_text_editor">
+                                                                                                        <div
+                                                                                                            class="elementor-widget-container">
+                                                                                                            <div
+                                                                                                                class="pxl-text-editor">
+                                                                                                                <div
+                                                                                                                    class="pxl-item--inner">
+                                                                                                                    SOC
+                                                                                                                    2
+                                                                                                                    Readiness
+                                                                                                                    &
+                                                                                                                    Implementation
+                                                                                                                </div>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                    <div
+                                                                                                        class="elementor-element elementor-element-32d3b96 elementor-widget elementor-widget-pxl_text_editor">
+                                                                                                        <div
+                                                                                                            class="elementor-widget-container">
+                                                                                                            <div
+                                                                                                                class="pxl-text-editor">
+                                                                                                                <div
+                                                                                                                    class="pxl-item--inner">
+                                                                                                                    Prepare
+                                                                                                                    for
+                                                                                                                    SOC
+                                                                                                                    2
+                                                                                                                    audits
+                                                                                                                    with
+                                                                                                                    readiness
+                                                                                                                    assessments,
+                                                                                                                    control
+                                                                                                                    design,
+                                                                                                                    and
+                                                                                                                    continuous
+                                                                                                                    compliance
+                                                                                                                    aligned
+                                                                                                                    with
+                                                                                                                    Trust
+                                                                                                                    Services
+                                                                                                                    Criteria.
+                                                                                                                </div>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="pxl-swiper-slide">
+                                                                    <div
+                                                                        class="pxl-slider--inner elementor-repeater-item-10fd142">
+                                                                        <div class="pxl-slider--overlay">
+                                                                            <div class="pxl-slider--image bg-image"
+                                                                                style="background-image: url(assets/img/d3c54ce9a4501dae59480fe29cc80135_slide-bg1.jpg);">
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="pxl-slider--content">
+                                                                            <div data-elementor-type="wp-post"
+                                                                                data-elementor-id="1343"
+                                                                                class="elementor elementor-1343">
+                                                                                <div class="elementor-element elementor-element-25e6262 e-flex e-con-boxed pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-parent "
+                                                                                    data-id="25e6262"
+                                                                                    data-element_type="container"
+                                                                                    data-e-type="container">
+                                                                                    <div class="e-con-inner">
+                                                                                        <div class="elementor-element elementor-element-c8cade3 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                                                                            data-id="c8cade3"
+                                                                                            data-element_type="container"
+                                                                                            data-e-type="container">
+                                                                                            <div class="elementor-element elementor-element-5c9ccb8 elementor-widget elementor-widget-pxl_heading"
+                                                                                                data-id="5c9ccb8"
+                                                                                                data-element_type="widget"
+                                                                                                data-e-type="widget"
+                                                                                                data-widget_type="pxl_heading.default">
+                                                                                                <div
+                                                                                                    class="elementor-widget-container">
+                                                                                                    <div id="pxl-pxl_heading-5c9ccb8-2954"
+                                                                                                        class="pxl-heading px-sub-title-default-style">
+                                                                                                        <div
+                                                                                                            class="pxl-heading--inner">
+                                                                                                            <div class="pxl-item--subtitle px-sub-title-default "
+                                                                                                                data-wow-delay="ms">
+                                                                                                                <span
+                                                                                                                    class="pxl-item--subtext">
+                                                                                                                    HITRUST
+                                                                                                                    •
+                                                                                                                    ISO
+                                                                                                                    27001
+                                                                                                                    •
+                                                                                                                    SOC
+                                                                                                                    2
+                                                                                                                    Experts
+                                                                                                                </span>
+                                                                                                            </div>
+                                                                                                            <h2 class="pxl-item--title "
+                                                                                                                data-wow-delay="ms">
+                                                                                                                Simplifying
+                                                                                                                Compliance.
+                                                                                                                Strengthening
+                                                                                                                Trust.
+                                                                                                            </h2>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                            <div class="elementor-element elementor-element-420d6c1 elementor-widget elementor-widget-pxl_text_editor"
+                                                                                                data-id="420d6c1"
+                                                                                                data-element_type="widget"
+                                                                                                data-e-type="widget"
+                                                                                                data-widget_type="pxl_text_editor.default">
+                                                                                                <div
+                                                                                                    class="elementor-widget-container">
+                                                                                                    <div id="pxl_text_editor-420d6c1-8796"
+                                                                                                        class="pxl-image-wg"
+                                                                                                        duration="1">
+                                                                                                        <div
+                                                                                                            class="pxl-text-editor">
+                                                                                                            <div class="pxl-item--inner "
+                                                                                                                data-wow-delay="ms">
+                                                                                                                <p>Accelerate
+                                                                                                                    your
+                                                                                                                    journey
+                                                                                                                    to
+                                                                                                                    HITRUST
+                                                                                                                    certification,
+                                                                                                                    ISO
+                                                                                                                    27001
+                                                                                                                    compliance,
+                                                                                                                    and
+                                                                                                                    SOC
+                                                                                                                    2
+                                                                                                                    readiness
+                                                                                                                    with
+                                                                                                                    expert-led
+                                                                                                                    implementation,
+                                                                                                                    audit
+                                                                                                                    preparation,
+                                                                                                                    and
+                                                                                                                    proven
+                                                                                                                    security
+                                                                                                                    frameworks
+                                                                                                                    tailored
+                                                                                                                    to
+                                                                                                                    your
+                                                                                                                    business.
+                                                                                                                </p>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                            <div class="elementor-element elementor-element-52d5861 elementor-align-center elementor-widget elementor-widget-pxl_button"
+                                                                                                data-id="52d5861"
+                                                                                                data-element_type="widget"
+                                                                                                data-e-type="widget"
+                                                                                                data-widget_type="pxl_button.default">
+                                                                                                <div
+                                                                                                    class="elementor-widget-container">
+                                                                                                    <div id="pxl-pxl_button-52d5861-1646"
+                                                                                                        class="pxl-button pxl-atc-link "
+                                                                                                        data-wow-delay="ms">
+                                                                                                        <a href="contact.php"
+                                                                                                            class="btn pxl-icon-active btn-default  pxl-icon--left"
+                                                                                                            data-wow-delay="ms"
+                                                                                                            data-onepage-offset="">
+                                                                                                            <span
+                                                                                                                class="pxl--btn-text"
+                                                                                                                data-text="Book a Free Compliance Consultation">
+                                                                                                                Book a
+                                                                                                                Free
+                                                                                                                Compliance
+                                                                                                                Consultation
+                                                                                                            </span>
+                                                                                                            <span
+                                                                                                                class="pxl--text-wrap">
+                                                                                                                <span
+                                                                                                                    class="pxl--btn-text1">Book
+                                                                                                                    a
+                                                                                                                    Free
+                                                                                                                    Compliance
+                                                                                                                    Consultation</span>
+                                                                                                                <span
+                                                                                                                    class="pxl--btn-text2">Book
+                                                                                                                    a
+                                                                                                                    Free
+                                                                                                                    Compliance
+                                                                                                                    Consultation</span>
+                                                                                                            </span> </a>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                        <div class="elementor-element elementor-element-15436a6 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                                                                            data-id="15436a6"
+                                                                                            data-element_type="container"
+                                                                                            data-e-type="container">
+                                                                                            <div class="elementor-element elementor-element-50b7156 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                                                                                data-id="50b7156"
+                                                                                                data-element_type="container"
+                                                                                                data-e-type="container">
+                                                                                                <div class="elementor-element elementor-element-070894b e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                                                                                    data-id="070894b"
+                                                                                                    data-element_type="container"
+                                                                                                    data-e-type="container">
+                                                                                                    <div class="elementor-element elementor-element-ef15444 elementor-widget elementor-widget-pxl_image"
+                                                                                                        data-id="ef15444"
+                                                                                                        data-element_type="widget"
+                                                                                                        data-e-type="widget"
+                                                                                                        data-widget_type="pxl_image.default">
+                                                                                                        <div
+                                                                                                            class="elementor-widget-container">
+                                                                                                            <div id="pxl_image-ef15444-5297"
+                                                                                                                class="pxl-image-single  style-default "
+                                                                                                                data-wow-delay="ms">
+                                                                                                                <div class="pxl-item--inner "
+                                                                                                                    data-wow-delay="120ms">
+                                                                                                                    <div class="pxl-item--image "
+                                                                                                                        data-wow-delay="ms"
+                                                                                                                        data-parallax-value="">
+                                                                                                                        <img loading="lazy"
+                                                                                                                            decoding="async"
+                                                                                                                            class=""
+                                                                                                                            src="assets/img/930594a68d533407927646976b934388_padlock-100x100.png"
+                                                                                                                            width="100"
+                                                                                                                            height="100"
+                                                                                                                            alt="padlock"
+                                                                                                                            title="padlock" />
+                                                                                                                    </div>
+                                                                                                                </div>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                                <div class="elementor-element elementor-element-6a6af99 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                                                                                    data-id="6a6af99"
+                                                                                                    data-element_type="container"
+                                                                                                    data-e-type="container">
+                                                                                                    <div class="elementor-element elementor-element-5eb3442 elementor-widget elementor-widget-pxl_text_editor"
+                                                                                                        data-id="5eb3442"
+                                                                                                        data-element_type="widget"
+                                                                                                        data-e-type="widget"
+                                                                                                        data-widget_type="pxl_text_editor.default">
+                                                                                                        <div
+                                                                                                            class="elementor-widget-container">
+                                                                                                            <div id="pxl_text_editor-5eb3442-1111"
+                                                                                                                class="pxl-image-wg"
+                                                                                                                duration="1">
+                                                                                                                <div
+                                                                                                                    class="pxl-text-editor">
+                                                                                                                    <div class="pxl-item--inner "
+                                                                                                                        data-wow-delay="ms">
+                                                                                                                        HIPAA
+                                                                                                                        Compliance
+                                                                                                                        Consulting
+                                                                                                                    </div>
+                                                                                                                </div>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                    <div class="elementor-element elementor-element-a78a0ee elementor-widget elementor-widget-pxl_text_editor"
+                                                                                                        data-id="a78a0ee"
+                                                                                                        data-element_type="widget"
+                                                                                                        data-e-type="widget"
+                                                                                                        data-widget_type="pxl_text_editor.default">
+                                                                                                        <div
+                                                                                                            class="elementor-widget-container">
+                                                                                                            <div id="pxl_text_editor-a78a0ee-3543"
+                                                                                                                class="pxl-image-wg"
+                                                                                                                duration="1">
+                                                                                                                <div
+                                                                                                                    class="pxl-text-editor">
+                                                                                                                    <div class="pxl-item--inner "
+                                                                                                                        data-wow-delay="ms">
+                                                                                                                        <p>Expert
+                                                                                                                            guidance
+                                                                                                                            to
+                                                                                                                            achieve
+                                                                                                                            and
+                                                                                                                            maintain
+                                                                                                                            HIPAA
+                                                                                                                            compliance,
+                                                                                                                            including
+                                                                                                                            gap
+                                                                                                                            analysis,
+                                                                                                                            policy
+                                                                                                                            development,
+                                                                                                                            implementation,
+                                                                                                                            and
+                                                                                                                            audit
+                                                                                                                            readiness
+                                                                                                                            support.
+                                                                                                                        </p>
+                                                                                                                    </div>
+                                                                                                                </div>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+
+                                                                                            <!-- Service 2 -->
+                                                                                            <div class="elementor-element elementor-element-651310b e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                                                                                data-id="651310b"
+                                                                                                data-element_type="container"
+                                                                                                data-e-type="container">
+                                                                                                <div class="elementor-element elementor-element-64eaa3b e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                                                                                    data-id="64eaa3b"
+                                                                                                    data-element_type="container"
+                                                                                                    data-e-type="container">
+                                                                                                    <div class="elementor-element elementor-element-6028729 elementor-widget elementor-widget-pxl_image"
+                                                                                                        data-id="6028729"
+                                                                                                        data-element_type="widget"
+                                                                                                        data-e-type="widget"
+                                                                                                        data-widget_type="pxl_image.default">
+                                                                                                        <div
+                                                                                                            class="elementor-widget-container">
+                                                                                                            <div id="pxl_image-6028729-2185"
+                                                                                                                class="pxl-image-single  style-default "
+                                                                                                                data-wow-delay="ms">
+                                                                                                                <div class="pxl-item--inner "
+                                                                                                                    data-wow-delay="120ms">
+                                                                                                                    <div class="pxl-item--image "
+                                                                                                                        data-wow-delay="ms"
+                                                                                                                        data-parallax-value="">
+                                                                                                                        <img loading="lazy"
+                                                                                                                            decoding="async"
+                                                                                                                            class=""
+                                                                                                                            src="assets/img/a596e33bd8ab55c6b60735e471ebff19_cloud-100x100.png"
+                                                                                                                            width="100"
+                                                                                                                            height="100"
+                                                                                                                            alt="cloud"
+                                                                                                                            title="cloud" />
+                                                                                                                    </div>
+                                                                                                                </div>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                                <div class="elementor-element elementor-element-dd1cdda e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                                                                                    data-id="dd1cdda"
+                                                                                                    data-element_type="container"
+                                                                                                    data-e-type="container">
+                                                                                                    <div
+                                                                                                        class="elementor-element elementor-element-b7a3c85 elementor-widget elementor-widget-pxl_text_editor">
+                                                                                                        <div
+                                                                                                            class="elementor-widget-container">
+                                                                                                            <div
+                                                                                                                class="pxl-text-editor">
+                                                                                                                <div
+                                                                                                                    class="pxl-item--inner">
+                                                                                                                    Security
+                                                                                                                    Risk
+                                                                                                                    Assessments
+                                                                                                                </div>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                    <div
+                                                                                                        class="elementor-element elementor-element-05bcda3 elementor-widget elementor-widget-pxl_text_editor">
+                                                                                                        <div
+                                                                                                            class="elementor-widget-container">
+                                                                                                            <div
+                                                                                                                class="pxl-text-editor">
+                                                                                                                <div
+                                                                                                                    class="pxl-item--inner">
+                                                                                                                    <p>Identify
+                                                                                                                        vulnerabilities
+                                                                                                                        and
+                                                                                                                        assess
+                                                                                                                        security
+                                                                                                                        risks
+                                                                                                                        through
+                                                                                                                        comprehensive
+                                                                                                                        evaluations,
+                                                                                                                        helping
+                                                                                                                        you
+                                                                                                                        strengthen
+                                                                                                                        your
+                                                                                                                        security
+                                                                                                                        posture
+                                                                                                                        and
+                                                                                                                        meet
+                                                                                                                        compliance
+                                                                                                                        requirements.
+                                                                                                                    </p>
+                                                                                                                </div>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+
+                                                                                            <!-- Service 3 -->
+                                                                                            <div
+                                                                                                class="elementor-element elementor-element-b34f4f3 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child ">
+                                                                                                <div class="elementor-element elementor-element-4c84b80 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                                                                                    data-id="4c84b80"
+                                                                                                    data-element_type="container"
+                                                                                                    data-e-type="container">
+                                                                                                    <div class="elementor-element elementor-element-f865390 elementor-widget elementor-widget-pxl_image"
+                                                                                                        data-id="f865390"
+                                                                                                        data-element_type="widget"
+                                                                                                        data-e-type="widget"
+                                                                                                        data-widget_type="pxl_image.default">
+                                                                                                        <div
+                                                                                                            class="elementor-widget-container">
+                                                                                                            <div id="pxl_image-f865390-5916"
+                                                                                                                class="pxl-image-single  style-default "
+                                                                                                                data-wow-delay="ms">
+                                                                                                                <div class="pxl-item--inner "
+                                                                                                                    data-wow-delay="120ms">
+                                                                                                                    <div class="pxl-item--image "
+                                                                                                                        data-wow-delay="ms"
+                                                                                                                        data-parallax-value="">
+                                                                                                                        <img loading="lazy"
+                                                                                                                            decoding="async"
+                                                                                                                            class=""
+                                                                                                                            src="assets/img/317e075f330bad463c6e6bac3173ce91_quality-100x100.png"
+                                                                                                                            width="100"
+                                                                                                                            height="100"
+                                                                                                                            alt="quality"
+                                                                                                                            title="quality">
+                                                                                                                    </div>
+                                                                                                                </div>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                                <div
+                                                                                                    class="elementor-element elementor-element-b1f0b38 e-con-full e-flex">
+                                                                                                    <div
+                                                                                                        class="elementor-element elementor-element-2d0deeb elementor-widget elementor-widget-pxl_text_editor">
+                                                                                                        <div
+                                                                                                            class="elementor-widget-container">
+                                                                                                            <div
+                                                                                                                class="pxl-text-editor">
+                                                                                                                <div
+                                                                                                                    class="pxl-item--inner">
+                                                                                                                    Compliance
+                                                                                                                    Documentation
+                                                                                                                </div>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                    <div
+                                                                                                        class="elementor-element elementor-element-32d3b96 elementor-widget elementor-widget-pxl_text_editor">
+                                                                                                        <div
+                                                                                                            class="elementor-widget-container">
+                                                                                                            <div
+                                                                                                                class="pxl-text-editor">
+                                                                                                                <div
+                                                                                                                    class="pxl-item--inner">
+                                                                                                                    Prepare
+                                                                                                                    for
+                                                                                                                    SOC
+                                                                                                                    2
+                                                                                                                    audits
+                                                                                                                    with
+                                                                                                                    readiness
+                                                                                                                    assessments,
+                                                                                                                    control
+                                                                                                                    design,
+                                                                                                                    and
+                                                                                                                    continuous
+                                                                                                                    compliance
+                                                                                                                    aligned
+                                                                                                                    with
+                                                                                                                    Trust
+                                                                                                                    Services
+                                                                                                                    Criteria.
+                                                                                                                </div>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+
+                                                                                        </div>
+                                                                                    </div>
+
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="pxl-swiper-arrow-wrap">
+                                                            <div class="pxl-swiper-arrow pxl-swiper-arrow-prev"><i
+                                                                    class="caseicon-angle-arrow-left rtl-icon"></i>
+                                                            </div>
+                                                            <div class="pxl-swiper-arrow pxl-swiper-arrow-next"><i
+                                                                    class="caseicon-angle-arrow-right rtl-icon"></i>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="elementor-element elementor-element-6dd3397 e-con-full section-dark e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-parent "
+                                    data-id="6dd3397" data-element_type="container" data-e-type="container"
+                                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                    <div class="elementor-element elementor-element-73535cd elementor-absolute elementor-hidden-mobile elementor-widget elementor-widget-pxl_image"
+                                        data-id="73535cd" data-element_type="widget" data-e-type="widget"
+                                        data-settings="{&quot;_position&quot;:&quot;absolute&quot;}"
+                                        data-widget_type="pxl_image.default">
+                                        <div class="elementor-widget-container">
+                                            <div id="pxl_image-73535cd-3391"
+                                                class="pxl-image-single  style-default wow zoomOut"
+                                                data-wow-delay="300ms">
+                                                <div class="pxl-item--inner " data-wow-delay="120ms">
+                                                    <div class="pxl-item--image " data-wow-delay="ms"
+                                                        data-parallax-value=""> <img src="assets/img/scotch-logo.svg"
+                                                            alt="Scotch Security"
+                                                            style="max-height: 60px; width: auto;" /></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="elementor-element elementor-element-d4ac086 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                        data-id="d4ac086" data-element_type="container" data-e-type="container">
+                                        <div class="elementor-element elementor-element-1239ef0 e-flex e-con-boxed pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                            data-id="1239ef0" data-element_type="container" data-e-type="container">
+                                            <div class="e-con-inner">
+                                                <div class="elementor-element elementor-element-255b011 elementor-widget elementor-widget-pxl_text_editor"
+                                                    data-id="255b011" data-element_type="widget" data-e-type="widget"
+                                                    data-widget_type="pxl_text_editor.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div id="pxl_text_editor-255b011-7980" class="pxl-image-wg"
+                                                            duration="1">
+                                                            <div class="pxl-text-editor">
+                                                                <div class="pxl-item--inner wow fadeInRight"
+                                                                    data-wow-delay="300ms"> Need Expert Security &
+                                                                    Compliance Consulting?</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-99f9bd4 elementor-widget elementor-widget-pxl_button"
+                                                    data-id="99f9bd4" data-element_type="widget" data-e-type="widget"
+                                                    data-widget_type="pxl_button.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div id="pxl-pxl_button-99f9bd4-4175"
+                                                            class="pxl-button pxl-atc-link wow fadeInLeft"
+                                                            data-wow-delay="300ms"> <a href="contact.php"
+                                                                class="btn pxl-icon-active btn-default wow fadeInLeft pxl-icon--left"
+                                                                data-wow-delay="300ms" data-onepage-offset=""> <span
+                                                                    class="pxl--btn-text" data-text="Contact Us">
+                                                                    Contact Us </span> <span class="pxl--text-wrap">
+                                                                    <span class="pxl--btn-text1">Contact Us</span> <span
+                                                                        class="pxl--btn-text2">Contact Us</span> </span>
+                                                            </a></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="elementor-element elementor-element-ff5e39e e-flex e-con-boxed pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-parent "
+                                    data-id="ff5e39e" data-element_type="container" data-e-type="container"
+                                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                    <div class="e-con-inner">
+                                        <div class="elementor-element elementor-element-79cae8d e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                            data-id="79cae8d" data-element_type="container" data-e-type="container">
+                                            <div class="elementor-element elementor-element-8f3cbfa elementor-widget elementor-widget-pxl_heading"
+                                                data-id="8f3cbfa" data-element_type="widget" data-e-type="widget"
+                                                data-widget_type="pxl_heading.default">
+                                                <div class="elementor-widget-container">
+                                                    <div id="pxl-pxl_heading-8f3cbfa-6893"
+                                                        class="pxl-heading px-sub-title-default-style">
+                                                        <div class="pxl-heading--inner">
+                                                            <div class="pxl-item--subtitle px-sub-title-default wow fadeInUp"
+                                                                data-wow-delay="300ms"> <span class="pxl-item--subtext">
+                                                                    Information Security & Compliance Experts </span>
+                                                            </div>
+                                                            <h2 class="pxl-item--title wow fadeInUp"
+                                                                data-wow-delay="500ms">Compliance Made Simple.
+                                                                Certification Made Achievable.</h2>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-8c2e62c e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                            data-id="8c2e62c" data-element_type="container" data-e-type="container">
+                                            <div class="elementor-element elementor-element-12bbd5e e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                                data-id="12bbd5e" data-element_type="container" data-e-type="container">
+                                                <div class="elementor-element elementor-element-0176904 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                                    data-id="0176904" data-element_type="container"
+                                                    data-e-type="container">
+                                                    <div class="elementor-element elementor-element-fb6e5e2 elementor-widget elementor-widget-pxl_image"
+                                                        data-id="fb6e5e2" data-element_type="widget"
+                                                        data-e-type="widget" data-widget_type="pxl_image.default">
+                                                        <div class="elementor-widget-container">
+                                                            <div id="pxl_image-fb6e5e2-8201"
+                                                                class="pxl-image-single  style-default wow zoomInSmall"
+                                                                data-wow-delay="300ms">
+                                                                <div class="pxl-item--inner " data-wow-delay="120ms">
+                                                                    <div class="pxl-item--bg bg-image wow scaleIn"
+                                                                        data-wow-delay="300ms"
+                                                                        style="background-image: url(assets/img/720e65c7c2034a552b459988a430918a_blog-img9.jpg);">
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="elementor-element elementor-element-197e1d4 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none elementor-invisible e-con e-child "
+                                                        data-id="197e1d4" data-element_type="container"
+                                                        data-e-type="container"
+                                                        data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;position&quot;:&quot;absolute&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:300}">
+                                                        <div class="elementor-element elementor-element-2f51691 elementor-widget elementor-widget-pxl_text_editor"
+                                                            data-id="2f51691" data-element_type="widget"
+                                                            data-e-type="widget"
+                                                            data-widget_type="pxl_text_editor.default">
+                                                            <div class="elementor-widget-container">
+                                                                <div id="pxl_text_editor-2f51691-2281"
+                                                                    class="pxl-image-wg" duration="1">
+                                                                    <div class="pxl-text-editor">
+                                                                        <div class="pxl-item--inner "
+                                                                            data-wow-delay="ms"> 99.9%</div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="elementor-element elementor-element-5292554 elementor-widget elementor-widget-pxl_text_editor"
+                                                            data-id="5292554" data-element_type="widget"
+                                                            data-e-type="widget"
+                                                            data-widget_type="pxl_text_editor.default">
+                                                            <div class="elementor-widget-container">
+                                                                <div id="pxl_text_editor-5292554-7075"
+                                                                    class="pxl-image-wg" duration="1">
+                                                                    <div class="pxl-text-editor">
+                                                                        <div class="pxl-item--inner "
+                                                                            data-wow-delay="ms">
+                                                                            <p>Compliance Readiness Success Rate</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-b92964e elementor-absolute elementor-hidden-mobile elementor-invisible elementor-widget elementor-widget-pxl_image"
+                                                    data-id="b92964e" data-element_type="widget" data-e-type="widget"
+                                                    data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;_animation&quot;:&quot;fadeInRight&quot;,&quot;_animation_delay&quot;:500}"
+                                                    data-widget_type="pxl_image.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div id="pxl_image-b92964e-7202"
+                                                            class="pxl-image-single  style-default "
+                                                            data-wow-delay="ms">
+                                                            <div class="pxl-item--inner " data-wow-delay="120ms">
+                                                                <div class="pxl-item--image " data-wow-delay="ms"
+                                                                    data-parallax-value=""> <img loading="lazy"
+                                                                        decoding="async" class=""
+                                                                        src="assets/img/a73088fa7affda770d4fa7f8f3b8ed8c_img-contact1-308x308.jpg"
+                                                                        width="308" height="308" alt="img-contact1"
+                                                                        title="img-contact1" /></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-0d6a46a elementor-widget elementor-widget-spacer"
+                                                    data-id="0d6a46a" data-element_type="widget" data-e-type="widget"
+                                                    data-widget_type="spacer.default">
+                                                    <div class="elementor-spacer">
+                                                        <div class="elementor-spacer-inner"></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="elementor-element elementor-element-e2c31e1 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                                data-id="e2c31e1" data-element_type="container" data-e-type="container">
+                                                <div class="elementor-element elementor-element-48e3f36 elementor-widget elementor-widget-pxl_text_editor"
+                                                    data-id="48e3f36" data-element_type="widget" data-e-type="widget"
+                                                    data-widget_type="pxl_text_editor.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div id="pxl_text_editor-48e3f36-5167" class="pxl-image-wg"
+                                                            duration="1">
+                                                            <div class="pxl-text-editor">
+                                                                <div class="pxl-item--inner wow fadeInUp"
+                                                                    data-wow-delay="300ms">
+                                                                    <p>For over 20 years, we’ve helped organizations
+                                                                        navigate complex regulatory requirements and
+                                                                        achieve compliance with confidence. Our team of
+                                                                        experts delivers end-to-end consulting services
+                                                                        — from gap assessments and risk analysis to
+                                                                        implementation and audit readiness — ensuring
+                                                                        your organization meets HIPAA and other industry
+                                                                        standards while protecting sensitive data and
+                                                                        maintaining trust.</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-2aceb58 elementor-widget elementor-widget-pxl_list"
+                                                    data-id="2aceb58" data-element_type="widget" data-e-type="widget"
+                                                    data-widget_type="pxl_list.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div class="pxl-list pxl-list1 style2">
+                                                            <div class="pxl--item wow fadeInUp" data-wow-delay="400ms">
+                                                                <a class="pxl-item-link">
+                                                                    <div class="pxl-item--icon"> <i aria-hidden="true"
+                                                                            class="far fa-check"></i></div>
+                                                                    <div class="pxl-item--text el-empty">
+                                                                        <span>Experienced Compliance & Information
+                                                                            Security Specialists</span>
+                                                                    </div>
+                                                                </a>
+                                                            </div>
+                                                            <div class="pxl--item wow fadeInUp" data-wow-delay="400ms">
+                                                                <a class="pxl-item-link">
+                                                                    <div class="pxl-item--icon"> <i aria-hidden="true"
+                                                                            class="far fa-check"></i></div>
+                                                                    <div class="pxl-item--text el-empty">
+                                                                        <span>Practical and scalable compliance
+                                                                            solutions</span>
+                                                                    </div>
+                                                                </a>
+                                                            </div>
+                                                            <div class="pxl--item wow fadeInUp" data-wow-delay="400ms">
+                                                                <a class="pxl-item-link">
+                                                                    <div class="pxl-item--icon"> <i aria-hidden="true"
+                                                                            class="far fa-check"></i></div>
+                                                                    <div class="pxl-item--text el-empty"> <span>Clear
+                                                                            and professional technical
+                                                                            documentation</span></div>
+                                                                </a>
+                                                            </div>
+                                                            <div class="pxl--item wow fadeInUp" data-wow-delay="400ms">
+                                                                <a class="pxl-item-link">
+                                                                    <div class="pxl-item--icon"> <i aria-hidden="true"
+                                                                            class="far fa-check"></i></div>
+                                                                    <div class="pxl-item--text el-empty">
+                                                                        <span>End-to-end support from assessment to
+                                                                            certification</span>
+                                                                    </div>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-53e91f3 elementor-widget elementor-widget-pxl_button"
+                                                    data-id="53e91f3" data-element_type="widget" data-e-type="widget"
+                                                    data-widget_type="pxl_button.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div id="pxl-pxl_button-53e91f3-3423"
+                                                            class="pxl-button pxl-atc-link wow fadeInUp"
+                                                            data-wow-delay="500ms"> <a href="contact.php"
+                                                                class="btn pxl-icon-active btn-default wow fadeInUp pxl-icon--left"
+                                                                data-wow-delay="500ms" data-onepage-offset=""> <span
+                                                                    class="pxl--btn-text"
+                                                                    data-text="Request a Security Audit"> Request a
+                                                                    Compliance Service </span> <span
+                                                                    class="pxl--text-wrap">
+                                                                    <span class="pxl--btn-text1">Request a Compliance
+                                                                        Service</span> <span
+                                                                        class="pxl--btn-text2">Click to Connect</span>
+                                                                </span> </a></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="elementor-element elementor-element-3a00563 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-parent "
+                                    data-id="3a00563" data-element_type="container" data-e-type="container"
+                                    data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+                                    <div class="elementor-element elementor-element-63ced33 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                        data-id="63ced33" data-element_type="container" data-e-type="container">
+                                        <div class="elementor-element elementor-element-e08c8ce elementor-widget elementor-widget-pxl_text_carousel"
+                                            data-id="e08c8ce" data-element_type="widget" data-e-type="widget"
+                                            data-widget_type="pxl_text_carousel.default">
+                                            <div class="elementor-widget-container">
+                                                <div
+                                                    class="pxl-text-carousel pxl-text-carousel1 pxl-text-slide1 style1">
+                                                    <div class="pxl-text-slide text-slide-to-left"
+                                                        style="animation-duration:20000ms">
+                                                        <div class="pxl--item " data-wow-delay="ms">
+                                                            <div class="pxl-item--text"><span>HIPAA Compliance
+                                                                    Consulting</span>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pxl--item " data-wow-delay="ms">
+                                                            <div class="pxl-item--text"><span>ISO 27001
+                                                                    Implementation</span>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pxl--item " data-wow-delay="ms">
+                                                            <div class="pxl-item--text"><span>SOC2 Implementation &
+                                                                    Readiness</span>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pxl--item " data-wow-delay="ms">
+                                                            <div class="pxl-item--text"><span>HITRUST Certification
+                                                                    Support</span>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pxl--item " data-wow-delay="ms">
+                                                            <div class="pxl-item--text"><span>Security Policy and
+                                                                    Procedure Development</span>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pxl--item " data-wow-delay="ms">
+                                                            <div class="pxl-item--text"><span>Security Risk
+                                                                    Assessments</span>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pxl--item " data-wow-delay="ms">
+                                                            <div class="pxl-item--text"><span>Compliance
+                                                                    Documentation</span>
+                                                            </div>
+                                                        </div>
+
+                                                    </div>
+                                                    <div class="pxl-text-fixed">
+                                                        <div class="pxl--item " data-wow-delay="ms">
+                                                            <div class="pxl-item--text"><span>HIPAA Compliance
+                                                                    Consulting</span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="pxl--item " data-wow-delay="ms">
+                                                            <div class="pxl-item--text"><span>ISO 27001
+                                                                    Implementation</span>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pxl--item " data-wow-delay="ms">
+                                                            <div class="pxl-item--text"><span>SOC2 Implementation &
+                                                                    Readiness</span>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pxl--item " data-wow-delay="ms">
+                                                            <div class="pxl-item--text"><span>HITRUST Certification
+                                                                    Support</span>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pxl--item " data-wow-delay="ms">
+                                                            <div class="pxl-item--text"><span>Security Policy and
+                                                                    Procedure Development</span>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pxl--item " data-wow-delay="ms">
+                                                            <div class="pxl-item--text"><span>Security Risk
+                                                                    Assessments</span>
+                                                            </div>
+                                                        </div>
+
+                                                        <div class="pxl--item " data-wow-delay="ms">
+                                                            <div class="pxl-item--text"><span>Compliance
+                                                                    Documentation</span>
+                                                            </div>
+                                                        </div>
+
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="elementor-element elementor-element-2a7be19 section-dark e-flex e-con-boxed pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-parent "
+                                    data-id="2a7be19" data-element_type="container" data-e-type="container"
+                                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                    <div class="e-con-inner">
+                                        <div class="elementor-element elementor-element-a662ff9 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                            data-id="a662ff9" data-element_type="container" data-e-type="container">
+                                            <div class="elementor-element elementor-element-5c21fcf elementor-widget elementor-widget-pxl_heading"
+                                                data-id="5c21fcf" data-element_type="widget" data-e-type="widget"
+                                                data-widget_type="pxl_heading.default">
+                                                <div class="elementor-widget-container">
+                                                    <div id="pxl-pxl_heading-5c21fcf-2180"
+                                                        class="pxl-heading px-sub-title-default-style">
+                                                        <div class="pxl-heading--inner">
+                                                            <div class="pxl-item--subtitle px-sub-title-default wow fadeInUp"
+                                                                data-wow-delay="300ms"> <span class="pxl-item--subtext">
+                                                                    What We Provide </span></div>
+                                                            <h3 class="pxl-item--title wow fadeInUp"
+                                                                data-wow-delay="500ms"> Comprehensive Compliance &
+                                                                Security Services for Modern Organizations</h3>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="elementor-element elementor-element-8731db2 elementor-widget elementor-widget-pxl_text_editor"
+                                                data-id="8731db2" data-element_type="widget" data-e-type="widget"
+                                                data-widget_type="pxl_text_editor.default">
+                                                <div class="elementor-widget-container">
+                                                    <div id="pxl_text_editor-8731db2-8507" class="pxl-image-wg"
+                                                        duration="1">
+                                                        <div class="pxl-text-editor">
+                                                            <div class="pxl-item--inner wow fadeInUp"
+                                                                data-wow-delay="700ms"> Strengthen your organization’s
+                                                                compliance posture with end-to-end consulting services
+                                                                tailored to today’s regulatory and security
+                                                                requirements. We help businesses achieve HIPAA, ISO
+                                                                27001, SOC 2, and HITRUST compliance through gap
+                                                                assessments, implementation support, risk analysis,
+                                                                policy development, and audit readiness. Whether you're
+                                                                securing sensitive data or preparing for certification,
+                                                                our expert-driven solutions keep your business
+                                                                compliant, resilient, and audit-ready</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-11ef16e e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                            data-id="11ef16e" data-element_type="container" data-e-type="container">
+                                            <div class="elementor-element elementor-element-3843660 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                                data-id="3843660" data-element_type="container" data-e-type="container">
+                                                <div class="elementor-element elementor-element-a090906 elementor-widget elementor-widget-pxl_icon_box"
+                                                    data-id="a090906" data-element_type="widget" data-e-type="widget"
+                                                    data-widget_type="pxl_icon_box.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div class="pxl-icon-box pxl-icon-box1">
+                                                            <div class="pxl-item-inner wow fadeInRight"
+                                                                data-wow-delay="300ms">
+                                                                <div class="pxl-icon-overlay">
+                                                                    <div class="pxl-item--icon wow fadeInRight"
+                                                                        data-wow-delay="300ms"> <img
+                                                                            fetchpriority="high" decoding="async"
+                                                                            width="512" height="512"
+                                                                            src="assets/img/ce452b60c358720da8b69c4f497455cb_cyber-security.png"
+                                                                            class="attachment-full" alt=""
+                                                                            srcset="assets/img/ce452b60c358720da8b69c4f497455cb_cyber-security.png 512w, assets/img/adc1c1b95ae1a03cb5eb921935de16e4_cyber-security-300x300.png 300w, assets/img/2937c56bf8af75aade96722db9499343_cyber-security-150x150.png 150w"
+                                                                            sizes="(max-width: 512px) 100vw, 512px"
+                                                                            loading="eager" /></div>
+                                                                </div>
+                                                                <div class="pxl-meta-content wow scaleIn"
+                                                                    data-wow-delay="300ms">
+                                                                    <div class="pxl-item--icon wow fadeInRight"
+                                                                        data-wow-delay="300ms"> <img loading="lazy"
+                                                                            decoding="async" class=""
+                                                                            src="assets/img/85e6fdbd78e17846d3ea655c3df8aa71_cyber-security-90x90.png"
+                                                                            width="90" height="90" alt="cyber-security"
+                                                                            title="cyber-security" /></div>
+                                                                    <h4 class="pxl-item-title"> HIPAA Compliance
+                                                                        Consulting</h4>
+                                                                    <div class="pxl-item-desc">Guiding organizations
+                                                                        through HIPAA requirements with gap assessments,
+                                                                        policy development, and audit readiness support
+                                                                    </div>
+                                                                    <div class="pxl-btn-section"> <a
+                                                                            class="btn pxl-icon-active btn-default"
+                                                                            href="contact.php"> <span
+                                                                                class="pxl--btn-text"
+                                                                                data-text="Learn More"> Learn More
+                                                                            </span> <span class="pxl--text-wrap"> <span
+                                                                                    class="pxl--btn-text1">Learn
+                                                                                    More</span> <span
+                                                                                    class="pxl--btn-text2">Learn
+                                                                                    More</span> </span> </a></div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="elementor-element elementor-element-9e13bb2 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                                data-id="9e13bb2" data-element_type="container" data-e-type="container">
+                                                <div class="elementor-element elementor-element-cfcd532 elementor-widget elementor-widget-pxl_icon_box"
+                                                    data-id="cfcd532" data-element_type="widget" data-e-type="widget"
+                                                    data-widget_type="pxl_icon_box.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div class="pxl-icon-box pxl-icon-box1">
+                                                            <div class="pxl-item-inner wow fadeInRight"
+                                                                data-wow-delay="300ms">
+                                                                <div class="pxl-icon-overlay">
+                                                                    <div class="pxl-item--icon wow fadeInRight"
+                                                                        data-wow-delay="300ms"> <img decoding="async"
+                                                                            width="512" height="512"
+                                                                            src="assets/img/fca033cfeb2b6b60ce501f4cffaa165d_encryption.png"
+                                                                            class="attachment-full" alt=""
+                                                                            srcset="assets/img/fca033cfeb2b6b60ce501f4cffaa165d_encryption.png 512w, assets/img/50722e6c3cfbfe763b0360fd4e99b714_encryption-300x300.png 300w, assets/img/a0ffab73bba5458b7d07242da42e464a_encryption-150x150.png 150w"
+                                                                            sizes="(max-width: 512px) 100vw, 512px"
+                                                                            loading="eager" /></div>
+                                                                </div>
+                                                                <div class="pxl-meta-content wow scaleIn"
+                                                                    data-wow-delay="300ms">
+                                                                    <div class="pxl-item--icon wow fadeInRight"
+                                                                        data-wow-delay="300ms"> <img loading="lazy"
+                                                                            decoding="async" class=""
+                                                                            src="assets/img/23730671bb92e9c2d674b636ec0067ce_encryption-90x90.png"
+                                                                            width="90" height="90" alt="encryption"
+                                                                            title="encryption" /></div>
+                                                                    <h4 class="pxl-item-title"> ISO 27001 Implementation
+                                                                    </h4>
+                                                                    <div class="pxl-item-desc">Building and implementing
+                                                                        ISO 27001-compliant Information Security
+                                                                        Management Systems (ISMS) with structured risk
+                                                                        management and documentation.</div>
+                                                                    <div class="pxl-btn-section"> <a
+                                                                            class="btn pxl-icon-active btn-default"
+                                                                            href="contact.php"> <span
+                                                                                class="pxl--btn-text"
+                                                                                data-text="Learn More"> Learn More
+                                                                            </span> <span class="pxl--text-wrap"> <span
+                                                                                    class="pxl--btn-text1">Learn
+                                                                                    More</span> <span
+                                                                                    class="pxl--btn-text2">Learn
+                                                                                    More</span> </span> </a></div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="elementor-element elementor-element-f71f09a e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                                data-id="f71f09a" data-element_type="container" data-e-type="container">
+                                                <div class="elementor-element elementor-element-9f41f7d elementor-widget elementor-widget-pxl_icon_box"
+                                                    data-id="9f41f7d" data-element_type="widget" data-e-type="widget"
+                                                    data-widget_type="pxl_icon_box.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div class="pxl-icon-box pxl-icon-box1">
+                                                            <div class="pxl-item-inner wow fadeInRight"
+                                                                data-wow-delay="300ms">
+                                                                <div class="pxl-icon-overlay">
+                                                                    <div class="pxl-item--icon wow fadeInRight"
+                                                                        data-wow-delay="300ms"> <img decoding="async"
+                                                                            width="512" height="512"
+                                                                            src="assets/img/aab9395a540093fcd3f7d92e098f96de_fingerprint.png"
+                                                                            class="attachment-full" alt=""
+                                                                            srcset="assets/img/aab9395a540093fcd3f7d92e098f96de_fingerprint.png 512w, assets/img/a10e6dcdebf7e5340fcde2f7c4a49932_fingerprint-300x300.png 300w, assets/img/9c5683416ccfd019889bcb8b370cf20e_fingerprint-150x150.png 150w"
+                                                                            sizes="(max-width: 512px) 100vw, 512px"
+                                                                            loading="eager" /></div>
+                                                                </div>
+                                                                <div class="pxl-meta-content wow scaleIn"
+                                                                    data-wow-delay="300ms">
+                                                                    <div class="pxl-item--icon wow fadeInRight"
+                                                                        data-wow-delay="300ms"> <img loading="lazy"
+                                                                            decoding="async" class=""
+                                                                            src="assets/img/f75d2e9feb8f68bd3ad668ccd9220559_fingerprint-90x90.png"
+                                                                            width="90" height="90" alt="fingerprint"
+                                                                            title="fingerprint" /></div>
+                                                                    <h4 class="pxl-item-title"> SOC 2 Implementation &
+                                                                        Readiness
+                                                                    </h4>
+                                                                    <div class="pxl-item-desc"> Preparing organizations
+                                                                        for SOC 2 audits through control design,
+                                                                        readiness assessments, and continuous compliance
+                                                                        alignment with Trust Services Criteria.</div>
+                                                                    <div class="pxl-btn-section"> <a
+                                                                            class="btn pxl-icon-active btn-default"
+                                                                            href="contact.php"> <span
+                                                                                class="pxl--btn-text"
+                                                                                data-text="Learn More"> Learn More
+                                                                            </span> <span class="pxl--text-wrap"> <span
+                                                                                    class="pxl--btn-text1">Learn
+                                                                                    More</span> <span
+                                                                                    class="pxl--btn-text2">Learn
+                                                                                    More</span> </span> </a></div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-962084b e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                            data-id="962084b" data-element_type="container" data-e-type="container">
+                                            <div class="elementor-element elementor-element-e4cc3fa e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                                data-id="e4cc3fa" data-element_type="container" data-e-type="container">
+                                                <div class="elementor-element elementor-element-3593d8f elementor-widget elementor-widget-pxl_icon_box"
+                                                    data-id="3593d8f" data-element_type="widget" data-e-type="widget"
+                                                    data-widget_type="pxl_icon_box.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div class="pxl-icon-box pxl-icon-box1">
+                                                            <div class="pxl-item-inner wow fadeInRight"
+                                                                data-wow-delay="300ms">
+                                                                <div class="pxl-icon-overlay">
+                                                                    <div class="pxl-item--icon wow fadeInRight"
+                                                                        data-wow-delay="300ms"> <img decoding="async"
+                                                                            width="512" height="512"
+                                                                            src="assets/img/8b266d7a48f09e3032db1c6d835827d9_monitoring.png"
+                                                                            class="attachment-full" alt=""
+                                                                            srcset="assets/img/8b266d7a48f09e3032db1c6d835827d9_monitoring.png 512w, assets/img/9b83ea5b9ba71f3cadb3defedb1efc06_monitoring-300x300.png 300w, assets/img/b4984b2a9160b66a6130acb86ef88a3c_monitoring-150x150.png 150w"
+                                                                            sizes="(max-width: 512px) 100vw, 512px"
+                                                                            loading="eager" /></div>
+                                                                </div>
+                                                                <div class="pxl-meta-content wow scaleIn"
+                                                                    data-wow-delay="300ms">
+                                                                    <div class="pxl-item--icon wow fadeInRight"
+                                                                        data-wow-delay="300ms"> <img loading="lazy"
+                                                                            decoding="async" class=""
+                                                                            src="assets/img/051a09ab3d4cc1ce671cda01120eeefb_monitoring-90x90.png"
+                                                                            width="90" height="90" alt="monitoring"
+                                                                            title="monitoring" /></div>
+                                                                    <h4 class="pxl-item-title">HITRUST Certification
+                                                                        Support</h4>
+                                                                    <div class="pxl-item-desc"> Supporting end-to-end
+                                                                        HITRUST CSF certification including gap
+                                                                        analysis, control mapping, documentation, and
+                                                                        audit preparation.
+                                                                    </div>
+                                                                    <div class="pxl-btn-section"> <a
+                                                                            class="btn pxl-icon-active btn-default"
+                                                                            href="contact.php"> <span
+                                                                                class="pxl--btn-text"
+                                                                                data-text="Learn More"> Learn More
+                                                                            </span> <span class="pxl--text-wrap"> <span
+                                                                                    class="pxl--btn-text1">Learn
+                                                                                    More</span> <span
+                                                                                    class="pxl--btn-text2">Learn
+                                                                                    More</span> </span> </a></div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="elementor-element elementor-element-ee65e19 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                                data-id="ee65e19" data-element_type="container" data-e-type="container">
+                                                <div class="elementor-element elementor-element-3ab5adc elementor-widget elementor-widget-pxl_icon_box"
+                                                    data-id="3ab5adc" data-element_type="widget" data-e-type="widget"
+                                                    data-widget_type="pxl_icon_box.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div class="pxl-icon-box pxl-icon-box1">
+                                                            <div class="pxl-item-inner wow fadeInRight"
+                                                                data-wow-delay="300ms">
+                                                                <div class="pxl-icon-overlay">
+                                                                    <div class="pxl-item--icon wow fadeInRight"
+                                                                        data-wow-delay="300ms"> <img decoding="async"
+                                                                            width="512" height="512"
+                                                                            src="assets/img/aadbcae5eb655411b9b8b34e559e23ea_cloud-storage.png"
+                                                                            class="attachment-full" alt=""
+                                                                            srcset="assets/img/aadbcae5eb655411b9b8b34e559e23ea_cloud-storage.png 512w, assets/img/b116d4ccaf4a22a6ee2b9c597e02ccf8_cloud-storage-300x300.png 300w, assets/img/6d73e252f61ce0631066f1aaef48ead0_cloud-storage-150x150.png 150w"
+                                                                            sizes="(max-width: 512px) 100vw, 512px"
+                                                                            loading="eager" /></div>
+                                                                </div>
+                                                                <div class="pxl-meta-content wow scaleIn"
+                                                                    data-wow-delay="300ms">
+                                                                    <div class="pxl-item--icon wow fadeInRight"
+                                                                        data-wow-delay="300ms"> <img loading="lazy"
+                                                                            decoding="async" class=""
+                                                                            src="assets/img/46dee00158c9cdfcea706e5f0eb2f00e_cloud-storage-90x90.png"
+                                                                            width="90" height="90" alt="cloud-storage"
+                                                                            title="cloud-storage" /></div>
+                                                                    <h4 class="pxl-item-title"> Security Policy and
+                                                                        Procedure Development
+                                                                    </h4>
+                                                                    <div class="pxl-item-desc"> Developing clear,
+                                                                        structured, and audit-ready security policies
+                                                                        and procedures aligned with regulatory and
+                                                                        industry standards.
+                                                                    </div>
+                                                                    <div class="pxl-btn-section"> <a
+                                                                            class="btn pxl-icon-active btn-default"
+                                                                            href="contact.php"> <span
+                                                                                class="pxl--btn-text"
+                                                                                data-text="Learn More"> Learn More
+                                                                            </span> <span class="pxl--text-wrap"> <span
+                                                                                    class="pxl--btn-text1">Learn
+                                                                                    More</span> <span
+                                                                                    class="pxl--btn-text2">Learn
+                                                                                    More</span> </span> </a></div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="elementor-element elementor-element-f574cc5 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                                data-id="f574cc5" data-element_type="container" data-e-type="container">
+                                                <div class="elementor-element elementor-element-c6b1d62 elementor-widget elementor-widget-pxl_icon_box"
+                                                    data-id="c6b1d62" data-element_type="widget" data-e-type="widget"
+                                                    data-widget_type="pxl_icon_box.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div class="pxl-icon-box pxl-icon-box1">
+                                                            <div class="pxl-item-inner wow fadeInRight"
+                                                                data-wow-delay="300ms">
+                                                                <div class="pxl-icon-overlay">
+                                                                    <div class="pxl-item--icon wow fadeInRight"
+                                                                        data-wow-delay="300ms"> <img decoding="async"
+                                                                            width="512" height="512"
+                                                                            src="assets/img/fa72cb17e1064d7cdd13f2105f7d21ab_settings.png"
+                                                                            class="attachment-full" alt=""
+                                                                            srcset="assets/img/fa72cb17e1064d7cdd13f2105f7d21ab_settings.png 512w, assets/img/7a95801df87337a59689ce0bf68a7a98_settings-300x300.png 300w, assets/img/216e14e9d9102d96bcf2121b033dfd8b_settings-150x150.png 150w"
+                                                                            sizes="(max-width: 512px) 100vw, 512px"
+                                                                            loading="eager" /></div>
+                                                                </div>
+                                                                <div class="pxl-meta-content wow scaleIn"
+                                                                    data-wow-delay="300ms">
+                                                                    <div class="pxl-item--icon wow fadeInRight"
+                                                                        data-wow-delay="300ms"> <img loading="lazy"
+                                                                            decoding="async" class=""
+                                                                            src="assets/img/6c697476960c0b8b632dfc30a3d05763_settings-90x90.png"
+                                                                            width="90" height="90" alt="settings"
+                                                                            title="settings" /></div>
+                                                                    <h4 class="pxl-item-title"> Security Risk
+                                                                        Assessments
+                                                                    </h4>
+                                                                    <div class="pxl-item-desc">Identifying
+                                                                        vulnerabilities and evaluating security risks
+                                                                        through comprehensive assessments to strengthen
+                                                                        compliance and security posture.</div>
+                                                                    <div class="pxl-btn-section"> <a
+                                                                            class="btn pxl-icon-active btn-default"
+                                                                            href="contact.php"> <span
+                                                                                class="pxl--btn-text"
+                                                                                data-text="Learn More"> Learn More
+                                                                            </span> <span class="pxl--text-wrap"> <span
+                                                                                    class="pxl--btn-text1">Learn
+                                                                                    More</span> <span
+                                                                                    class="pxl--btn-text2">Learn
+                                                                                    More</span> </span> </a></div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- <div class="elementor-element elementor-element-294385c section-dark e-flex e-con-boxed pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-parent "
+                                    data-id="294385c" data-element_type="container" data-e-type="container"
+                                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                    <div class="e-con-inner">
+                                        <div class="elementor-element elementor-element-07bb679 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                            data-id="07bb679" data-element_type="container" data-e-type="container">
+                                            <div class="elementor-element elementor-element-077e5cf elementor-widget elementor-widget-pxl_heading"
+                                                data-id="077e5cf" data-element_type="widget" data-e-type="widget"
+                                                data-widget_type="pxl_heading.default">
+                                                <div class="elementor-widget-container">
+                                                    <div id="pxl-pxl_heading-077e5cf-8733"
+                                                        class="pxl-heading px-sub-title-default-style">
+                                                        <div class="pxl-heading--inner">
+                                                            <div class="pxl-item--subtitle px-sub-title-default wow fadeInUp"
+                                                                data-wow-delay="300ms"> <span class="pxl-item--subtext">
+                                                                    Why Choose Us </span></div>
+                                                            <h3 class="pxl-item--title wow fadeInUp"
+                                                                data-wow-delay="500ms"> Why Organizations Work With Us
+                                                            </h3>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="elementor-element elementor-element-3512857 elementor-widget elementor-widget-pxl_text_editor"
+                                                data-id="3512857" data-element_type="widget" data-e-type="widget"
+                                                data-widget_type="pxl_text_editor.default">
+                                                <div class="elementor-widget-container">
+                                                    <div id="pxl_text_editor-3512857-3753" class="pxl-image-wg"
+                                                        duration="1">
+                                                        <div class="pxl-text-editor">
+                                                            <div class="pxl-item--inner wow fadeInUp"
+                                                                data-wow-delay="700ms"> We help organizations build and
+                                                                implement structured compliance programs aligned with
+                                                                HIPAA, ISO 27001, SOC 2, and HITRUST
+                                                                requirements—without disrupting business operations.
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-a7b6b69 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                            data-id="a7b6b69" data-element_type="container" data-e-type="container">
+                                            <div class="elementor-element elementor-element-347c724 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                                data-id="347c724" data-element_type="container" data-e-type="container">
+                                                <div class="elementor-element elementor-element-b8ed88f elementor-widget elementor-widget-pxl_banner_box"
+                                                    data-id="b8ed88f" data-element_type="widget" data-e-type="widget"
+                                                    data-widget_type="pxl_banner_box.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div id="pxl_banner_box-b8ed88f-3101"
+                                                            class="pxl-banner-box pxl-banner-box1 wow fadeInRight"
+                                                            data-wow-delay="300ms">
+                                                            <div class="pxl-banner-inner style-default"> <a
+                                                                    class="pxl-inner-link" href="contact.php"></a>
+                                                                <div class="row">
+                                                                    <div class="col-sm-6">
+                                                                        <div class="pxl-item-content">
+                                                                            <h3 class="pxl-item-title">Compliance
+                                                                                Program Development</h3>
+                                                                            <div class="pxl-item-desc">Designing
+                                                                                structured compliance frameworks aligned
+                                                                                with HIPAA, ISO 27001, SOC 2, and
+                                                                                HITRUST requirements.</div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="col-sm-6">
+                                                                        <div class="pxl-inner-section">
+                                                                            <div class="pxl-item--img"> <img
+                                                                                    loading="lazy" decoding="async"
+                                                                                    class=""
+                                                                                    src="assets/img/e5e2c1fd87a939d3684ed5190af8e787_s2.jpg"
+                                                                                    width="1000" height="1000" alt="s2"
+                                                                                    title="s2" /></div>
+                                                                            <div class="pxl-item-number"> 01</div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="elementor-element elementor-element-e2036f3 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                                data-id="e2036f3" data-element_type="container" data-e-type="container">
+
+                                                <div class="elementor-element elementor-element-a610694 elementor-widget elementor-widget-pxl_banner_box"
+                                                    data-id="a610694" data-element_type="widget" data-e-type="widget"
+                                                    data-widget_type="pxl_banner_box.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div id="pxl_banner_box-a610694-6164"
+                                                            class="pxl-banner-box pxl-banner-box1 wow fadeInRight"
+                                                            data-wow-delay="500ms">
+                                                            <div class="pxl-banner-inner style-default"> <a
+                                                                    class="pxl-inner-link" href="contact.php"></a>
+                                                                <div class="row">
+                                                                    <div class="col-sm-6">
+                                                                        <div class="pxl-item-content">
+                                                                            <h3 class="pxl-item-title">Compliance
+                                                                                Readiness</h3>
+                                                                            <div class="pxl-item-desc">Preparing
+                                                                                organizations for HIPAA, ISO 27001, SOC
+                                                                                2, and HITRUST audits through structured
+                                                                                assessments and gap remediation.</div>
+                                                                        </div>
+
+                                                                    </div>
+                                                                    <div class="col-sm-6">
+                                                                        <div class="pxl-inner-section">
+                                                                            <div class="pxl-item--img"> <img
+                                                                                    loading="lazy" decoding="async"
+                                                                                    class=""
+                                                                                    src="assets/img/a763e3d9315d4ef05347d7d2c379a0cb_s3.jpg"
+                                                                                    width="1000" height="1000" alt="s3"
+                                                                                    title="s3" /></div>
+                                                                            <div class="pxl-item-number"> 02</div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div> -->
+                                <div class="elementor-element elementor-element-bf06e3e e-flex e-con-boxed pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-parent "
+                                    data-id="bf06e3e" data-element_type="container" data-e-type="container">
+                                    <div class="e-con-inner">
+                                        <div class="elementor-element elementor-element-b9b83d6 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                            data-id="b9b83d6" data-element_type="container" data-e-type="container">
+                                            <div class="elementor-element elementor-element-e19213a elementor-widget elementor-widget-pxl_counter"
+                                                data-id="e19213a" data-element_type="widget" data-e-type="widget"
+                                                data-widget_type="pxl_counter.default">
+                                                <div class="elementor-widget-container">
+                                                    <div class="pxl-counter pxl-counter2 default wow fadeInRight"
+                                                        data-wow-delay="300ms">
+                                                        <div class="pxl--item-inner">
+                                                            <div class="pxl--counter-meta">
+                                                                <div class="pxl-section-icon">
+                                                                    <div class="pxl-item--icon"> <i aria-hidden="true"
+                                                                            class="fas fa-briefcase"></i></div>
+                                                                </div>
+                                                                <div class="pxl--counter-number"> <span
+                                                                        class="pxl--counter-value effect-default"
+                                                                        data-duration="2000" data-startnumber="9000"
+                                                                        data-endnumber="10000" data-to-value="10000"
+                                                                        data-delimiter="">10000</span> <span
+                                                                        class="pxl--counter-suffix">+</span></div>
+                                                                <div class="pxl--item-title"> Hours of Works</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-776aa58 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                            data-id="776aa58" data-element_type="container" data-e-type="container">
+                                            <div class="elementor-element elementor-element-41b9ec3 elementor-widget elementor-widget-pxl_counter"
+                                                data-id="41b9ec3" data-element_type="widget" data-e-type="widget"
+                                                data-widget_type="pxl_counter.default">
+                                                <div class="elementor-widget-container">
+                                                    <div class="pxl-counter pxl-counter2 default wow fadeInRight"
+                                                        data-wow-delay="400ms">
+                                                        <div class="pxl--item-inner">
+                                                            <div class="pxl--counter-meta">
+                                                                <div class="pxl-section-icon">
+                                                                    <div class="pxl-item--icon"> <i aria-hidden="true"
+                                                                            class="fas fa-thumbs-up"></i></div>
+                                                                </div>
+                                                                <div class="pxl--counter-number"> <span
+                                                                        class="pxl--counter-value effect-default"
+                                                                        data-duration="2000" data-startnumber="0"
+                                                                        data-endnumber="25" data-to-value="25"
+                                                                        data-delimiter="">25</span> <span
+                                                                        class="pxl--counter-suffix">+</span></div>
+                                                                <div class="pxl--item-title"> Happy Customers</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-61649a6 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                            data-id="61649a6" data-element_type="container" data-e-type="container">
+                                            <div class="elementor-element elementor-element-7a2dcf2 elementor-widget elementor-widget-pxl_counter"
+                                                data-id="7a2dcf2" data-element_type="widget" data-e-type="widget"
+                                                data-widget_type="pxl_counter.default">
+                                                <div class="elementor-widget-container">
+                                                    <div class="pxl-counter pxl-counter2 default wow fadeInRight"
+                                                        data-wow-delay="500ms">
+                                                        <div class="pxl--item-inner">
+                                                            <div class="pxl--counter-meta">
+                                                                <div class="pxl-section-icon">
+                                                                    <div class="pxl-item--icon"> <i aria-hidden="true"
+                                                                            class="fas fa-users"></i></div>
+                                                                </div>
+                                                                <div class="pxl--counter-number"> <span
+                                                                        class="pxl--counter-value effect-default"
+                                                                        data-duration="2000" data-startnumber="1300"
+                                                                        data-endnumber="1500" data-to-value="1500"
+                                                                        data-delimiter="">1300</span> <span
+                                                                        class="pxl--counter-suffix">+</span></div>
+                                                                <div class="pxl--item-title" style="display:none;">
+                                                                    Experienced Workers</div>
+                                                                <script>document.currentScript.parentElement.parentElement.parentElement.parentElement.parentElement.parentElement.parentElement.style.display = "none";</script>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-48f4584 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                            data-id="48f4584" data-element_type="container" data-e-type="container">
+                                            <div class="elementor-element elementor-element-9d77db7 elementor-widget elementor-widget-pxl_counter"
+                                                data-id="9d77db7" data-element_type="widget" data-e-type="widget"
+                                                data-widget_type="pxl_counter.default">
+                                                <div class="elementor-widget-container">
+                                                    <div class="pxl-counter pxl-counter2 default wow fadeInRight"
+                                                        data-wow-delay="600ms">
+                                                        <div class="pxl--item-inner">
+                                                            <div class="pxl--counter-meta">
+                                                                <div class="pxl-section-icon">
+                                                                    <div class="pxl-item--icon"> <i aria-hidden="true"
+                                                                            class="fas fa-badge"></i></div>
+                                                                </div>
+                                                                <div class="pxl--counter-number"> <span
+                                                                        class="pxl--counter-value effect-default"
+                                                                        data-duration="2000" data-startnumber="0"
+                                                                        data-endnumber="25" data-to-value="25"
+                                                                        data-delimiter="">25</span> <span
+                                                                        class="pxl--counter-suffix">+</span></div>
+                                                                <div class="pxl--item-title"> Years of Experience
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="elementor-element elementor-element-dc5e580 e-flex e-con-boxed pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-parent "
+                                    data-id="dc5e580" data-element_type="container" data-e-type="container"
+                                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                    <div class="e-con-inner">
+                                        <div class="elementor-element elementor-element-e668676 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                            data-id="e668676" data-element_type="container" data-e-type="container">
+                                            <div class="elementor-element elementor-element-5e9e3f0 elementor-widget elementor-widget-pxl_heading"
+                                                data-id="5e9e3f0" data-element_type="widget" data-e-type="widget"
+                                                data-widget_type="pxl_heading.default">
+                                                <div class="elementor-widget-container">
+                                                    <div id="pxl-pxl_heading-5e9e3f0-3716"
+                                                        class="pxl-heading px-sub-title-default-style">
+                                                        <div class="pxl-heading--inner">
+                                                            <div class="pxl-item--subtitle px-sub-title-default wow fadeInUp"
+                                                                data-wow-delay="300ms"> <span class="pxl-item--subtext">
+                                                                    Compliance & Security Experts </span></div>
+                                                            <h2 class="pxl-item--title wow fadeInUp"
+                                                                data-wow-delay="400ms">Protecting Organizations With
+                                                                Expertise And Precision</h2>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="elementor-element elementor-element-7fcbdca elementor-widget elementor-widget-pxl_text_editor"
+                                                data-id="7fcbdca" data-element_type="widget" data-e-type="widget"
+                                                data-widget_type="pxl_text_editor.default">
+                                                <div class="elementor-widget-container">
+                                                    <div id="pxl_text_editor-7fcbdca-1826" class="pxl-image-wg"
+                                                        duration="1">
+                                                        <div class="pxl-text-editor">
+                                                            <div class="pxl-item--inner wow fadeInUp"
+                                                                data-wow-delay="500ms">We provide comprehensive
+                                                                compliance and information security solutions tailored
+                                                                for organizations of all sizes. From HIPAA and ISO 27001
+                                                                implementation to SOC 2 readiness and HITRUST
+                                                                certification support, our dedicated team ensures your
+                                                                data, processes, and documentation remain secure,
+                                                                compliant, and audit-ready.</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="elementor-element elementor-element-d149353 elementor-widget elementor-widget-pxl_button"
+                                                data-id="d149353" data-element_type="widget" data-e-type="widget"
+                                                data-widget_type="pxl_button.default">
+                                                <div class="elementor-widget-container">
+                                                    <div id="pxl-pxl_button-d149353-1827"
+                                                        class="pxl-button pxl-atc-link wow fadeInUp"
+                                                        data-wow-delay="600ms"> <a href="contact.php"
+                                                            class="btn pxl-icon-active btn-default wow fadeInUp pxl-icon--left"
+                                                            data-wow-delay="600ms" data-onepage-offset=""> <span
+                                                                class="pxl--btn-text" data-text="Request Consultation">
+                                                                Request Consultation </span> <span
+                                                                class="pxl--text-wrap"> <span
+                                                                    class="pxl--btn-text1">Request
+                                                                    Consultation</span>
+                                                                <span class="pxl--btn-text2">Request
+                                                                    Consultation</span>
+                                                            </span> </a></div>
+                                                </div>
+                                            </div>
+                                            <div class="elementor-element elementor-element-eb1f6cb e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                                data-id="eb1f6cb" data-element_type="container" data-e-type="container">
+                                                <div class="elementor-element elementor-element-1c217ab elementor-widget elementor-widget-pxl_text_editor"
+                                                    data-id="1c217ab" data-element_type="widget" data-e-type="widget"
+                                                    data-widget_type="pxl_text_editor.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div id="pxl_text_editor-1c217ab-7946" class="pxl-image-wg"
+                                                            duration="1">
+                                                            <div class="pxl-text-editor">
+                                                                <div class="pxl-item--inner " data-wow-delay="ms">
+                                                                    <div class="me-3">Google Rating</div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-1c17455 elementor-widget elementor-widget-pxl_text_editor"
+                                                    data-id="1c17455" data-element_type="widget" data-e-type="widget"
+                                                    data-widget_type="pxl_text_editor.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div id="pxl_text_editor-1c17455-8626" class="pxl-image-wg"
+                                                            duration="1">
+                                                            <div class="pxl-text-editor">
+                                                                <div class="pxl-item--inner " data-wow-delay="ms">
+                                                                    <div class="me-3">
+                                                                        <div class="me-3">5.0</div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-df3c6c1 elementor-widget elementor-widget-pxl_icon"
+                                                    data-id="df3c6c1" data-element_type="widget" data-e-type="widget"
+                                                    data-widget_type="pxl_icon.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div class="pxl-icon-list pxl-icon1 style-default "
+                                                            data-wow-delay="ms"> <a
+                                                                class="elementor-repeater-item-e1ef7bc "> <i
+                                                                    aria-hidden="true" class="fas fa-star"></i> </a>
+                                                            <a class="elementor-repeater-item-1fbf14e "> <i
+                                                                    aria-hidden="true" class="fas fa-star"></i> </a>
+                                                            <a class="elementor-repeater-item-98ed77d "> <i
+                                                                    aria-hidden="true" class="fas fa-star"></i> </a>
+                                                            <a class="elementor-repeater-item-1685a7b "> <i
+                                                                    aria-hidden="true" class="fas fa-star"></i> </a>
+                                                            <a class="elementor-repeater-item-67aa573 "> <i
+                                                                    aria-hidden="true" class="fas fa-star"></i> </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-4c34b9c elementor-widget elementor-widget-pxl_text_editor"
+                                                    data-id="4c34b9c" data-element_type="widget" data-e-type="widget"
+                                                    data-widget_type="pxl_text_editor.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div id="pxl_text_editor-4c34b9c-5360" class="pxl-image-wg"
+                                                            duration="1">
+                                                            <div class="pxl-text-editor">
+                                                                <div class="pxl-item--inner " data-wow-delay="ms">
+                                                                    <div class="me-3">
+                                                                        <div class="me-3">
+                                                                            <div class="me-3">Based on 23k Reviews
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-9884016 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                            data-id="9884016" data-element_type="container" data-e-type="container">
+                                            <div class="elementor-element elementor-element-b385525 elementor-widget elementor-widget-pxl_image"
+                                                data-id="b385525" data-element_type="widget" data-e-type="widget"
+                                                data-widget_type="pxl_image.default">
+                                                <div class="elementor-widget-container">
+                                                    <div id="pxl_image-b385525-6077"
+                                                        class="pxl-image-single  style-default wow fadeInUp"
+                                                        data-wow-delay="300ms">
+                                                        <div class="pxl-item--inner " data-wow-delay="120ms">
+                                                            <div class="pxl-item--image " data-wow-delay="ms"
+                                                                data-parallax-value=""> <img decoding="async"
+                                                                    width="1600" height="1740"
+                                                                    src="assets/img/d9042bc36b88c834eae276c9243ce681_c1.png"
+                                                                    class="attachment-full" alt="" loading="eager" />
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- <div class="elementor-element elementor-element-419ece7 section-dark e-flex e-con-boxed pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-parent "
+                                    data-id="419ece7" data-element_type="container" data-e-type="container"
+                                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                    <div class="e-con-inner">
+                                        <div class="elementor-element elementor-element-92386b9 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                            data-id="92386b9" data-element_type="container" data-e-type="container">
+                                            <div class="elementor-element elementor-element-169c47b elementor-widget elementor-widget-pxl_heading"
+                                                data-id="169c47b" data-element_type="widget" data-e-type="widget"
+                                                data-widget_type="pxl_heading.default">
+                                                <div class="elementor-widget-container">
+                                                    <div id="pxl-pxl_heading-169c47b-7686"
+                                                        class="pxl-heading px-sub-title-default-style">
+                                                        <div class="pxl-heading--inner">
+                                                            <div class="pxl-item--subtitle px-sub-title-default wow fadeInUp"
+                                                                data-wow-delay="300ms"> <span class="pxl-item--subtext">
+                                                                    What We Provide </span></div>
+                                                            <h3 class="pxl-item--title wow fadeInUp"
+                                                                data-wow-delay="500ms"> Robust Cybersecurity Services
+                                                                for Today’s Threats</h3>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="elementor-element elementor-element-90c5534 elementor-widget elementor-widget-pxl_text_editor"
+                                                data-id="90c5534" data-element_type="widget" data-e-type="widget"
+                                                data-widget_type="pxl_text_editor.default">
+                                                <div class="elementor-widget-container">
+                                                    <div id="pxl_text_editor-90c5534-9948" class="pxl-image-wg"
+                                                        duration="1">
+                                                        <div class="pxl-text-editor">
+                                                            <div class="pxl-item--inner wow fadeInUp"
+                                                                data-wow-delay="600ms">
+                                                                <p>Protect your business from ever-evolving cyber risks
+                                                                    with our end-to-end security solutions. We offer
+                                                                    advanced threat detection, real-time monitoring, and
+                                                                    proactive defense strategies tailored to your
+                                                                    infrastructure. Whether you&#8217;re safeguarding
+                                                                    sensitive data or ensuring compliance, our robust
+                                                                    cybersecurity services help you stay secure,
+                                                                    resilient, and ahead of the threat curve.</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-13c5df9 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                            data-id="13c5df9" data-element_type="container" data-e-type="container">
+                                            <div class="elementor-element elementor-element-9e2c36d pxl-post-layout-portfolio-1 elementor-widget elementor-widget-pxl_post_grid"
+                                                data-id="9e2c36d" data-element_type="widget" data-e-type="widget"
+                                                data-widget_type="pxl_post_grid.default">
+                                                <div class="elementor-widget-container">
+                                                    <div id="pxl_post_grid-9e2c36d-4220"
+                                                        class="pxl-grid pxl-portfolio-grid pxl-portfolio-grid-layout1"
+                                                        data-start-page="1" data-max-pages="2" data-total="6"
+                                                        data-perpage="3" data-next-link="index.php"
+                                                        data-layout="masonry">
+                                                        <div class="pxl-grid-inner pxl-grid-masonry row"
+                                                            data-gutter="15">
+                                                            <div
+                                                                class="grid-sizer col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
+                                                            </div>
+                                                            <div
+                                                                class="pxl-grid-item col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 ">
+                                                                <div class="pxl-post--inner wow fadeInUp"
+                                                                    data-wow-duration="1.2s"> <span
+                                                                        class="pxl-post--overlay"></span>
+                                                                    <div class="pxl-post--featured hover-imge-effect3">
+                                                                        <img loading="lazy" decoding="async" class=""
+                                                                            src="assets/img/560da1e1df8993ced36324fd7b2bb635_projects-img6-1000x1000.jpg"
+                                                                            width="1000" height="1000"
+                                                                            alt="projects-img6" title="projects-img6" />
+                                                                    </div>
+                                                                    <h6 class="pxl-post--title"> Customer Data
+                                                                        Protection</h6>
+                                                                    <div class="pxl-post--holder">
+                                                                        <div class="pxl-item--content"> Protect customer
+                                                                            trust with robust database encryption,
+                                                                            access control, and privacy law compliance.
+                                                                        </div>
+                                                                        <div class="pxl-post--btn"> <a
+                                                                                class="pxl-item-btn" href="contact.php">
+                                                                                <span class="pxl-btn-title">View
+                                                                                    Details</span> </a></div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div
+                                                                class="pxl-grid-item col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 ">
+                                                                <div class="pxl-post--inner wow fadeInUp"
+                                                                    data-wow-duration="1.2s"> <span
+                                                                        class="pxl-post--overlay"></span>
+                                                                    <div class="pxl-post--featured hover-imge-effect3">
+                                                                        <img loading="lazy" decoding="async" class=""
+                                                                            src="assets/img/7afeb2691212de359e4b5587c326a0db_projects-img5-1000x1000.jpg"
+                                                                            width="1000" height="1000"
+                                                                            alt="projects-img5" title="projects-img5" />
+                                                                    </div>
+                                                                    <h6 class="pxl-post--title"> Remote Workforce
+                                                                        Protection</h6>
+                                                                    <div class="pxl-post--holder">
+                                                                        <div class="pxl-item--content"> Ensure safe
+                                                                            remote access with encrypted VPN,
+                                                                            multi-factor authentication, and secure
+                                                                            endpoint controls.</div>
+                                                                        <div class="pxl-post--btn"> <a
+                                                                                class="pxl-item-btn" href="contact.php">
+                                                                                <span class="pxl-btn-title">View
+                                                                                    Details</span> </a></div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div
+                                                                class="pxl-grid-item col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 ">
+                                                                <div class="pxl-post--inner wow fadeInUp"
+                                                                    data-wow-duration="1.2s"> <span
+                                                                        class="pxl-post--overlay"></span>
+                                                                    <div class="pxl-post--featured hover-imge-effect3">
+                                                                        <img loading="lazy" decoding="async" class=""
+                                                                            src="assets/img/e41630f39912e16f1f6d76608b03326a_projects-img4-1000x1000.jpg"
+                                                                            width="1000" height="1000"
+                                                                            alt="projects-img4" title="projects-img4" />
+                                                                    </div>
+                                                                    <h6 class="pxl-post--title"> Real-Time Threat
+                                                                        Detection</h6>
+                                                                    <div class="pxl-post--holder">
+                                                                        <div class="pxl-item--content"> Detect and
+                                                                            neutralize threats before they breach with
+                                                                            our AI-powered real-time monitoring systems.
+                                                                        </div>
+                                                                        <div class="pxl-post--btn"> <a
+                                                                                class="pxl-item-btn" href="contact.php">
+                                                                                <span class="pxl-btn-title">View
+                                                                                    Details</span> </a></div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div> -->
+                                <!-- <div class="elementor-element elementor-element-90b2cbd e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-parent "
+                                    data-id="90b2cbd" data-element_type="container" data-e-type="container">
+                                    <div class="elementor-element elementor-element-b481731 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                        data-id="b481731" data-element_type="container" data-e-type="container">
+                                        <div class="elementor-element elementor-element-1f8bec8 elementor-widget elementor-widget-pxl_heading"
+                                            data-id="1f8bec8" data-element_type="widget" data-e-type="widget"
+                                            data-widget_type="pxl_heading.default">
+                                            <div class="elementor-widget-container">
+                                                <div id="pxl-pxl_heading-1f8bec8-5539"
+                                                    class="pxl-heading px-sub-title-default-style">
+                                                    <div class="pxl-heading--inner">
+                                                        <div class="pxl-item--subtitle px-sub-title-default wow fadeInUp"
+                                                            data-wow-delay="300ms"> <span class="pxl-item--subtext">
+                                                                Customer Success </span></div>
+                                                        <h2 class="pxl-item--title wow fadeInUp" data-wow-delay="400ms">
+                                                            Feedback from our clients</h2>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-c6db872 elementor-widget elementor-widget-pxl_text_editor"
+                                            data-id="c6db872" data-element_type="widget" data-e-type="widget"
+                                            data-widget_type="pxl_text_editor.default">
+                                            <div class="elementor-widget-container">
+                                                <div id="pxl_text_editor-c6db872-9909" class="pxl-image-wg"
+                                                    duration="1">
+                                                    <div class="pxl-text-editor">
+                                                        <div class="pxl-item--inner wow fadeInUp"
+                                                            data-wow-delay="500ms">
+                                                            <p>See how our cybersecurity solutions have helped
+                                                                businesses stay secure, compliant, and resilient
+                                                                against
+                                                                evolving digital threats.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="elementor-element elementor-element-14e828c e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                        data-id="14e828c" data-element_type="container" data-e-type="container">
+                                        <div class="elementor-element elementor-element-10b5b43 elementor-widget elementor-widget-pxl_testimonial_carousel"
+                                            data-id="10b5b43" data-element_type="widget" data-e-type="widget"
+                                            data-widget_type="pxl_testimonial_carousel.default">
+                                            <div class="elementor-widget-container">
+                                                <div
+                                                    class="pxl-swiper-sliders pxl-testimonial-carousel pxl-testimonial-carousel1">
+                                                    <div class="pxl-carousel-inner" data-center="false">
+                                                        <div class="pxl-swiper-container" dir="ltr"
+                                                            data-settings="{&quot;slide_direction&quot;:&quot;horizontal&quot;,&quot;slide_percolumn&quot;:&quot;1&quot;,&quot;slide_mode&quot;:&quot;slide&quot;,&quot;slides_to_show&quot;:&quot;5&quot;,&quot;slides_to_show_xxl&quot;:&quot;5&quot;,&quot;slides_to_show_lg&quot;:&quot;4&quot;,&quot;slides_to_show_md&quot;:&quot;2&quot;,&quot;slides_to_show_sm&quot;:&quot;1&quot;,&quot;slides_to_show_xs&quot;:&quot;1&quot;,&quot;slides_to_scroll&quot;:&quot;1&quot;,&quot;arrow&quot;:&quot;false&quot;,&quot;pagination&quot;:&quot;true&quot;,&quot;pagination_type&quot;:&quot;bullets&quot;,&quot;pagination_number&quot;:&quot;true&quot;,&quot;autoplay&quot;:&quot;&quot;,&quot;pause_on_hover&quot;:&quot;&quot;,&quot;pause_on_interaction&quot;:&quot;true&quot;,&quot;delay&quot;:5000,&quot;loop&quot;:&quot;true&quot;,&quot;speed&quot;:500,&quot;center&quot;:&quot;false&quot;}">
+                                                            <div class="pxl-swiper-wrapper">
+                                                                <div class="pxl-swiper-slide">
+                                                                    <div class="pxl-item--inner wow fadeInUp"
+                                                                        data-wow-delay="300ms">
+                                                                        <div class="pxl-item-author">
+                                                                            <div class="pxl-item--image"> <img
+                                                                                    loading="lazy" decoding="async"
+                                                                                    class=""
+                                                                                    src="assets/img/13020e0d55ca945b25afdc3753768172_team-img1-40x40.jpg"
+                                                                                    width="40" height="40"
+                                                                                    alt="team-img1" title="team-img1" />
+                                                                            </div>
+                                                                            <div class="pxl-holder-content">
+                                                                                <div class="pxl-item--title"> Sarah
+                                                                                    Johnson</div>
+                                                                                <div class="pxl-item--position">15
+                                                                                    January 2025</div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="pxl-item-image2"> <img
+                                                                                loading="lazy" decoding="async" class=""
+                                                                                src="assets/img/0fcdacf11756e724940a16e7e9dbf217_google-icon-30x30.png"
+                                                                                width="30" height="30" alt="google-icon"
+                                                                                title="google-icon" /></div>
+                                                                        <div class="pxl-inner-star">
+                                                                            <div
+                                                                                class="pxl-item--star pxl-item--5-star">
+                                                                                <i class="fa fa-star"></i> <i
+                                                                                    class="fa fa-star"></i> <i
+                                                                                    class="fa fa-star"></i> <i
+                                                                                    class="fa fa-star"></i> <i
+                                                                                    class="fa fa-star"></i>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="pxl-item--desc"> "CyberShield
+                                                                            helped
+                                                                            us identify critical vulnerabilities
+                                                                            before
+                                                                            attackers could exploit them. Their team
+                                                                            is
+                                                                            proactive and truly knows their craft."
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="pxl-swiper-slide">
+                                                                    <div class="pxl-item--inner wow fadeInUp"
+                                                                        data-wow-delay="300ms">
+                                                                        <div class="pxl-item-author">
+                                                                            <div class="pxl-item--image"> <img
+                                                                                    loading="lazy" decoding="async"
+                                                                                    class=""
+                                                                                    src="assets/img/397448043824b15fdf0f690bc24f2484_testimor2-40x40.jpg"
+                                                                                    width="40" height="40"
+                                                                                    alt="testimor2" title="testimor2" />
+                                                                            </div>
+                                                                            <div class="pxl-holder-content">
+                                                                                <div class="pxl-item--title"> Mark
+                                                                                    Davis
+                                                                                </div>
+                                                                                <div class="pxl-item--position">28
+                                                                                    December 2024</div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="pxl-item-image2"> <img
+                                                                                loading="lazy" decoding="async" class=""
+                                                                                src="assets/img/0fcdacf11756e724940a16e7e9dbf217_google-icon-30x30.png"
+                                                                                width="30" height="30" alt="google-icon"
+                                                                                title="google-icon" /></div>
+                                                                        <div class="pxl-inner-star">
+                                                                            <div
+                                                                                class="pxl-item--star pxl-item--5-star">
+                                                                                <i class="fa fa-star"></i> <i
+                                                                                    class="fa fa-star"></i> <i
+                                                                                    class="fa fa-star"></i> <i
+                                                                                    class="fa fa-star"></i> <i
+                                                                                    class="fa fa-star"></i>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="pxl-item--desc"> "Thanks to
+                                                                            their
+                                                                            24/7 monitoring, we sleep better knowing
+                                                                            our
+                                                                            systems are safe. They’ve prevented
+                                                                            several
+                                                                            potential breaches already."</div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="pxl-swiper-slide">
+                                                                    <div class="pxl-item--inner wow fadeInUp"
+                                                                        data-wow-delay="300ms">
+                                                                        <div class="pxl-item-author">
+                                                                            <div class="pxl-item--image"> <img
+                                                                                    loading="lazy" decoding="async"
+                                                                                    class=""
+                                                                                    src="assets/img/92872f88d49ba7915d6c370058bd159f_testimor3-40x40.jpg"
+                                                                                    width="40" height="40"
+                                                                                    alt="testimor3" title="testimor3" />
+                                                                            </div>
+                                                                            <div class="pxl-holder-content">
+                                                                                <div class="pxl-item--title"> Emily
+                                                                                    Carter</div>
+                                                                                <div class="pxl-item--position">10
+                                                                                    December 2024</div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="pxl-item-image2"> <img
+                                                                                loading="lazy" decoding="async" class=""
+                                                                                src="assets/img/0fcdacf11756e724940a16e7e9dbf217_google-icon-30x30.png"
+                                                                                width="30" height="30" alt="google-icon"
+                                                                                title="google-icon" /></div>
+                                                                        <div class="pxl-inner-star">
+                                                                            <div
+                                                                                class="pxl-item--star pxl-item--5-star">
+                                                                                <i class="fa fa-star"></i> <i
+                                                                                    class="fa fa-star"></i> <i
+                                                                                    class="fa fa-star"></i> <i
+                                                                                    class="fa fa-star"></i> <i
+                                                                                    class="fa fa-star"></i>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="pxl-item--desc"> "Their
+                                                                            penetration
+                                                                            testing gave us a clear picture of our
+                                                                            risks. The remediation plan was
+                                                                            actionable
+                                                                            and effective. Highly recommended."
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="pxl-swiper-slide">
+                                                                    <div class="pxl-item--inner wow fadeInUp"
+                                                                        data-wow-delay="300ms">
+                                                                        <div class="pxl-item-author">
+                                                                            <div class="pxl-item--image"> <img
+                                                                                    loading="lazy" decoding="async"
+                                                                                    class=""
+                                                                                    src="assets/img/8f4bb7e9a3ffb5af1b8cec9f36dba2aa_testimor4-40x40.jpg"
+                                                                                    width="40" height="40"
+                                                                                    alt="testimor4" title="testimor4" />
+                                                                            </div>
+                                                                            <div class="pxl-holder-content">
+                                                                                <div class="pxl-item--title"> James
+                                                                                    Wilson</div>
+                                                                                <div class="pxl-item--position">4
+                                                                                    December 2024</div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="pxl-item-image2"> <img
+                                                                                loading="lazy" decoding="async" class=""
+                                                                                src="assets/img/0fcdacf11756e724940a16e7e9dbf217_google-icon-30x30.png"
+                                                                                width="30" height="30" alt="google-icon"
+                                                                                title="google-icon" /></div>
+                                                                        <div class="pxl-inner-star">
+                                                                            <div
+                                                                                class="pxl-item--star pxl-item--5-star">
+                                                                                <i class="fa fa-star"></i> <i
+                                                                                    class="fa fa-star"></i> <i
+                                                                                    class="fa fa-star"></i> <i
+                                                                                    class="fa fa-star"></i> <i
+                                                                                    class="fa fa-star"></i>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="pxl-item--desc"> "We achieved
+                                                                            ISO
+                                                                            27001 compliance with their guidance.
+                                                                            The
+                                                                            team is knowledgeable, patient, and
+                                                                            delivers
+                                                                            excellent results every time."</div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="pxl-swiper-dots style-1"></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div> -->
+
+                                <!-- Promotion video Sec tion -->
+
+                                <!-- <div class="elementor-element elementor-element-d323ab0 e-con-full section-dark e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-parent "
+                                    data-id="d323ab0" data-element_type="container" data-e-type="container">
+                                    <div class="elementor-element elementor-element-d8dbbf9 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                        data-id="d8dbbf9" data-element_type="container" data-e-type="container">
+                                        <div class="elementor-element elementor-element-f8b4bd9 elementor-widget elementor-widget-pxl_video_player"
+                                            data-id="f8b4bd9" data-element_type="widget" data-e-type="widget"
+                                            data-widget_type="pxl_video_player.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="pxl-video-player pxl-video-player1 pxl-video-style1">
+                                                    <div class="pxl-video--inner">
+                                                        <div class="pxl-video--holder">
+                                                            <div class="pxl-video--imagebg bg-image"
+                                                                style="background-image: url(assets/img/962b59615ea9941096981b488adc16c4_video-bg1.jpg);">
+                                                            </div>
+                                                        </div>
+                                                        <div class="btn-video-wrap p-center"> <a
+                                                                class="btn-video style1 " data-wow-delay="ms"
+                                                                href="https://www.youtube.com/watch?v=SF4aHwxHtZ0"> <i
+                                                                    class="caseicon-play1"></i> </a></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div> -->
+
+                                <!-- Blog section -->
+
+                                <!-- <div class="elementor-element elementor-element-f533c26 e-flex e-con-boxed pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-parent "
+                                    data-id="f533c26" data-element_type="container" data-e-type="container">
+                                    <div class="e-con-inner">
+                                        <div class="elementor-element elementor-element-a42999c e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                            data-id="a42999c" data-element_type="container" data-e-type="container">
+                                            <div class="elementor-element elementor-element-f727383 elementor-widget elementor-widget-pxl_heading"
+                                                data-id="f727383" data-element_type="widget" data-e-type="widget"
+                                                data-widget_type="pxl_heading.default">
+                                                <div class="elementor-widget-container">
+                                                    <div id="pxl-pxl_heading-f727383-1430"
+                                                        class="pxl-heading px-sub-title-default-style">
+                                                        <div class="pxl-heading--inner">
+                                                            <div class="pxl-item--subtitle px-sub-title-default wow fadeInUp"
+                                                                data-wow-delay="300ms"> <span class="pxl-item--subtext">
+                                                                    latest Blogs </span></div>
+                                                            <h2 class="pxl-item--title wow fadeInUp"
+                                                                data-wow-delay="400ms"> Latest news and insights from
+                                                                our experts</h2>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="elementor-element elementor-element-80cc644 elementor-widget elementor-widget-pxl_text_editor"
+                                                data-id="80cc644" data-element_type="widget" data-e-type="widget"
+                                                data-widget_type="pxl_text_editor.default">
+                                                <div class="elementor-widget-container">
+                                                    <div id="pxl_text_editor-80cc644-4410" class="pxl-image-wg"
+                                                        duration="1">
+                                                        <div class="pxl-text-editor">
+                                                            <div class="pxl-item--inner wow fadeInUp"
+                                                                data-wow-delay="500ms">
+                                                                <p>Strengthen your network with advanced cyber security
+                                                                    services designed to prevent attacks and safeguard
+                                                                    your digital assets.</p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-6b49bdd e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                            data-id="6b49bdd" data-element_type="container" data-e-type="container">
+                                            <div class="elementor-element elementor-element-d7ce5f9 pxl-post-layout-post-1 elementor-widget elementor-widget-pxl_post_grid"
+                                                data-id="d7ce5f9" data-element_type="widget" data-e-type="widget"
+                                                data-widget_type="pxl_post_grid.default">
+                                                <div class="elementor-widget-container">
+                                                    <div id="pxl_post_grid-d7ce5f9-2313"
+                                                        class="pxl-grid pxl-blog-grid pxl-blog-grid1"
+                                                        data-start-page="1" data-max-pages="3" data-total="7"
+                                                        data-perpage="3" data-next-link="index.php"
+                                                        data-layout="masonry">
+                                                        <div class="pxl-grid-inner pxl-grid-masonry row"
+                                                            data-gutter="15">
+                                                            <div
+                                                                class="grid-sizer col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
+                                                            </div>
+                                                            <div
+                                                                class="pxl-grid-item col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 zero-day">
+                                                                <div class="pxl-post--inner " data-wow-duration="1.2s">
+                                                                    <a class="pxl-inner-link" href="contact.php"></a>
+                                                                    <div class="pxl-post--featured hover-imge-effect3">
+                                                                        <img loading="lazy" decoding="async" class=""
+                                                                            src="assets/img/2647afa881005c0879fd77b5c6335306_blog-details6-1000x1000.jpg"
+                                                                            width="1000" height="1000"
+                                                                            alt="blog-details6" title="blog-details6" />
+                                                                    </div>
+                                                                    <div class="pxl-item-content">
+                                                                        <div class="pxl-item--tags pxl-post-list"> <a
+                                                                                href="contact.php"> Phishing </a></div>
+                                                                        <h4 class="pxl-post--title">Business Scotch
+                                                                            Security 2025: The Zero-Day Challenge</h4>
+                                                                        <div class="pxl-post-meta pxl-flex">
+                                                                            <div class="pxl-post--author pxl-flex">
+                                                                                <div class="pxl-author--img"> <img
+                                                                                        loading="lazy" decoding="async"
+                                                                                        src="assets/img/cb4348ddd30726352a62462e28a31972_author1-150x150.jpg"
+                                                                                        width="60" height="60"
+                                                                                        srcset="assets/img/cb4348ddd30726352a62462e28a31972_author1-150x150.jpg 2x"
+                                                                                        alt="Michael Carter"
+                                                                                        class="avatar avatar-60 wp-user-avatar wp-user-avatar-60 alignnone photo" />
+                                                                                </div>
+                                                                                <div class="pxl-author-meta"> Michael
+                                                                                    Carter</div>
+                                                                            </div>
+                                                                            <div class="pxl-item--date pxl-flex"> <i
+                                                                                    class="fal fa-calendar-alt"></i> 8
+                                                                                Oct 2025</div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div
+                                                                class="pxl-grid-item col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 phishing">
+                                                                <div class="pxl-post--inner " data-wow-duration="1.2s">
+                                                                    <a class="pxl-inner-link" href="contact.php"></a>
+                                                                    <div class="pxl-post--featured hover-imge-effect3">
+                                                                        <img loading="lazy" decoding="async" class=""
+                                                                            src="assets/img/c24637696eb3b060b7435b142d4e618d_blog-details7-1000x1000.jpg"
+                                                                            width="1000" height="1000"
+                                                                            alt="blog-details7" title="blog-details7" />
+                                                                    </div>
+                                                                    <div class="pxl-item-content">
+                                                                        <div class="pxl-item--tags pxl-post-list"> <a
+                                                                                href="contact.php"> Threat Detection
+                                                                            </a></div>
+                                                                        <h4 class="pxl-post--title">Latest Zero-Day
+                                                                            Vulnerabilities Every Business Should Know
+                                                                        </h4>
+                                                                        <div class="pxl-post-meta pxl-flex">
+                                                                            <div class="pxl-post--author pxl-flex">
+                                                                                <div class="pxl-author--img"> <img
+                                                                                        loading="lazy" decoding="async"
+                                                                                        src="assets/img/cb4348ddd30726352a62462e28a31972_author1-150x150.jpg"
+                                                                                        width="60" height="60"
+                                                                                        srcset="assets/img/cb4348ddd30726352a62462e28a31972_author1-150x150.jpg 2x"
+                                                                                        alt="Michael Carter"
+                                                                                        class="avatar avatar-60 wp-user-avatar wp-user-avatar-60 alignnone photo" />
+                                                                                </div>
+                                                                                <div class="pxl-author-meta"> Michael
+                                                                                    Carter</div>
+                                                                            </div>
+                                                                            <div class="pxl-item--date pxl-flex"> <i
+                                                                                    class="fal fa-calendar-alt"></i> 8
+                                                                                Oct 2025</div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div
+                                                                class="pxl-grid-item col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 cybersecurity">
+                                                                <div class="pxl-post--inner " data-wow-duration="1.2s">
+                                                                    <a class="pxl-inner-link" href="contact.php"></a>
+                                                                    <div class="pxl-post--featured hover-imge-effect3">
+                                                                        <img loading="lazy" decoding="async" class=""
+                                                                            src="assets/img/11f58ca208bd18141a6d042d06021f4c_blog-details5-1000x1000.jpg"
+                                                                            width="1000" height="1000"
+                                                                            alt="blog-details5" title="blog-details5" />
+                                                                    </div>
+                                                                    <div class="pxl-item-content">
+                                                                        <div class="pxl-item--tags pxl-post-list"> <a
+                                                                                href="contact.php"> Zero-Day </a></div>
+                                                                        <h4 class="pxl-post--title">Phishing Scams on
+                                                                            the Rise: How to Protect Your Team</h4>
+                                                                        <div class="pxl-post-meta pxl-flex">
+                                                                            <div class="pxl-post--author pxl-flex">
+                                                                                <div class="pxl-author--img"> <img
+                                                                                        loading="lazy" decoding="async"
+                                                                                        src="assets/img/cb4348ddd30726352a62462e28a31972_author1-150x150.jpg"
+                                                                                        width="60" height="60"
+                                                                                        srcset="assets/img/cb4348ddd30726352a62462e28a31972_author1-150x150.jpg 2x"
+                                                                                        alt="Michael Carter"
+                                                                                        class="avatar avatar-60 wp-user-avatar wp-user-avatar-60 alignnone photo" />
+                                                                                </div>
+                                                                                <div class="pxl-author-meta"> Michael
+                                                                                    Carter</div>
+                                                                            </div>
+                                                                            <div class="pxl-item--date pxl-flex"> <i
+                                                                                    class="fal fa-calendar-alt"></i> 8
+                                                                                Oct 2025</div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div> -->
+                                <div class="elementor-element elementor-element-deae1ec e-con-full section-dark e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-parent "
+                                    data-id="deae1ec" data-element_type="container" data-e-type="container"
+                                    data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+                                    <div class="elementor-element elementor-element-390eaea elementor-absolute elementor-hidden-mobile elementor-widget elementor-widget-pxl_image"
+                                        data-id="390eaea" data-element_type="widget" data-e-type="widget"
+                                        data-settings="{&quot;_position&quot;:&quot;absolute&quot;}"
+                                        data-widget_type="pxl_image.default">
+                                        <div class="elementor-widget-container">
+                                            <div id="pxl_image-390eaea-2285"
+                                                class="pxl-image-single  style-default wow zoomOut"
+                                                data-wow-delay="300ms">
+                                                <div class="pxl-item--inner " data-wow-delay="120ms">
+                                                    <div class="pxl-item--image " data-wow-delay="ms"
+                                                        data-parallax-value=""> <img src="assets/img/scotch-logo.svg"
+                                                            alt="Scotch Security"
+                                                            style="max-height: 60px; width: auto;" /></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="elementor-element elementor-element-77145cd e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                        data-id="77145cd" data-element_type="container" data-e-type="container">
+                                        <div class="elementor-element elementor-element-c9d38bf e-flex e-con-boxed pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                            data-id="c9d38bf" data-element_type="container" data-e-type="container">
+                                            <div class="e-con-inner">
+                                                <div class="elementor-element elementor-element-d0fc798 elementor-widget elementor-widget-pxl_text_editor"
+                                                    data-id="d0fc798" data-element_type="widget" data-e-type="widget"
+                                                    data-widget_type="pxl_text_editor.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div id="pxl_text_editor-d0fc798-3105" class="pxl-image-wg"
+                                                            duration="1">
+                                                            <div class="pxl-text-editor">
+                                                                <div class="pxl-item--inner wow fadeInRight"
+                                                                    data-wow-delay="300ms"> Need Expert Security &
+                                                                    Compliance Consulting?</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-0f34c0b elementor-widget elementor-widget-pxl_button"
+                                                    data-id="0f34c0b" data-element_type="widget" data-e-type="widget"
+                                                    data-widget_type="pxl_button.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div id="pxl-pxl_button-0f34c0b-7998"
+                                                            class="pxl-button pxl-atc-link wow fadeInLeft"
+                                                            data-wow-delay="300ms"> <a href="contact.php"
+                                                                class="btn pxl-icon-active btn-default wow fadeInLeft pxl-icon--left"
+                                                                data-wow-delay="300ms" data-onepage-offset=""> <span
+                                                                    class="pxl--btn-text" data-text="Contact Us">
+                                                                    Contact Us </span> <span class="pxl--text-wrap">
+                                                                    <span class="pxl--btn-text1">Contact Us</span>
+                                                                    <span class="pxl--btn-text2">Contact Us</span>
+                                                                </span>
+                                                            </a></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+                </main>
+            </div>
+        </div>
+    </div>
+</div><!-- #main -->
 
 <?php require_once 'footer.php'; ?>
