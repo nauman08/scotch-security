@@ -181,7 +181,7 @@ require_once 'header.php';
 
 
                                             </div>
-                                            <!-- <div class="elementor-element elementor-element-fb5fb9b e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                            <div class="elementor-element elementor-element-fb5fb9b e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
                                                 data-id="fb5fb9b" data-element_type="container" data-e-type="container">
                                                 <div class="elementor-element elementor-element-5468e34 elementor-widget elementor-widget-pxl_contact_form"
                                                     data-id="5468e34" data-element_type="widget" data-e-type="widget"
@@ -300,7 +300,7 @@ require_once 'header.php';
                                                         </div>
                                                     </div>
                                                 </div>
-                                            </div> -->
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
