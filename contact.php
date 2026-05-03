@@ -62,11 +62,12 @@ require_once 'header.php';
                                                         duration="1">
                                                         <div class="pxl-text-editor">
                                                             <div class="pxl-item--inner " data-wow-delay="ms">
-                                                                <p class="mb-0">Whether you have a question, a
-                                                                    suggestion, or just want to say hello, this is the
-                                                                    place to do it. Please fill out the form below with
-                                                                    your details and message, and we&#8217;ll get back
-                                                                    to you as soon as possible.</p>
+                                                                <p class="mb-0">If your organization is looking to
+                                                                    strengthen its cybersecurity posture or achieve
+                                                                    regulatory compliance, our team is ready to help.
+                                                                    We provide expert guidance and practical solutions
+                                                                    tailored to your business needs.
+                                                                </p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -98,6 +99,7 @@ require_once 'header.php';
                                                         </div>
                                                     </div>
                                                 </div>
+
                                                 <div class="elementor-element elementor-element-46fbe7d e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
                                                     data-id="46fbe7d" data-element_type="container"
                                                     data-e-type="container">
@@ -113,10 +115,10 @@ require_once 'header.php';
                                                                             class="pxl-item-link">
                                                                             <div class="pxl-item--icon"> <i
                                                                                     aria-hidden="true"
-                                                                                    class="fas fa-map-marker-alt"></i>
+                                                                                    class="fas fa-envelope"></i>
                                                                             </div>
                                                                             <div class="pxl-item--text el-empty">
-                                                                                <span>Office Location</span>
+                                                                                <span>Director Technical</span>
                                                                             </div>
                                                                         </a></div>
                                                                 </div>
@@ -132,7 +134,8 @@ require_once 'header.php';
                                                                     <div class="pxl-text-editor">
                                                                         <div class="pxl-item--inner "
                                                                             data-wow-delay="ms">
-                                                                            <p> 123 Cyber Street, Los Angeles, CA</p>
+                                                                            <a
+                                                                                href="mailto:sadaqat.ali@scotchsecurity.com">sadaqat.ali@scotchsecurity.com</a>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -147,9 +150,9 @@ require_once 'header.php';
                                                                             class="pxl-item-link">
                                                                             <div class="pxl-item--icon"> <i
                                                                                     aria-hidden="true"
-                                                                                    class="fas fa-phone-alt"></i></div>
+                                                                                    class="fas fa-envelope"></i></div>
                                                                             <div class="pxl-item--text el-empty">
-                                                                                <span>Call Us Directly</span>
+                                                                                <span>Director Operations</span>
                                                                             </div>
                                                                         </a></div>
                                                                 </div>
@@ -165,49 +168,20 @@ require_once 'header.php';
                                                                     <div class="pxl-text-editor">
                                                                         <div class="pxl-item--inner "
                                                                             data-wow-delay="ms">
-                                                                            <p>+1 123 456 78</p>
+                                                                            <a
+                                                                                href="mailto:salman.anjum@scotchsecurity.com">salman.anjum@scotchsecurity.com</a>
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                        <div class="elementor-element elementor-element-dc6784f elementor-widget elementor-widget-pxl_list"
-                                                            data-id="dc6784f" data-element_type="widget"
-                                                            data-e-type="widget" data-widget_type="pxl_list.default">
-                                                            <div class="elementor-widget-container">
-                                                                <div class="pxl-list pxl-list1 style-default">
-                                                                    <div class="pxl--item " data-wow-delay="ms"> <a
-                                                                            class="pxl-item-link">
-                                                                            <div class="pxl-item--icon"> <i
-                                                                                    aria-hidden="true"
-                                                                                    class="fas fa-envelope"></i></div>
-                                                                            <div class="pxl-item--text el-empty">
-                                                                                <span>Send a Message</span>
-                                                                            </div>
-                                                                        </a></div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="elementor-element elementor-element-68266e8 elementor-widget elementor-widget-pxl_text_editor"
-                                                            data-id="68266e8" data-element_type="widget"
-                                                            data-e-type="widget"
-                                                            data-widget_type="pxl_text_editor.default">
-                                                            <div class="elementor-widget-container">
-                                                                <div id="pxl_text_editor-68266e8-4124"
-                                                                    class="pxl-image-wg" duration="1">
-                                                                    <div class="pxl-text-editor">
-                                                                        <div class="pxl-item--inner "
-                                                                            data-wow-delay="ms">
-                                                                            <p>salman.anjum@scotchsecurity.com</p>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
+
                                                     </div>
                                                 </div>
+
+
                                             </div>
-                                            <div class="elementor-element elementor-element-fb5fb9b e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                            <!-- <div class="elementor-element elementor-element-fb5fb9b e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
                                                 data-id="fb5fb9b" data-element_type="container" data-e-type="container">
                                                 <div class="elementor-element elementor-element-5468e34 elementor-widget elementor-widget-pxl_contact_form"
                                                     data-id="5468e34" data-element_type="widget" data-e-type="widget"
@@ -326,7 +300,7 @@ require_once 'header.php';
                                                         </div>
                                                     </div>
                                                 </div>
-                                            </div>
+                                            </div> -->
                                         </div>
                                     </div>
                                 </div>

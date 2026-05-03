@@ -1,6 +1,7 @@
 <?php
 $pageTitle = 'SOC 2 Compliance - Scotch Security';
 $metaDescription = 'SOC 2 Compliance Consulting services. Help for SaaS and Tech companies.';
+$metaKeywords = '';
 require_once 'header.php';
 ?>
 

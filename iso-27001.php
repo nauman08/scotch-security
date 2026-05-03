@@ -1,6 +1,7 @@
 <?php
 $pageTitle = 'ISO 27001 Implementation - Scotch Security';
 $metaDescription = 'ISO 27001 Compliance and Implementation services for your ISMS.';
+$metaKeywords = '';
 require_once 'header.php';
 ?>
 

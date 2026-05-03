@@ -1446,7 +1446,7 @@ require_once 'header.php';
                                                                     </div>
                                                                     <div class="pxl-btn-section"> <a
                                                                             class="btn pxl-icon-active btn-default"
-                                                                            href="contact.php"> <span
+                                                                            href="hipaa-compliance.php"> <span
                                                                                 class="pxl--btn-text"
                                                                                 data-text="Learn More"> Learn More
                                                                             </span> <span class="pxl--text-wrap"> <span
@@ -1495,7 +1495,7 @@ require_once 'header.php';
                                                                         management and documentation.</div>
                                                                     <div class="pxl-btn-section"> <a
                                                                             class="btn pxl-icon-active btn-default"
-                                                                            href="contact.php"> <span
+                                                                            href="iso-27001.php"> <span
                                                                                 class="pxl--btn-text"
                                                                                 data-text="Learn More"> Learn More
                                                                             </span> <span class="pxl--text-wrap"> <span
@@ -1545,7 +1545,7 @@ require_once 'header.php';
                                                                         alignment with Trust Services Criteria.</div>
                                                                     <div class="pxl-btn-section"> <a
                                                                             class="btn pxl-icon-active btn-default"
-                                                                            href="contact.php"> <span
+                                                                            href="soc-2.php"> <span
                                                                                 class="pxl--btn-text"
                                                                                 data-text="Learn More"> Learn More
                                                                             </span> <span class="pxl--text-wrap"> <span
@@ -1598,7 +1598,7 @@ require_once 'header.php';
                                                                     </div>
                                                                     <div class="pxl-btn-section"> <a
                                                                             class="btn pxl-icon-active btn-default"
-                                                                            href="contact.php"> <span
+                                                                            href="hitrust.php"> <span
                                                                                 class="pxl--btn-text"
                                                                                 data-text="Learn More"> Learn More
                                                                             </span> <span class="pxl--text-wrap"> <span
@@ -1649,7 +1649,7 @@ require_once 'header.php';
                                                                     </div>
                                                                     <div class="pxl-btn-section"> <a
                                                                             class="btn pxl-icon-active btn-default"
-                                                                            href="contact.php"> <span
+                                                                            href="documentation-services.php"> <span
                                                                                 class="pxl--btn-text"
                                                                                 data-text="Learn More"> Learn More
                                                                             </span> <span class="pxl--text-wrap"> <span
@@ -1699,7 +1699,7 @@ require_once 'header.php';
                                                                         compliance and security posture.</div>
                                                                     <div class="pxl-btn-section"> <a
                                                                             class="btn pxl-icon-active btn-default"
-                                                                            href="contact.php"> <span
+                                                                            href="trust-security.php"> <span
                                                                                 class="pxl--btn-text"
                                                                                 data-text="Learn More"> Learn More
                                                                             </span> <span class="pxl--text-wrap"> <span
@@ -2023,77 +2023,7 @@ require_once 'header.php';
                                                             </span> </a></div>
                                                 </div>
                                             </div>
-                                            <div class="elementor-element elementor-element-eb1f6cb e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
-                                                data-id="eb1f6cb" data-element_type="container" data-e-type="container">
-                                                <div class="elementor-element elementor-element-1c217ab elementor-widget elementor-widget-pxl_text_editor"
-                                                    data-id="1c217ab" data-element_type="widget" data-e-type="widget"
-                                                    data-widget_type="pxl_text_editor.default">
-                                                    <div class="elementor-widget-container">
-                                                        <div id="pxl_text_editor-1c217ab-7946" class="pxl-image-wg"
-                                                            duration="1">
-                                                            <div class="pxl-text-editor">
-                                                                <div class="pxl-item--inner " data-wow-delay="ms">
-                                                                    <div class="me-3">Google Rating</div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-element elementor-element-1c17455 elementor-widget elementor-widget-pxl_text_editor"
-                                                    data-id="1c17455" data-element_type="widget" data-e-type="widget"
-                                                    data-widget_type="pxl_text_editor.default">
-                                                    <div class="elementor-widget-container">
-                                                        <div id="pxl_text_editor-1c17455-8626" class="pxl-image-wg"
-                                                            duration="1">
-                                                            <div class="pxl-text-editor">
-                                                                <div class="pxl-item--inner " data-wow-delay="ms">
-                                                                    <div class="me-3">
-                                                                        <div class="me-3">5.0</div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-element elementor-element-df3c6c1 elementor-widget elementor-widget-pxl_icon"
-                                                    data-id="df3c6c1" data-element_type="widget" data-e-type="widget"
-                                                    data-widget_type="pxl_icon.default">
-                                                    <div class="elementor-widget-container">
-                                                        <div class="pxl-icon-list pxl-icon1 style-default "
-                                                            data-wow-delay="ms"> <a
-                                                                class="elementor-repeater-item-e1ef7bc "> <i
-                                                                    aria-hidden="true" class="fas fa-star"></i> </a>
-                                                            <a class="elementor-repeater-item-1fbf14e "> <i
-                                                                    aria-hidden="true" class="fas fa-star"></i> </a>
-                                                            <a class="elementor-repeater-item-98ed77d "> <i
-                                                                    aria-hidden="true" class="fas fa-star"></i> </a>
-                                                            <a class="elementor-repeater-item-1685a7b "> <i
-                                                                    aria-hidden="true" class="fas fa-star"></i> </a>
-                                                            <a class="elementor-repeater-item-67aa573 "> <i
-                                                                    aria-hidden="true" class="fas fa-star"></i> </a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-element elementor-element-4c34b9c elementor-widget elementor-widget-pxl_text_editor"
-                                                    data-id="4c34b9c" data-element_type="widget" data-e-type="widget"
-                                                    data-widget_type="pxl_text_editor.default">
-                                                    <div class="elementor-widget-container">
-                                                        <div id="pxl_text_editor-4c34b9c-5360" class="pxl-image-wg"
-                                                            duration="1">
-                                                            <div class="pxl-text-editor">
-                                                                <div class="pxl-item--inner " data-wow-delay="ms">
-                                                                    <div class="me-3">
-                                                                        <div class="me-3">
-                                                                            <div class="me-3">Based on 23k Reviews
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
+
                                         </div>
                                         <div class="elementor-element elementor-element-9884016 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
                                             data-id="9884016" data-element_type="container" data-e-type="container">
