@@ -4,6 +4,88 @@ $metaDescription = 'Scotch Security is a leading provider of comprehensive cyber
 require_once 'header.php';
 ?>
 
+<style>
+    /* FORCE ROW TO BE FLEX GRID WITH STRETCH */
+    .pxl-equal-row {
+        display: flex !important;
+        align-items: stretch !important;
+    }
+
+    /* EACH COLUMN MUST STRETCH */
+    .pxl-equal-row>.e-con,
+    .pxl-equal-row>.elementor-element {
+        display: flex !important;
+        flex: 1 1 0;
+    }
+
+    /* MAKE INNER ELEMENTOR STRUCTURE FULL HEIGHT */
+    .pxl-equal-col {
+        display: flex !important;
+        width: 100%;
+    }
+
+    /* FORCE CARD TO STRETCH FULL HEIGHT */
+    .pxl-equal-col .elementor-widget-wrap,
+    .pxl-equal-col .elementor-widget-container,
+    .pxl-equal-col .pxl-icon-box {
+        display: flex !important;
+        flex-direction: column;
+        flex: 1;
+        height: 100%;
+    }
+
+    /* MAIN CARD FLEX STRUCTURE */
+    .pxl-equal-col .pxl-item-inner {
+        display: flex !important;
+        flex-direction: column;
+        flex: 1;
+        height: 100%;
+    }
+
+    /* PUSH BUTTON DOWN */
+    .pxl-equal-col .pxl-btn-section {
+        margin-top: auto;
+    }
+
+    /* SAFETY: ENSURE TEXT DOESN'T BREAK HEIGHT LOGIC */
+    .pxl-equal-col .pxl-meta-content {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+    }
+
+
+    .fixed-banner-height {
+        height: 320px;
+        /* adjust as needed */
+        max-height: 320px;
+        /* prevents expansion */
+        overflow: hidden;
+        /* prevents content spill */
+        display: flex;
+        align-items: stretch;
+    }
+
+    /* Ensure inner layout doesn't break fixed height */
+    .fixed-banner-height .pxl-banner-inner {
+        height: 100%;
+    }
+
+    /* Image handling inside fixed container */
+    .fixed-banner-height .pxl-item--img img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        /* keeps image nicely cropped */
+        display: block;
+    }
+
+    /* Optional: prevent text pushing height */
+    .fixed-banner-height .pxl-item-content {
+        overflow: hidden;
+    }
+</style>
+
 <div id="pxl-main">
     <div class="elementor-container">
         <div class="row pxl-content-wrap no-sidebar">
@@ -1328,7 +1410,7 @@ require_once 'header.php';
                                         </div>
                                         <div class="elementor-element elementor-element-11ef16e e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
                                             data-id="11ef16e" data-element_type="container" data-e-type="container">
-                                            <div class="elementor-element elementor-element-3843660 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                            <div class="pxl-equal-col pxl-equal-row elementor-element elementor-element-3843660 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
                                                 data-id="3843660" data-element_type="container" data-e-type="container">
                                                 <div class="elementor-element elementor-element-a090906 elementor-widget elementor-widget-pxl_icon_box"
                                                     data-id="a090906" data-element_type="widget" data-e-type="widget"
@@ -1378,7 +1460,7 @@ require_once 'header.php';
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="elementor-element elementor-element-9e13bb2 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                            <div class="pxl-equal-col pxl-equal-row elementor-element elementor-element-9e13bb2 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
                                                 data-id="9e13bb2" data-element_type="container" data-e-type="container">
                                                 <div class="elementor-element elementor-element-cfcd532 elementor-widget elementor-widget-pxl_icon_box"
                                                     data-id="cfcd532" data-element_type="widget" data-e-type="widget"
@@ -1427,7 +1509,7 @@ require_once 'header.php';
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="elementor-element elementor-element-f71f09a e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                            <div class="pxl-equal-col pxl-equal-row elementor-element elementor-element-f71f09a e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
                                                 data-id="f71f09a" data-element_type="container" data-e-type="container">
                                                 <div class="elementor-element elementor-element-9f41f7d elementor-widget elementor-widget-pxl_icon_box"
                                                     data-id="9f41f7d" data-element_type="widget" data-e-type="widget"
@@ -1480,7 +1562,7 @@ require_once 'header.php';
                                         </div>
                                         <div class="elementor-element elementor-element-962084b e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
                                             data-id="962084b" data-element_type="container" data-e-type="container">
-                                            <div class="elementor-element elementor-element-e4cc3fa e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                            <div class="pxl-equal-col pxl-equal-row elementor-element elementor-element-e4cc3fa e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
                                                 data-id="e4cc3fa" data-element_type="container" data-e-type="container">
                                                 <div class="elementor-element elementor-element-3593d8f elementor-widget elementor-widget-pxl_icon_box"
                                                     data-id="3593d8f" data-element_type="widget" data-e-type="widget"
@@ -1530,7 +1612,7 @@ require_once 'header.php';
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="elementor-element elementor-element-ee65e19 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                            <div class="pxl-equal-col pxl-equal-row elementor-element elementor-element-ee65e19 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
                                                 data-id="ee65e19" data-element_type="container" data-e-type="container">
                                                 <div class="elementor-element elementor-element-3ab5adc elementor-widget elementor-widget-pxl_icon_box"
                                                     data-id="3ab5adc" data-element_type="widget" data-e-type="widget"
@@ -1581,7 +1663,7 @@ require_once 'header.php';
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="elementor-element elementor-element-f574cc5 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                            <div class="pxl-equal-col pxl-equal-row elementor-element elementor-element-f574cc5 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
                                                 data-id="f574cc5" data-element_type="container" data-e-type="container">
                                                 <div class="elementor-element elementor-element-c6b1d62 elementor-widget elementor-widget-pxl_icon_box"
                                                     data-id="c6b1d62" data-element_type="widget" data-e-type="widget"
@@ -1634,7 +1716,7 @@ require_once 'header.php';
                                         </div>
                                     </div>
                                 </div>
-                                <!-- <div class="elementor-element elementor-element-294385c section-dark e-flex e-con-boxed pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-parent "
+                                <div class="elementor-element elementor-element-294385c section-dark e-flex e-con-boxed pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-parent "
                                     data-id="294385c" data-element_type="container" data-e-type="container"
                                     data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                                     <div class="e-con-inner">
@@ -1677,7 +1759,7 @@ require_once 'header.php';
                                         </div>
                                         <div class="elementor-element elementor-element-a7b6b69 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
                                             data-id="a7b6b69" data-element_type="container" data-e-type="container">
-                                            <div class="elementor-element elementor-element-347c724 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                            <div class="fixed-banner-height elementor-element elementor-element-347c724 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
                                                 data-id="347c724" data-element_type="container" data-e-type="container">
                                                 <div class="elementor-element elementor-element-b8ed88f elementor-widget elementor-widget-pxl_banner_box"
                                                     data-id="b8ed88f" data-element_type="widget" data-e-type="widget"
@@ -1694,7 +1776,8 @@ require_once 'header.php';
                                                                             <h3 class="pxl-item-title">Compliance
                                                                                 Program Development</h3>
                                                                             <div class="pxl-item-desc">Designing
-                                                                                structured compliance frameworks aligned
+                                                                                structured compliance frameworks
+                                                                                aligned
                                                                                 with HIPAA, ISO 27001, SOC 2, and
                                                                                 HITRUST requirements.</div>
                                                                         </div>
@@ -1716,7 +1799,7 @@ require_once 'header.php';
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="elementor-element elementor-element-e2036f3 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                            <div class="fixed-banner-height elementor-element elementor-element-e2036f3 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
                                                 data-id="e2036f3" data-element_type="container" data-e-type="container">
 
                                                 <div class="elementor-element elementor-element-a610694 elementor-widget elementor-widget-pxl_banner_box"
@@ -1734,9 +1817,12 @@ require_once 'header.php';
                                                                             <h3 class="pxl-item-title">Compliance
                                                                                 Readiness</h3>
                                                                             <div class="pxl-item-desc">Preparing
-                                                                                organizations for HIPAA, ISO 27001, SOC
-                                                                                2, and HITRUST audits through structured
-                                                                                assessments and gap remediation.</div>
+                                                                                organizations for HIPAA, ISO 27001,
+                                                                                SOC
+                                                                                2, and HITRUST audits through
+                                                                                structured
+                                                                                assessments and gap remediation.
+                                                                            </div>
                                                                         </div>
 
                                                                     </div>
@@ -1759,7 +1845,7 @@ require_once 'header.php';
                                             </div>
                                         </div>
                                     </div>
-                                </div> -->
+                                </div>
                                 <div class="elementor-element elementor-element-bf06e3e e-flex e-con-boxed pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-parent "
                                     data-id="bf06e3e" data-element_type="container" data-e-type="container">
                                     <div class="e-con-inner">

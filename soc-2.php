@@ -30,6 +30,71 @@ require_once 'header.php';
     href='assets/css/9803c2e1fd55b174a697905665a67697_post-2389.css?ver=1771992337' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-post-2390-css'
     href='assets/css/8a7d1f603b18da0f7ab648caf203521e_post-2390.css?ver=1771992337' type='text/css' media='all' />
+<style>
+    .pxl-grid-item {
+        display: flex;
+    }
+
+    .pxl-grid-item .elementor-widget-container {
+        display: flex;
+        width: 100%;
+    }
+
+    .pxl-icon-box1 {
+        display: flex;
+        width: 100%;
+    }
+
+    .pxl-item-inner {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        width: 100%;
+        min-height: 180px;
+        /* adjust height as needed */
+        text-align: center;
+    }
+
+    .pxl-item-title {
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        /* keeps text uniform */
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+
+
+
+    .fixed-banner-height {
+        height: 380px;
+        /* adjust as needed */
+        max-height: 380px;
+        /* prevents expansion */
+        overflow: hidden;
+        /* prevents content spill */
+        display: flex;
+        align-items: stretch;
+    }
+
+    /* Ensure inner layout doesn't break fixed height */
+    .fixed-banner-height .pxl-banner-inner {
+        height: 100%;
+    }
+
+    /* Image handling inside fixed container */
+    .fixed-banner-height .pxl-item--img img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        /* keeps image nicely cropped */
+        display: block;
+    }
+
+    /* Optional: prevent text pushing height */
+    .fixed-banner-height .pxl-item-content {
+        overflow: hidden;
+    }
+</style>
 <div id="pxl-page-title-default" class="pxl--parallax section-dark" data-stellar-background-ratio="0.5">
     <div class="container">
         <div class="row">
@@ -37,7 +102,7 @@ require_once 'header.php';
                 <div class="ptitle-content">
                     <h1 class="pxl-page-title">SOC 2 Compliance</h1>
                     <ul class="pxl-breadcrumb">
-                        <li><a class="breadcrumb-entry" href="services.php">Home</a></li>
+                        <li><a class="breadcrumb-entry" href="services.php">Services</a></li>
                         <li><span class="breadcrumb-entry">SOC 2 Compliance</span></li>
                     </ul>
                 </div>
@@ -778,7 +843,7 @@ require_once 'header.php';
                                             </div>
                                             <div class="elementor-element elementor-element-a7b6b69 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
                                                 data-id="a7b6b69" data-element_type="container" data-e-type="container">
-                                                <div class="elementor-element elementor-element-347c724 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                                <div class="fixed-banner-height elementor-element elementor-element-347c724 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
                                                     data-id="347c724" data-element_type="container"
                                                     data-e-type="container">
                                                     <div class="elementor-element elementor-element-b8ed88f elementor-widget elementor-widget-pxl_banner_box"
@@ -818,7 +883,7 @@ require_once 'header.php';
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="elementor-element elementor-element-e2036f3 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                                <div class="fixed-banner-height elementor-element elementor-element-e2036f3 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
                                                     data-id="e2036f3" data-element_type="container"
                                                     data-e-type="container">
 
@@ -878,9 +943,6 @@ require_once 'header.php';
                                                     <div id="pxl-pxl_heading-cd2af56-9563"
                                                         class="pxl-heading px-sub-title-default-style">
                                                         <div class="pxl-heading--inner">
-                                                            <div class="pxl-item--subtitle px-sub-title-default wow fadeInUp"
-                                                                data-wow-delay="300ms"> <span class="pxl-item--subtext">
-                                                                    Our Commitment </span></div>
                                                             <h2 class="pxl-item--title wow fadeInUp"
                                                                 data-wow-delay="500ms"> Our SOC 2 services</h2>
                                                         </div>
@@ -900,161 +962,193 @@ require_once 'header.php';
                                                         <div class="pxl-grid-inner pxl-grid-masonry row"
                                                             data-gutter="15">
 
-                                                            <div class="pxl-grid-item col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
+                                                            <div
+                                                                class="pxl-grid-item col-xl-3 col-lg-3 col-md-3 col-sm-3 col-3">
                                                                 <div class="elementor elementor-11">
-                                                            <div class="elementor-element elementor-element-f71f09a e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
-                                                                data-id="f71f09a" data-element_type="container"
-                                                                data-e-type="container">
-                                                                <div class="elementor-element elementor-element-9f41f7d elementor-widget elementor-widget-pxl_icon_box"
-                                                                    data-id="9f41f7d" data-element_type="widget"
-                                                                    data-e-type="widget"
-                                                                    data-widget_type="pxl_icon_box.default">
-                                                                    <div class="elementor-widget-container">
-                                                                        <div class="pxl-icon-box pxl-icon-box1">
-                                                                            <div class="pxl-item-inner wow fadeInRight"
-                                                                                data-wow-delay="300ms"
-                                                                                style="visibility: visible; animation-delay: 300ms; animation-name: fadeInRight;">
-                                                                                <div class="pxl-icon-overlay">
-                                                                                    <div class="pxl-item--icon wow fadeInRight"
+                                                                    <div class="elementor-element elementor-element-f71f09a e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                                                        data-id="f71f09a" data-element_type="container"
+                                                                        data-e-type="container">
+                                                                        <div class="elementor-element elementor-element-9f41f7d elementor-widget elementor-widget-pxl_icon_box"
+                                                                            data-id="9f41f7d" data-element_type="widget"
+                                                                            data-e-type="widget"
+                                                                            data-widget_type="pxl_icon_box.default">
+                                                                            <div class="elementor-widget-container">
+                                                                                <div class="pxl-icon-box pxl-icon-box1">
+                                                                                    <div class="pxl-item-inner wow fadeInRight"
                                                                                         data-wow-delay="300ms"
                                                                                         style="visibility: visible; animation-delay: 300ms; animation-name: fadeInRight;">
-                                                                                        <img decoding="async"
-                                                                                            width="512" height="512"
-                                                                                            src="assets/img/aab9395a540093fcd3f7d92e098f96de_fingerprint.png"
-                                                                                            class="attachment-full"
-                                                                                            alt=""
-                                                                                            srcset="assets/img/aab9395a540093fcd3f7d92e098f96de_fingerprint.png 512w, assets/img/a10e6dcdebf7e5340fcde2f7c4a49932_fingerprint-300x300.png 300w, assets/img/9c5683416ccfd019889bcb8b370cf20e_fingerprint-150x150.png 150w"
-                                                                                            sizes="(max-width: 512px) 100vw, 512px"
-                                                                                            loading="eager"></div>
-                                                                                </div>
-                                                                                <div class="pxl-meta-content wow scaleIn"
-                                                                                    data-wow-delay="300ms"
-                                                                                    style="visibility: visible; animation-delay: 300ms; animation-name: scaleIn;">
-                                                                                    <div class="pxl-item--icon wow fadeInRight"
-                                                                                        data-wow-delay="300ms"
-                                                                                        style="visibility: visible; animation-delay: 300ms; animation-name: fadeInRight;">
-                                                                                        <img loading="lazy"
-                                                                                            decoding="async" class=""
-                                                                                            src="assets/img/f75d2e9feb8f68bd3ad668ccd9220559_fingerprint-90x90.png"
-                                                                                            width="90" height="90"
-                                                                                            alt="fingerprint"
-                                                                                            title="fingerprint"></div>
-                                                                                    <h4 class="pxl-item-title"> SOC 2
-                                                                                        Implementation &amp;
-                                                                                        Readiness
-                                                                                    </h4>
-                                                                                    <div class="pxl-item-desc">
-                                                                                        Preparing organizations
-                                                                                        for SOC 2 audits through control
-                                                                                        design,
-                                                                                        readiness assessments, and
-                                                                                        continuous compliance
-                                                                                        alignment with Trust Services
-                                                                                        Criteria.</div>
-                                                                                    <div class="pxl-btn-section"> <a
-                                                                                            class="btn pxl-icon-active btn-default"
-                                                                                            href="contact.php"> <span
-                                                                                                class="pxl--btn-text"
-                                                                                                data-text="Learn More">
-                                                                                                Learn More
-                                                                                            </span> <span
-                                                                                                class="pxl--text-wrap">
-                                                                                                <span
-                                                                                                    class="pxl--btn-text1">Learn
-                                                                                                    More</span> <span
-                                                                                                    class="pxl--btn-text2">Learn
-                                                                                                    More</span> </span>
-                                                                                        </a></div>
+                                                                                        <div class="pxl-icon-overlay">
+                                                                                            <div class="pxl-item--icon wow fadeInRight"
+                                                                                                data-wow-delay="300ms"
+                                                                                                style="visibility: visible; animation-delay: 300ms; animation-name: fadeInRight;">
+                                                                                                <img decoding="async"
+                                                                                                    width="512"
+                                                                                                    height="512"
+                                                                                                    src="assets/img/aab9395a540093fcd3f7d92e098f96de_fingerprint.png"
+                                                                                                    class="attachment-full"
+                                                                                                    alt=""
+                                                                                                    srcset="assets/img/aab9395a540093fcd3f7d92e098f96de_fingerprint.png 512w, assets/img/a10e6dcdebf7e5340fcde2f7c4a49932_fingerprint-300x300.png 300w, assets/img/9c5683416ccfd019889bcb8b370cf20e_fingerprint-150x150.png 150w"
+                                                                                                    sizes="(max-width: 512px) 100vw, 512px"
+                                                                                                    loading="eager">
+                                                                                            </div>
+                                                                                        </div>
+                                                                                        <div class="pxl-meta-content wow scaleIn"
+                                                                                            data-wow-delay="300ms"
+                                                                                            style="visibility: visible; animation-delay: 300ms; animation-name: scaleIn;">
+
+                                                                                            <h4 class="pxl-item-title">
+                                                                                                SOC 2 Gap Assessment
+                                                                                            </h4>
+                                                                                        </div>
+                                                                                    </div>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
                                                                     </div>
-                                                                </div>
-                                                            </div>
                                                                 </div>
                                                             </div>
 
                                                             <div
-                                                                class="pxl-grid-item col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
-                                                                <div class="pxl-item--inner " data-wow-delay="ms">
-                                                                    <div class="pxl-item--image">
-                                                                        <div class="pxl-img"> <img loading="lazy"
-                                                                                decoding="async" class=""
-                                                                                src="assets/img/dca0042d6d8502f5f689423b5ae5d5e8_team-img2.jpg"
-                                                                                width="500" height="500" alt="team-img2"
-                                                                                title="team-img2" /></div>
-                                                                    </div>
-                                                                    <div class="pxl-item-content">
-                                                                        <h4 class="pxl-item--title"> Sarah Johnson</h4>
-                                                                        <div class="pxl-item--position">Lead Threat
-                                                                            Analyst</div>
-                                                                        <div class="pxl-social--wrap">
-                                                                            <div class="pxl-social--icon"> <a href="#"
-                                                                                    target="_blank"><i
-                                                                                        class="fab fa-linkedin"></i></a>
-                                                                                <a href="#" target="_blank"><i
-                                                                                        class="fab fa-twitter"></i></a>
-                                                                                <a href="#" target="_blank"><i
-                                                                                        class="fab fa-github"></i></a>
+                                                                class="pxl-grid-item col-xl-3 col-lg-3 col-md-3 col-sm-3 col-3">
+                                                                <div class="elementor elementor-11">
+                                                                    <div class="elementor-element elementor-element-f71f09a e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                                                        data-id="f71f09a" data-element_type="container"
+                                                                        data-e-type="container">
+                                                                        <div class="elementor-element elementor-element-9f41f7d elementor-widget elementor-widget-pxl_icon_box"
+                                                                            data-id="9f41f7d" data-element_type="widget"
+                                                                            data-e-type="widget"
+                                                                            data-widget_type="pxl_icon_box.default">
+                                                                            <div class="elementor-widget-container">
+                                                                                <div class="pxl-icon-box pxl-icon-box1">
+                                                                                    <div class="pxl-item-inner wow fadeInRight"
+                                                                                        data-wow-delay="300ms"
+                                                                                        style="visibility: visible; animation-delay: 300ms; animation-name: fadeInRight;">
+                                                                                        <div class="pxl-icon-overlay">
+                                                                                            <div class="pxl-item--icon wow fadeInRight"
+                                                                                                data-wow-delay="300ms"
+                                                                                                style="visibility: visible; animation-delay: 300ms; animation-name: fadeInRight;">
+                                                                                                <img decoding="async"
+                                                                                                    width="512"
+                                                                                                    height="512"
+                                                                                                    src="assets/img/aab9395a540093fcd3f7d92e098f96de_fingerprint.png"
+                                                                                                    class="attachment-full"
+                                                                                                    alt=""
+                                                                                                    srcset="assets/img/aab9395a540093fcd3f7d92e098f96de_fingerprint.png 512w, assets/img/a10e6dcdebf7e5340fcde2f7c4a49932_fingerprint-300x300.png 300w, assets/img/9c5683416ccfd019889bcb8b370cf20e_fingerprint-150x150.png 150w"
+                                                                                                    sizes="(max-width: 512px) 100vw, 512px"
+                                                                                                    loading="eager">
+                                                                                            </div>
+                                                                                        </div>
+                                                                                        <div class="pxl-meta-content wow scaleIn"
+                                                                                            data-wow-delay="300ms"
+                                                                                            style="visibility: visible; animation-delay: 300ms; animation-name: scaleIn;">
+
+                                                                                            <h4 class="pxl-item-title">
+                                                                                                Security Policy &
+                                                                                                Procedure Development
+                                                                                            </h4>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
                                                                             </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                             </div>
+
                                                             <div
-                                                                class="pxl-grid-item col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
-                                                                <div class="pxl-item--inner " data-wow-delay="ms">
-                                                                    <div class="pxl-item--image">
-                                                                        <div class="pxl-img"> <img loading="lazy"
-                                                                                decoding="async" class=""
-                                                                                src="assets/img/b24f6e1cd076facac0984f920aa31550_team-img3.jpg"
-                                                                                width="500" height="500" alt="team-img3"
-                                                                                title="team-img3" /></div>
-                                                                    </div>
-                                                                    <div class="pxl-item-content">
-                                                                        <h4 class="pxl-item--title"> Thomas Bennett</h4>
-                                                                        <div class="pxl-item--position">Cloud Security
-                                                                            Specialist</div>
-                                                                        <div class="pxl-social--wrap">
-                                                                            <div class="pxl-social--icon"> <a href="#"
-                                                                                    target="_blank"><i
-                                                                                        class="fab fa-linkedin"></i></a>
-                                                                                <a href="#" target="_blank"><i
-                                                                                        class="fab fa-twitter"></i></a>
-                                                                                <a href="#" target="_blank"><i
-                                                                                        class="fab fa-github"></i></a>
+                                                                class="pxl-grid-item col-xl-3 col-lg-3 col-md-3 col-sm-3 col-3">
+                                                                <div class="elementor elementor-11">
+                                                                    <div class="elementor-element elementor-element-f71f09a e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                                                        data-id="f71f09a" data-element_type="container"
+                                                                        data-e-type="container">
+                                                                        <div class="elementor-element elementor-element-9f41f7d elementor-widget elementor-widget-pxl_icon_box"
+                                                                            data-id="9f41f7d" data-element_type="widget"
+                                                                            data-e-type="widget"
+                                                                            data-widget_type="pxl_icon_box.default">
+                                                                            <div class="elementor-widget-container">
+                                                                                <div class="pxl-icon-box pxl-icon-box1">
+                                                                                    <div class="pxl-item-inner wow fadeInRight"
+                                                                                        data-wow-delay="300ms"
+                                                                                        style="visibility: visible; animation-delay: 300ms; animation-name: fadeInRight;">
+                                                                                        <div class="pxl-icon-overlay">
+                                                                                            <div class="pxl-item--icon wow fadeInRight"
+                                                                                                data-wow-delay="300ms"
+                                                                                                style="visibility: visible; animation-delay: 300ms; animation-name: fadeInRight;">
+                                                                                                <img decoding="async"
+                                                                                                    width="512"
+                                                                                                    height="512"
+                                                                                                    src="assets/img/aab9395a540093fcd3f7d92e098f96de_fingerprint.png"
+                                                                                                    class="attachment-full"
+                                                                                                    alt=""
+                                                                                                    srcset="assets/img/aab9395a540093fcd3f7d92e098f96de_fingerprint.png 512w, assets/img/a10e6dcdebf7e5340fcde2f7c4a49932_fingerprint-300x300.png 300w, assets/img/9c5683416ccfd019889bcb8b370cf20e_fingerprint-150x150.png 150w"
+                                                                                                    sizes="(max-width: 512px) 100vw, 512px"
+                                                                                                    loading="eager">
+                                                                                            </div>
+                                                                                        </div>
+                                                                                        <div class="pxl-meta-content wow scaleIn"
+                                                                                            data-wow-delay="300ms"
+                                                                                            style="visibility: visible; animation-delay: 300ms; animation-name: scaleIn;">
+
+                                                                                            <h4 class="pxl-item-title">
+                                                                                                Documentation &
+                                                                                                Evidence Preparation
+                                                                                                Implementation
+                                                                                            </h4>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
                                                                             </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                             </div>
+
                                                             <div
-                                                                class="pxl-grid-item col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
-                                                                <div class="pxl-item--inner " data-wow-delay="ms">
-                                                                    <div class="pxl-item--image">
-                                                                        <div class="pxl-img"> <img loading="lazy"
-                                                                                decoding="async" class=""
-                                                                                src="assets/img/d09368b5f4b43c6e341904cfeca6f3b4_team-img4.jpg"
-                                                                                width="500" height="500" alt="team-img4"
-                                                                                title="team-img4" /></div>
-                                                                    </div>
-                                                                    <div class="pxl-item-content">
-                                                                        <h4 class="pxl-item--title"> Joshua Henry</h4>
-                                                                        <div class="pxl-item--position">Incident
-                                                                            Response Manager</div>
-                                                                        <div class="pxl-social--wrap">
-                                                                            <div class="pxl-social--icon"> <a href="#"
-                                                                                    target="_blank"><i
-                                                                                        class="fab fa-linkedin"></i></a>
-                                                                                <a href="#" target="_blank"><i
-                                                                                        class="fab fa-twitter"></i></a>
-                                                                                <a href="#" target="_blank"><i
-                                                                                        class="fab fa-github"></i></a>
+                                                                class="pxl-grid-item col-xl-3 col-lg-3 col-md-3 col-sm-3 col-3">
+                                                                <div class="elementor elementor-11">
+                                                                    <div class="elementor-element elementor-element-f71f09a e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                                                        data-id="f71f09a" data-element_type="container"
+                                                                        data-e-type="container">
+                                                                        <div class="elementor-element elementor-element-9f41f7d elementor-widget elementor-widget-pxl_icon_box"
+                                                                            data-id="9f41f7d" data-element_type="widget"
+                                                                            data-e-type="widget"
+                                                                            data-widget_type="pxl_icon_box.default">
+                                                                            <div class="elementor-widget-container">
+                                                                                <div class="pxl-icon-box pxl-icon-box1">
+                                                                                    <div class="pxl-item-inner wow fadeInRight"
+                                                                                        data-wow-delay="300ms"
+                                                                                        style="visibility: visible; animation-delay: 300ms; animation-name: fadeInRight;">
+                                                                                        <div class="pxl-icon-overlay">
+                                                                                            <div class="pxl-item--icon wow fadeInRight"
+                                                                                                data-wow-delay="300ms"
+                                                                                                style="visibility: visible; animation-delay: 300ms; animation-name: fadeInRight;">
+                                                                                                <img decoding="async"
+                                                                                                    width="512"
+                                                                                                    height="512"
+                                                                                                    src="assets/img/aab9395a540093fcd3f7d92e098f96de_fingerprint.png"
+                                                                                                    class="attachment-full"
+                                                                                                    alt=""
+                                                                                                    srcset="assets/img/aab9395a540093fcd3f7d92e098f96de_fingerprint.png 512w, assets/img/a10e6dcdebf7e5340fcde2f7c4a49932_fingerprint-300x300.png 300w, assets/img/9c5683416ccfd019889bcb8b370cf20e_fingerprint-150x150.png 150w"
+                                                                                                    sizes="(max-width: 512px) 100vw, 512px"
+                                                                                                    loading="eager">
+                                                                                            </div>
+                                                                                        </div>
+                                                                                        <div class="pxl-meta-content wow scaleIn"
+                                                                                            data-wow-delay="300ms"
+                                                                                            style="visibility: visible; animation-delay: 300ms; animation-name: scaleIn;">
+
+                                                                                            <h4 class="pxl-item-title">
+                                                                                                Audit Readiness Support
+                                                                                            </h4>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
                                                                             </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                             </div>
+
                                                             <div
                                                                 class="grid-sizer col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12">
                                                             </div>

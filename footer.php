@@ -38,7 +38,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="elementor-element elementor-element-83e8854 elementor-widget elementor-widget-pxl_icon"
+                                    <!-- <div class="elementor-element elementor-element-83e8854 elementor-widget elementor-widget-pxl_icon"
                                         data-id="83e8854" data-element_type="widget" data-e-type="widget"
                                         data-widget_type="pxl_icon.default">
                                         <div class="elementor-widget-container">
@@ -58,7 +58,7 @@
                                                     target="_blank"> <i aria-hidden="true" class="fab fa-youtube"></i>
                                                 </a></div>
                                         </div>
-                                    </div>
+                                    </div> -->
                                 </div>
                                 <div class="elementor-element elementor-element-1e9f72d e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
                                     data-id="1e9f72d" data-element_type="container" data-e-type="container">
@@ -130,37 +130,37 @@
                                             <div class="elementor-widget-container">
                                                 <div class="pxl-list pxl-list1 style2">
                                                     <div class="pxl--item " data-wow-delay="ms"> <a
-                                                            class="pxl-item-link" href="#">
+                                                            class="pxl-item-link" href="hipaa-compliance.php">
                                                             <div class="pxl-item--icon"></div>
                                                             <div class="pxl-item--text el-empty"> <span>HIPAA
                                                                     Compliance</span></div>
                                                         </a></div>
                                                     <div class="pxl--item " data-wow-delay="ms"> <a
-                                                            class="pxl-item-link" href="#">
+                                                            class="pxl-item-link" href="iso-27001.php">
                                                             <div class="pxl-item--icon"></div>
                                                             <div class="pxl-item--text el-empty"> <span>ISO 27001</span>
                                                             </div>
                                                         </a></div>
                                                     <div class="pxl--item " data-wow-delay="ms"> <a
-                                                            class="pxl-item-link" href="#">
+                                                            class="pxl-item-link" href="soc-2.php">
                                                             <div class="pxl-item--icon"></div>
-                                                            <div class="pxl-item--text el-empty"> <span>Identity &
-                                                                    Access</span></div>
+                                                            <div class="pxl-item--text el-empty"> <span> SOC 2
+                                                                    Compliance</span></div>
                                                         </a></div>
                                                     <div class="pxl--item " data-wow-delay="ms"> <a
-                                                            class="pxl-item-link" href="#">
+                                                            class="pxl-item-link" href="hitrust.php">
                                                             <div class="pxl-item--icon"></div>
                                                             <div class="pxl-item--text el-empty"> <span>HITRUST
                                                                     Certification</span></div>
                                                         </a></div>
                                                     <div class="pxl--item " data-wow-delay="ms"> <a
-                                                            class="pxl-item-link" href="#">
+                                                            class="pxl-item-link" href="documentation-services.php">
                                                             <div class="pxl-item--icon"></div>
-                                                            <div class="pxl-item--text el-empty"> <span>Backup &
-                                                                    Recovery</span></div>
+                                                            <div class="pxl-item--text el-empty"> <span>Documentation
+                                                                    Services</span></div>
                                                         </a></div>
                                                     <div class="pxl--item " data-wow-delay="ms"> <a
-                                                            class="pxl-item-link" href="#">
+                                                            class="pxl-item-link" href="trust-security.php">
                                                             <div class="pxl-item--icon"></div>
                                                             <div class="pxl-item--text el-empty"> <span>Trust &
                                                                     Security</span></div>
@@ -170,7 +170,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="elementor-element elementor-element-d050f92 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
+                                <!-- <div class="elementor-element elementor-element-d050f92 e-con-full e-flex pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-child "
                                     data-id="d050f92" data-element_type="container" data-e-type="container">
                                     <div class="elementor-element elementor-element-1daaeac elementor-widget elementor-widget-pxl_heading"
                                         data-id="1daaeac" data-element_type="widget" data-e-type="widget"
@@ -280,7 +280,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                         <div class="elementor-element elementor-element-02c640c section-dark e-flex e-con-boxed pxl-column-none pxl-row-scroll-none pxl-zoom-point-false pxl-section-overflow-visible pxl-section-fix-none pxl-full-content-with-space-none pxl-bg-color-none pxl-section-overlay-none e-con e-parent "
